@@ -63,8 +63,12 @@ export default function Home() {
       });
 
       if (!resp.ok) {
-        const errData = await resp.json();
-        throw new Error(errData.detail || errData.error || 'API request failed');
+        let errMsg = 'API request failed';
+        try {
+          const errData = await resp.json();
+          errMsg = errData.summary || errData.answer || errData.detail || errData.error || errMsg;
+        } catch (_) {}
+        throw new Error(errMsg);
       }
 
       const data = await resp.json();
