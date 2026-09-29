@@ -1,0 +1,2 @@
+total_test_cases,correct_answers,accuracy_pct,hallucination_rate_pct,retrieval_hit_rate_pct,avg_latency_sec
+25,19,76.0,0.0,80.0,5.09

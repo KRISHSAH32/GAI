@@ -1,0 +1,12 @@
+{
+  "name": "rag-improved-advisor",
+  "version": "2.0.0",
+  "private": true,
+  "description": "Vidyashilp University AI Academic Advisor - Improved RAG System",
+  "scripts": {
+    "dev": "npm --prefix app run dev",
+    "build": "npm --prefix app run build",
+    "start": "npm --prefix app run start",
+    "lint": "npm --prefix app run lint"
+  }
+}

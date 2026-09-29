@@ -1,0 +1,3975 @@
+[
+  {
+    "source_file": "course_catalogue.md",
+    "document_title": "University Course Catalogue (2026-2027)",
+    "section": "CS101: Introduction to Computer Science",
+    "course_codes": [
+      "CS101"
+    ],
+    "keywords": [
+      "CS101",
+      "cs101:",
+      "introduction",
+      "computer",
+      "science"
+    ],
+    "text": "[Course Catalogue > CS101: Introduction to Computer Science]\n### CS101: Introduction to Computer Science\n- **Credits**: 4\n- **Description**: Fundamental concepts of computation, problem-solving, algorithms, and computing systems.\n- **Prerequisites**: None\n- **Corequisites**: None\n- **Offering**: Fall 2026, Spring 2027",
+    "chunk_id": "chunk_0001",
+    "char_count": 319,
+    "estimated_tokens": 80
+  },
+  {
+    "source_file": "course_catalogue.md",
+    "document_title": "University Course Catalogue (2026-2027)",
+    "section": "CS102: Programming in Python",
+    "course_codes": [
+      "CS101",
+      "CS102"
+    ],
+    "keywords": [
+      "CS101",
+      "CS102",
+      "cs102:",
+      "programming",
+      "python"
+    ],
+    "text": "[Course Catalogue > CS102: Programming in Python]\n### CS102: Programming in Python\n- **Credits**: 4\n- **Description**: Procedural and object-oriented programming using Python, data structures, control flows, and file I/O.\n- **Prerequisites**: CS101\n- **Corequisites**: None\n- **Offering**: Fall 2026, Spring 2027",
+    "chunk_id": "chunk_0002",
+    "char_count": 312,
+    "estimated_tokens": 78
+  },
+  {
+    "source_file": "course_catalogue.md",
+    "document_title": "University Course Catalogue (2026-2027)",
+    "section": "MATH101: Linear Algebra & Calculus",
+    "course_codes": [
+      "MATH101"
+    ],
+    "keywords": [
+      "MATH101",
+      "math101:",
+      "linear",
+      "algebra",
+      "calculus"
+    ],
+    "text": "[Course Catalogue > MATH101: Linear Algebra & Calculus]\n### MATH101: Linear Algebra & Calculus\n- **Credits**: 4\n- **Description**: Matrices, vector spaces, eigenvalues, multivariable calculus, and optimization foundations.\n- **Prerequisites**: None\n- **Corequisites**: None\n- **Offering**: Fall 2026, Spring 2027",
+    "chunk_id": "chunk_0003",
+    "char_count": 312,
+    "estimated_tokens": 78
+  },
+  {
+    "source_file": "course_catalogue.md",
+    "document_title": "University Course Catalogue (2026-2027)",
+    "section": "MATH201: Probability & Statistics",
+    "course_codes": [
+      "MATH101",
+      "MATH201"
+    ],
+    "keywords": [
+      "MATH101",
+      "MATH201",
+      "math201:",
+      "probability",
+      "statistics"
+    ],
+    "text": "[Course Catalogue > MATH201: Probability & Statistics]\n### MATH201: Probability & Statistics\n- **Credits**: 4\n- **Description**: Discrete and continuous probability distributions, estimation, hypothesis testing, and regression analysis.\n- **Prerequisites**: MATH101\n- **Corequisites**: None\n- **Offering**: Fall 2026, Spring 2027",
+    "chunk_id": "chunk_0004",
+    "char_count": 329,
+    "estimated_tokens": 82
+  },
+  {
+    "source_file": "course_catalogue.md",
+    "document_title": "University Course Catalogue (2026-2027)",
+    "section": "CS201: Data Structures & Algorithms",
+    "course_codes": [
+      "CS102",
+      "CS201"
+    ],
+    "keywords": [
+      "CS102",
+      "CS201",
+      "cs201:",
+      "data",
+      "structures",
+      "algorithms"
+    ],
+    "text": "[Course Catalogue > CS201: Data Structures & Algorithms]\n### CS201: Data Structures & Algorithms\n- **Credits**: 4\n- **Description**: Arrays, linked lists, stacks, queues, trees, graphs, sorting, searching, and algorithmic complexity analysis.\n- **Prerequisites**: CS102\n- **Corequisites**: None\n- **Offering**: Fall 2026, Spring 2027",
+    "chunk_id": "chunk_0005",
+    "char_count": 333,
+    "estimated_tokens": 83
+  },
+  {
+    "source_file": "course_catalogue.md",
+    "document_title": "University Course Catalogue (2026-2027)",
+    "section": "CS202: Database Management Systems",
+    "course_codes": [
+      "CS102",
+      "CS202"
+    ],
+    "keywords": [
+      "CS102",
+      "CS202",
+      "cs202:",
+      "database",
+      "management",
+      "systems"
+    ],
+    "text": "[Course Catalogue > CS202: Database Management Systems]\n### CS202: Database Management Systems\n- **Credits**: 4\n- **Description**: Relational data models, SQL, normalization, indexing, transaction processing, and NoSQL databases.\n- **Prerequisites**: CS102\n- **Corequisites**: None\n- **Offering**: Fall 2026, Spring 2027",
+    "chunk_id": "chunk_0006",
+    "char_count": 320,
+    "estimated_tokens": 80
+  },
+  {
+    "source_file": "course_catalogue.md",
+    "document_title": "University Course Catalogue (2026-2027)",
+    "section": "CS301: Advanced Algorithms & Design",
+    "course_codes": [
+      "CS201",
+      "CS301"
+    ],
+    "keywords": [
+      "CS201",
+      "CS301",
+      "cs301:",
+      "advanced",
+      "algorithms",
+      "design"
+    ],
+    "text": "[Course Catalogue > CS301: Advanced Algorithms & Design]\n### CS301: Advanced Algorithms & Design\n- **Credits**: 4\n- **Description**: Greedy algorithms, dynamic programming, NP-completeness, graph algorithms, and approximation strategies.\n- **Prerequisites**: CS201\n- **Corequisites**: None\n- **Offering**: Fall 2026, Spring 2027",
+    "chunk_id": "chunk_0007",
+    "char_count": 328,
+    "estimated_tokens": 82
+  },
+  {
+    "source_file": "course_catalogue.md",
+    "document_title": "University Course Catalogue (2026-2027)",
+    "section": "DS101: Foundations of Data Science",
+    "course_codes": [
+      "CS102",
+      "DS101"
+    ],
+    "keywords": [
+      "CS102",
+      "DS101",
+      "ds101:",
+      "foundations",
+      "data",
+      "science"
+    ],
+    "text": "[Course Catalogue > DS101: Foundations of Data Science]\n### DS101: Foundations of Data Science\n- **Credits**: 4\n- **Description**: Data collection, exploratory data analysis, data wrangling, and basic machine learning workflows.\n- **Prerequisites**: CS102\n- **Corequisites**: None\n- **Offering**: Fall 2026, Spring 2027",
+    "chunk_id": "chunk_0008",
+    "char_count": 319,
+    "estimated_tokens": 80
+  },
+  {
+    "source_file": "course_catalogue.md",
+    "document_title": "University Course Catalogue (2026-2027)",
+    "section": "DS201: Data Visualization & Communication",
+    "course_codes": [
+      "DS101",
+      "DS201"
+    ],
+    "keywords": [
+      "DS101",
+      "DS201",
+      "ds201:",
+      "data",
+      "visualization",
+      "communication"
+    ],
+    "text": "[Course Catalogue > DS201: Data Visualization & Communication]\n### DS201: Data Visualization & Communication\n- **Credits**: 3\n- **Description**: Visual design principles, Matplotlib, Seaborn, Tableau, and storytelling with data.\n- **Prerequisites**: DS101\n- **Corequisites**: None\n- **Offering**: Fall 2026, Spring 2027",
+    "chunk_id": "chunk_0009",
+    "char_count": 319,
+    "estimated_tokens": 80
+  },
+  {
+    "source_file": "course_catalogue.md",
+    "document_title": "University Course Catalogue (2026-2027)",
+    "section": "DS301: Data Mining & Knowledge Discovery",
+    "course_codes": [
+      "CS201",
+      "DS301",
+      "DS301L",
+      "MATH201"
+    ],
+    "keywords": [
+      "CS201",
+      "DS301",
+      "DS301L",
+      "MATH201",
+      "ds301:",
+      "data",
+      "mining",
+      "knowledge",
+      "discovery"
+    ],
+    "text": "[Course Catalogue > DS301: Data Mining & Knowledge Discovery]\n### DS301: Data Mining & Knowledge Discovery\n- **Credits**: 4\n- **Description**: Association rule mining, clustering, anomaly detection, text mining, and big data architectures.\n- **Prerequisites**: CS201, MATH201\n- **Corequisites**: DS301L (Data Mining Lab)\n- **Offering**: Spring 2027",
+    "chunk_id": "chunk_0010",
+    "char_count": 348,
+    "estimated_tokens": 87
+  },
+  {
+    "source_file": "course_catalogue.md",
+    "document_title": "University Course Catalogue (2026-2027)",
+    "section": "DS301L: Data Mining Lab",
+    "course_codes": [
+      "CS201",
+      "DS301",
+      "DS301L"
+    ],
+    "keywords": [
+      "CS201",
+      "DS301",
+      "DS301L",
+      "ds301l:",
+      "data",
+      "mining"
+    ],
+    "text": "[Course Catalogue > DS301L: Data Mining Lab]\n### DS301L: Data Mining Lab\n- **Credits**: 1\n- **Description**: Hands-on practical lab for DS301 using PySpark and Scikit-Learn.\n- **Prerequisites**: CS201\n- **Corequisites**: DS301\n- **Offering**: Spring 2027",
+    "chunk_id": "chunk_0011",
+    "char_count": 254,
+    "estimated_tokens": 64
+  },
+  {
+    "source_file": "course_catalogue.md",
+    "document_title": "University Course Catalogue (2026-2027)",
+    "section": "AI301: Artificial Intelligence Principles",
+    "course_codes": [
+      "AI301",
+      "CS201",
+      "MATH201"
+    ],
+    "keywords": [
+      "AI301",
+      "CS201",
+      "MATH201",
+      "ai301:",
+      "artificial",
+      "intelligence",
+      "principles"
+    ],
+    "text": "[Course Catalogue > AI301: Artificial Intelligence Principles]\n### AI301: Artificial Intelligence Principles\n- **Credits**: 4\n- **Description**: Search algorithms, knowledge representation, logic, probabilistic reasoning, and search games.\n- **Prerequisites**: CS201, MATH201\n- **Corequisites**: None\n- **Offering**: Fall 2026, Spring 2027",
+    "chunk_id": "chunk_0012",
+    "char_count": 339,
+    "estimated_tokens": 85
+  },
+  {
+    "source_file": "course_catalogue.md",
+    "document_title": "University Course Catalogue (2026-2027)",
+    "section": "AI401: Advanced Machine Learning & Deep Learning",
+    "course_codes": [
+      "AI401",
+      "CS201",
+      "MATH201"
+    ],
+    "keywords": [
+      "AI401",
+      "CS201",
+      "MATH201",
+      "ai401:",
+      "advanced",
+      "machine",
+      "learning",
+      "deep",
+      "learning"
+    ],
+    "text": "[Course Catalogue > AI401: Advanced Machine Learning & Deep Learning]\n### AI401: Advanced Machine Learning & Deep Learning\n- **Credits**: 4\n- **Description**: Supervised/unsupervised learning, neural networks, CNNs, RNNs, Transformers, and optimization algorithms.\n- **Prerequisites**: CS201 AND MATH201 (Must have passed both with grade C or higher)\n- **Corequisites**: None\n- **Offering**: Spring 2027",
+    "chunk_id": "chunk_0013",
+    "char_count": 403,
+    "estimated_tokens": 101
+  },
+  {
+    "source_file": "course_catalogue.md",
+    "document_title": "University Course Catalogue (2026-2027)",
+    "section": "CS305: Deep Learning Systems & Hardware Acceleration",
+    "course_codes": [
+      "AI301",
+      "CS305"
+    ],
+    "keywords": [
+      "AI301",
+      "CS305",
+      "cs305:",
+      "deep",
+      "learning",
+      "systems",
+      "hardware",
+      "acceleration"
+    ],
+    "text": "[Course Catalogue > CS305: Deep Learning Systems & Hardware Acceleration]\n### CS305: Deep Learning Systems & Hardware Acceleration\n- **Credits**: 4\n- **Description**: GPU programming, CUDA, Distributed Training, Quantization, and LLM serving architectures.\n- **Prerequisites**: AI301\n- **Corequisites**: None\n- **Offering**: Fall 2026 ONLY (NOT offered in Spring 2027 or Summer 2027)",
+    "chunk_id": "chunk_0014",
+    "char_count": 383,
+    "estimated_tokens": 96
+  },
+  {
+    "source_file": "course_catalogue.md",
+    "document_title": "University Course Catalogue (2026-2027)",
+    "section": "DS405: Quantum Computing for Data Science",
+    "course_codes": [
+      "DS405",
+      "MATH201"
+    ],
+    "keywords": [
+      "DS405",
+      "MATH201",
+      "ds405:",
+      "quantum",
+      "computing",
+      "data",
+      "science"
+    ],
+    "text": "[Course Catalogue > DS405: Quantum Computing for Data Science]\n### DS405: Quantum Computing for Data Science\n- **Credits**: 4\n- **Description**: Qubits, quantum logic gates, Grover/Shor algorithms, and quantum machine learning.\n- **Prerequisites**: MATH201 AND Special Permission from Department Head\n- **Corequisites**: None\n- **Offering**: Spring 2027",
+    "chunk_id": "chunk_0015",
+    "char_count": 353,
+    "estimated_tokens": 88
+  },
+  {
+    "source_file": "course_catalogue.md",
+    "document_title": "University Course Catalogue (2026-2027)",
+    "section": "DS490: Senior Data Science Capstone Project",
+    "course_codes": [
+      "AI301",
+      "CS202",
+      "DS490"
+    ],
+    "keywords": [
+      "AI301",
+      "CS202",
+      "DS490",
+      "ds490:",
+      "senior",
+      "data",
+      "science",
+      "capstone",
+      "project"
+    ],
+    "text": "[Course Catalogue > DS490: Senior Data Science Capstone Project]\n### DS490: Senior Data Science Capstone Project\n- **Credits**: 6\n- **Description**: Year-long industry or research project applying full data science lifecycle.\n- **Prerequisites**: Minimum 100 completed credits, AI301, and CS202\n- **Corequisites**: None\n- **Offering**: Fall 2026, Spring 2027\n\n## Minor Courses",
+    "chunk_id": "chunk_0016",
+    "char_count": 376,
+    "estimated_tokens": 94
+  },
+  {
+    "source_file": "course_catalogue.md",
+    "document_title": "University Course Catalogue (2026-2027)",
+    "section": "LAW101: Introduction to Cyber Law & Intellectual Property",
+    "course_codes": [
+      "LAW101"
+    ],
+    "keywords": [
+      "LAW101",
+      "law101:",
+      "introduction",
+      "cyber",
+      "intellectual",
+      "property"
+    ],
+    "text": "[Course Catalogue > LAW101: Introduction to Cyber Law & Intellectual Property]\n### LAW101: Introduction to Cyber Law & Intellectual Property\n- **Credits**: 3\n- **Description**: IT Act, data protection regulations, patent law, and AI ethics.\n- **Prerequisites**: None\n- **Offering**: Fall 2026, Spring 2027",
+    "chunk_id": "chunk_0017",
+    "char_count": 305,
+    "estimated_tokens": 76
+  },
+  {
+    "source_file": "course_catalogue.md",
+    "document_title": "University Course Catalogue (2026-2027)",
+    "section": "ECON101: Principles of Microeconomics & FinTech",
+    "course_codes": [
+      "ECON101"
+    ],
+    "keywords": [
+      "ECON101",
+      "econ101:",
+      "principles",
+      "microeconomics",
+      "fintech"
+    ],
+    "text": "[Course Catalogue > ECON101: Principles of Microeconomics & FinTech]\n### ECON101: Principles of Microeconomics & FinTech\n- **Credits**: 3\n- **Description**: Demand/supply, market structures, digital currencies, and algorithmic trading.\n- **Prerequisites**: None\n- **Offering**: Fall 2026, Spring 2027",
+    "chunk_id": "chunk_0018",
+    "char_count": 300,
+    "estimated_tokens": 75
+  },
+  {
+    "source_file": "course_catalogue.md",
+    "document_title": "University Course Catalogue (2026-2027)",
+    "section": "FIN101: Corporate Finance & Financial Analytics",
+    "course_codes": [
+      "FIN101",
+      "MATH101"
+    ],
+    "keywords": [
+      "FIN101",
+      "MATH101",
+      "fin101:",
+      "corporate",
+      "finance",
+      "financial",
+      "analytics"
+    ],
+    "text": "[Course Catalogue > FIN101: Corporate Finance & Financial Analytics]\n### FIN101: Corporate Finance & Financial Analytics\n- **Credits**: 3\n- **Description**: Capital budgeting, valuation models, risk metrics, and financial modeling.\n- **Prerequisites**: MATH101\n- **Offering**: Fall 2026, Spring 2027",
+    "chunk_id": "chunk_0019",
+    "char_count": 299,
+    "estimated_tokens": 75
+  },
+  {
+    "source_file": "semester_offering.md",
+    "document_title": "Semester Course Offering Schedule (2026-2027)",
+    "section": "Semester Course Offering Schedule (2026 - 2027)",
+    "course_codes": [],
+    "keywords": [
+      "offering",
+      "semester",
+      "schedule",
+      "fall",
+      "spring",
+      "not offered"
+    ],
+    "text": "[Semester Course Offerings > Semester Course Offering Schedule (2026 - 2027)]\n# Semester Course Offering Schedule (2026 - 2027)",
+    "chunk_id": "chunk_0020",
+    "char_count": 127,
+    "estimated_tokens": 32
+  },
+  {
+    "source_file": "semester_offering.md",
+    "document_title": "Semester Course Offering Schedule (2026-2027)",
+    "section": "Fall 2026 Offered Courses",
+    "course_codes": [
+      "AI301",
+      "CS101",
+      "CS102",
+      "CS201",
+      "CS202",
+      "CS301",
+      "CS305",
+      "DS101",
+      "DS201",
+      "ECON101",
+      "FIN101",
+      "LAW101",
+      "MATH101",
+      "MATH201"
+    ],
+    "keywords": [
+      "offering",
+      "semester",
+      "schedule",
+      "fall",
+      "spring",
+      "not offered",
+      "AI301",
+      "CS101",
+      "CS102",
+      "CS201",
+      "CS202",
+      "CS301",
+      "CS305",
+      "DS101",
+      "DS201",
+      "ECON101",
+      "FIN101",
+      "LAW101",
+      "MATH101",
+      "MATH201"
+    ],
+    "text": "[Semester Course Offerings > Fall 2026 Offered Courses]\n## Fall 2026 Offered Courses\n- CS101: Introduction to Computer Science\n- CS102: Programming in Python\n- MATH101: Linear Algebra & Calculus\n- MATH201: Probability & Statistics\n- CS201: Data Structures & Algorithms\n- CS202: Database Management Systems\n- CS301: Advanced Algorithms & Design\n- DS101: Foundations of Data Science\n- DS201: Data Visualization & Communication\n- AI301: Artificial Intelligence Principles\n- CS305: Deep Learning Systems & Hardware Acceleration (OFFERED)\n- LAW101, ECON101, FIN101",
+    "chunk_id": "chunk_0021",
+    "char_count": 559,
+    "estimated_tokens": 140
+  },
+  {
+    "source_file": "semester_offering.md",
+    "document_title": "Semester Course Offering Schedule (2026-2027)",
+    "section": "Spring 2027 Offered Courses",
+    "course_codes": [
+      "AI301",
+      "AI401",
+      "CS101",
+      "CS102",
+      "CS201",
+      "CS202",
+      "CS301",
+      "DS101",
+      "DS301",
+      "DS301L",
+      "DS405",
+      "DS490",
+      "ECON101",
+      "FIN101",
+      "LAW101",
+      "MATH101",
+      "MATH201"
+    ],
+    "keywords": [
+      "offering",
+      "semester",
+      "schedule",
+      "fall",
+      "spring",
+      "not offered",
+      "AI301",
+      "AI401",
+      "CS101",
+      "CS102",
+      "CS201",
+      "CS202",
+      "CS301",
+      "DS101",
+      "DS301",
+      "DS301L",
+      "DS405",
+      "DS490",
+      "ECON101",
+      "FIN101",
+      "LAW101",
+      "MATH101",
+      "MATH201"
+    ],
+    "text": "[Semester Course Offerings > Spring 2027 Offered Courses]\n## Spring 2027 Offered Courses\n- CS101: Introduction to Computer Science\n- CS102: Programming in Python\n- MATH101: Linear Algebra & Calculus\n- MATH201: Probability & Statistics\n- CS201: Data Structures & Algorithms\n- CS202: Database Management Systems\n- CS301: Advanced Algorithms & Design\n- DS101: Foundations of Data Science\n- DS301: Data Mining & Knowledge Discovery (with DS301L)\n- AI301: Artificial Intelligence Principles\n- AI401: Advanced Machine Learning & Deep Learning (OFFERED)\n- DS405: Quantum Computing for Data Science\n- DS490: Senior Data Science Capstone Project\n- LAW101, ECON101, FIN101",
+    "chunk_id": "chunk_0022",
+    "char_count": 662,
+    "estimated_tokens": 166
+  },
+  {
+    "source_file": "semester_offering.md",
+    "document_title": "Semester Course Offering Schedule (2026-2027)",
+    "section": "Courses NOT Offered in Spring 2027",
+    "course_codes": [
+      "CS305"
+    ],
+    "keywords": [
+      "offering",
+      "semester",
+      "schedule",
+      "fall",
+      "spring",
+      "not offered",
+      "CS305"
+    ],
+    "text": "[Semester Course Offerings > Courses NOT Offered in Spring 2027]\n## Courses NOT Offered in Spring 2027\n- **CS305: Deep Learning Systems & Hardware Acceleration** (Offered ONLY in Fall semesters)",
+    "chunk_id": "chunk_0023",
+    "char_count": 194,
+    "estimated_tokens": 48
+  },
+  {
+    "source_file": "minor_courses.md",
+    "document_title": "Minor Courses for BTech Students",
+    "section": "Sheet: Law Minor",
+    "course_codes": [
+      "LAWB210",
+      "LAWC410",
+      "LAWE200",
+      "LAWE301",
+      "LAWM305",
+      "LAWM306"
+    ],
+    "keywords": [
+      "minor",
+      "sheet: law minor",
+      "law",
+      "design",
+      "psychology",
+      "economics",
+      "LAWB210",
+      "LAWC410",
+      "LAWE200",
+      "LAWE301",
+      "LAWM305",
+      "LAWM306"
+    ],
+    "text": "[Minor Offerings > Sheet: Law Minor (Part 1)]\n|  | Course Code | Course Title  | L | T | P | Credit | Semester | Pre-rq |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| 2023 Batch | LAWM305 | Regulating platform and Gig workers | 3 | 0 | 2 | 4 | 5 | NIL |  |  |\n|  | LAWE200 | Moral Philosophy and Justice | 2 | 0 | 0 | 2 | 6 | NIL |  |  |\n|  | LAWC410 | Introduction to Alternative Dispute Resolution Methods | 2 | 0 | 2 | 3 | 6 | NIL |  |  |\n|  | LAWB210 | Criminology and Victimology | 2 | 2 | 0 | 4 | 6 | NIL |  |  |\n|  | LAWM306 | Law Relating to start-ups | 3 | 1 | 0 | 4 | 7 | NIL |  |  |\n|  | LAWE301 | Intellectual Property Rights | 2 | 0 | 0 | 2 | 7 | NIL |  |  |",
+    "chunk_id": "chunk_0024",
+    "char_count": 702,
+    "estimated_tokens": 176
+  },
+  {
+    "source_file": "minor_courses.md",
+    "document_title": "Minor Courses for BTech Students",
+    "section": "Sheet: Law Minor",
+    "course_codes": [
+      "LAWM301",
+      "LAWM302",
+      "LAWP100",
+      "LAWS301"
+    ],
+    "keywords": [
+      "minor",
+      "sheet: law minor",
+      "law",
+      "design",
+      "psychology",
+      "economics",
+      "LAWM301",
+      "LAWM302",
+      "LAWP100",
+      "LAWS301"
+    ],
+    "text": "[Minor Offerings > Sheet: Law Minor (Part 2)]\n|  | Course Code | Course Title  | L | T | P | Credit | Semester | Pre-rq |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n|  |  | Don’t Know |  |  |  | 5 |  |  |  |  |\n| 2024 Batch | LAWP100 | Political Science I | 2 | 1 | 0 | 3 | 3 | NIL |  |  |\n|  | LAWS301 | Legal Methods | 2 | 0 | 2 | 3 | 3 | NIL |  |  |\n|  | LAWM301 | Constitution for Citizens | 2 | 2 | 0 | 4 | 4 | NIL |  |  |\n|  | LAWM302 | Basics of International Law | 3 | 1 | 0 | 4 | 5 | NIL |  |  |\n|  |  | TBA |  |  |  | 10 |  |  |  |  |",
+    "chunk_id": "chunk_0025",
+    "char_count": 575,
+    "estimated_tokens": 144
+  },
+  {
+    "source_file": "minor_courses.md",
+    "document_title": "Minor Courses for BTech Students",
+    "section": "Sheet: Law Minor",
+    "course_codes": [
+      "LAWP101",
+      "LAWS301"
+    ],
+    "keywords": [
+      "minor",
+      "sheet: law minor",
+      "law",
+      "design",
+      "psychology",
+      "economics",
+      "LAWP101",
+      "LAWS301"
+    ],
+    "text": "[Minor Offerings > Sheet: Law Minor (Part 3)]\n|  | Course Code | Course Title  | L | T | P | Credit | Semester | Pre-rq |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| 2025 Batch | LAWS301 | Legal Methods | 2 | 0 | 2 | 3 | 3 | NIL |  |  |\n|  | LAWP101 | Introduction to Political science | 3 | 1 | 0 | 4 | 2 | NIL |  |  |\n|  |  | TBA |  |  |  | 17 |  |  |  |  |\n| 2026 Batch |  | TBA |  |  |  | 24 |  |  |  |  |",
+    "chunk_id": "chunk_0026",
+    "char_count": 441,
+    "estimated_tokens": 110
+  },
+  {
+    "source_file": "minor_courses.md",
+    "document_title": "Minor Courses for BTech Students",
+    "section": "Sheet: Design Minor",
+    "course_codes": [
+      "CDES105",
+      "CDES203",
+      "CDES216",
+      "CDES402",
+      "CDES504",
+      "CDES704"
+    ],
+    "keywords": [
+      "minor",
+      "sheet: design minor",
+      "law",
+      "design",
+      "psychology",
+      "economics",
+      "CDES105",
+      "CDES203",
+      "CDES216",
+      "CDES402",
+      "CDES504",
+      "CDES704"
+    ],
+    "text": "[Minor Offerings > Sheet: Design Minor (Part 1)]\n| 2022 Batch | Course Code | Course Title  | L | T | P | Credit | Semester | Pre-rq |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- |\n|  | CDES105 | Appreciating and Deconstructing Art and Media | 3 | 0 | 0 | 3 | 3 | NIL |\n|  | CDES203 | Motion Graphic Design | 1 | 0 | 2 | 2 | 5 | NIL |\n|  | CDES504 | Environment Design and Communication | 1 | 1 | 0 | 2 | 5 | NIL |\n|  | CDES704 | Integrative Studio VI- Exhibition/Museum | 2 | 2 | 0 | 4 | 6 | NIL |\n|  | CDES402 | Interaction Design- UI UX | 1 | 3 | 0 | 4 | 6 | NIL |\n|  | CDES216 | Drawing and Moving Images | 1 | 1 | 0 | 2 | 7 | NIL |",
+    "chunk_id": "chunk_0027",
+    "char_count": 646,
+    "estimated_tokens": 162
+  },
+  {
+    "source_file": "minor_courses.md",
+    "document_title": "Minor Courses for BTech Students",
+    "section": "Sheet: Design Minor",
+    "course_codes": [
+      "CDES105",
+      "CDES219",
+      "CDES221",
+      "CDES402",
+      "CDES702",
+      "CDES712"
+    ],
+    "keywords": [
+      "minor",
+      "sheet: design minor",
+      "law",
+      "design",
+      "psychology",
+      "economics",
+      "CDES105",
+      "CDES219",
+      "CDES221",
+      "CDES402",
+      "CDES702",
+      "CDES712"
+    ],
+    "text": "[Minor Offerings > Sheet: Design Minor (Part 2)]\n| 2022 Batch | Course Code | Course Title  | L | T | P | Credit | Semester | Pre-rq |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- |\n|  | CDES712 | Designing Futures | 1 | 2 | 0 | 3 | 7 | (CDES402-Interaction Design- UI UX),\n|  |  | DON’T KNOW |  |  |  | 4 |  |  |\n| 2023 Batch | CDES105 | Appreciating and Deconstructing Art and Media | 3 | 0 | 0 | 3 | 3 | NIL |\n|  | CDES702 | Integrative Studio II- Sensemaking, Visualization | 2 | 2 | 0 | 4 | 4 | NIL |\n|  | CDES221 | Information Architecture and Design | 2 | 2 | 0 | 4 | 5 | NIL |\n|  | CDES219 | Elements of Sound | 2 | 2 | 0 | 4 | 6 | NIL |",
+    "chunk_id": "chunk_0028",
+    "char_count": 654,
+    "estimated_tokens": 164
+  },
+  {
+    "source_file": "minor_courses.md",
+    "document_title": "Minor Courses for BTech Students",
+    "section": "Sheet: Design Minor",
+    "course_codes": [
+      "CDES217",
+      "CDES218",
+      "CDES221",
+      "CDES227",
+      "CDES301",
+      "CDES312"
+    ],
+    "keywords": [
+      "minor",
+      "sheet: design minor",
+      "law",
+      "design",
+      "psychology",
+      "economics",
+      "CDES217",
+      "CDES218",
+      "CDES221",
+      "CDES227",
+      "CDES301",
+      "CDES312"
+    ],
+    "text": "[Minor Offerings > Sheet: Design Minor (Part 3)]\n| 2022 Batch | Course Code | Course Title  | L | T | P | Credit | Semester | Pre-rq |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- |\n|  | CDES301 | Sketch to Story | 2 | 2 | 0 | 4 | 6 | NIL |\n|  | CDES312 | Designing Futures | 2 | 2 | 2 | 5 | 7 | NIL |\n| 2024 Batch | CDES217 | Making with Reframed Media | 2 | 3 | 0 | 4 | 3 | NIL |\n|  | CDES218 | Frames and Frequencies | 2 | 2 | 0 | 4 | 4 | NIL |\n|  | CDES221 | Information Architecture and Design | 2 | 2 | 0 | 4 | 5 | NIL |\n|  | CDES227 | Drawing and Moving Image | 2 | 2 | 0 | 4 | 5 | NIL |",
+    "chunk_id": "chunk_0029",
+    "char_count": 603,
+    "estimated_tokens": 151
+  },
+  {
+    "source_file": "minor_courses.md",
+    "document_title": "Minor Courses for BTech Students",
+    "section": "Sheet: Design Minor",
+    "course_codes": [
+      "CDES217"
+    ],
+    "keywords": [
+      "minor",
+      "sheet: design minor",
+      "law",
+      "design",
+      "psychology",
+      "economics",
+      "CDES217"
+    ],
+    "text": "[Minor Offerings > Sheet: Design Minor (Part 4)]\n| 2022 Batch | Course Code | Course Title  | L | T | P | Credit | Semester | Pre-rq |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- |\n|  |  | TBD |  |  |  | 8 |  |  |\n| 2025 Batch | CDES217 | Making with Reframed Media | 2 | 2 | 0 | 4 | 3 | NIL |\n|  |  | TBD |  |  |  | 20 |  |  |\n| 2026 Batch |  | TBD |  |  |  | 24 |  |  |",
+    "chunk_id": "chunk_0030",
+    "char_count": 381,
+    "estimated_tokens": 95
+  },
+  {
+    "source_file": "minor_courses.md",
+    "document_title": "Minor Courses for BTech Students",
+    "section": "Sheet: Psychology",
+    "course_codes": [
+      "PSYC101",
+      "PSYC201",
+      "PSYC202",
+      "PSYC204",
+      "PSYC241",
+      "PSYC255"
+    ],
+    "keywords": [
+      "minor",
+      "sheet: psychology",
+      "law",
+      "design",
+      "psychology",
+      "economics",
+      "PSYC101",
+      "PSYC201",
+      "PSYC202",
+      "PSYC204",
+      "PSYC241",
+      "PSYC255"
+    ],
+    "text": "[Minor Offerings > Sheet: Psychology (Part 1)]\n|  | Course Code | Course Title  | L | T | P | Credit | Semester | Pre-rq |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| 2022 Batch | PSYC201 | Biological Psychology | 3 | 1 | 0 | 4 | 3 | Nil |\n|  | PSYC202 | Cognitive Psychology | 2 | 2 | 0 | 4 | 4 | PSYC101 |\n|  | PSYC255 | Psychopathology | 3 | 1 | 0 | 4 | 5 | Nil |\n|  | PSYC241 | Social Psychology\n | 2 | 2 | 0 | 4 | 6 | PSYC101 |\n|  | PSYC204 | Developmental Psychology | 3 | 1 | 0 | 4 | 6 | PSYC101 |",
+    "chunk_id": "chunk_0031",
+    "char_count": 518,
+    "estimated_tokens": 130
+  },
+  {
+    "source_file": "minor_courses.md",
+    "document_title": "Minor Courses for BTech Students",
+    "section": "Sheet: Psychology",
+    "course_codes": [
+      "PSYC101",
+      "PSYC104",
+      "PSYC201",
+      "PSYC202",
+      "PSYC241",
+      "PSYC303"
+    ],
+    "keywords": [
+      "minor",
+      "sheet: psychology",
+      "law",
+      "design",
+      "psychology",
+      "economics",
+      "PSYC101",
+      "PSYC104",
+      "PSYC201",
+      "PSYC202",
+      "PSYC241",
+      "PSYC303"
+    ],
+    "text": "[Minor Offerings > Sheet: Psychology (Part 2)]\n|  | Course Code | Course Title  | L | T | P | Credit | Semester | Pre-rq |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- |\n|  | PSYC303 | Psychological Testing and Measurement | 3 | 1 | 0 | 4 | 7 | PSYC101, \n| 2023 Batch | PSYC201 | Biological Psychology | 3 | 1 | 0 | 4 | 3 | Nil |\n|  | PSYC202 | Cognitive Psychology | 2 | 2 | 0 | 4 | 4 | PSYC101 |\nPSYC104 |  Lifespan Development I | 3 | 1 | 0 | 4 | 5 | PSYC101 |\n|  | PSYC241 | Social Psychology\n | 2 | 2 | 0 | 4 | 6 | PSYC101 |",
+    "chunk_id": "chunk_0032",
+    "char_count": 538,
+    "estimated_tokens": 134
+  },
+  {
+    "source_file": "minor_courses.md",
+    "document_title": "Minor Courses for BTech Students",
+    "section": "Sheet: Psychology",
+    "course_codes": [
+      "PSYC101",
+      "PSYC201",
+      "PSYC202",
+      "PSYC241",
+      "PSYC255",
+      "PSYC306"
+    ],
+    "keywords": [
+      "minor",
+      "sheet: psychology",
+      "law",
+      "design",
+      "psychology",
+      "economics",
+      "PSYC101",
+      "PSYC201",
+      "PSYC202",
+      "PSYC241",
+      "PSYC255",
+      "PSYC306"
+    ],
+    "text": "[Minor Offerings > Sheet: Psychology (Part 3)]\n|  | Course Code | Course Title  | L | T | P | Credit | Semester | Pre-rq |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- |\n|  | PSYC306 | Health Psychology | 3 | 1 | 0 | 4 | 6 | PSYC101, \n|  | PSYC255 | Psychopathology | 3 | 1 | 0 | 4 | 7 | Nil |\n| 2024 Batch | PSYC201/\nFoundations of Psychology I | 3 | 1 | 0 | 4 | 3 | Nil |\n|  | PSYC202 | Cognitive Psychology | 2 | 2 | 0 | 4 | 4 | PSYC101 |\n|  | PSYC241 | Social Psychology",
+    "chunk_id": "chunk_0033",
+    "char_count": 483,
+    "estimated_tokens": 121
+  },
+  {
+    "source_file": "minor_courses.md",
+    "document_title": "Minor Courses for BTech Students",
+    "section": "Sheet: Psychology",
+    "course_codes": [
+      "PSYC101",
+      "PSYC104",
+      "PSYC201",
+      "PSYC255",
+      "PSYC306"
+    ],
+    "keywords": [
+      "minor",
+      "sheet: psychology",
+      "law",
+      "design",
+      "psychology",
+      "economics",
+      "PSYC101",
+      "PSYC104",
+      "PSYC201",
+      "PSYC255",
+      "PSYC306"
+    ],
+    "text": "[Minor Offerings > Sheet: Psychology (Part 4)]\n|  | Course Code | Course Title  | L | T | P | Credit | Semester | Pre-rq |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- |\n | 2 | 2 | 0 | 4 | 5 | PSYC101 |\n|  | PSYC306 | Health Psychology | 3 | 1 | 0 | 4 | 6 | PSYC101, \n|  | PSYC104 | Lifespan Development I | 3 | 1 | 0 | 4 | 6 | Nil |\n|  | PSYC255 | Psychopathology | 3 | 1 | 0 | 4 | 7 | Nil |\n| 2025 Batch | PSYC201/\nFoundations of Psychology I | 3 | 1 | 0 | 4 | 3 | Nil |",
+    "chunk_id": "chunk_0034",
+    "char_count": 481,
+    "estimated_tokens": 120
+  },
+  {
+    "source_file": "minor_courses.md",
+    "document_title": "Minor Courses for BTech Students",
+    "section": "Sheet: Psychology",
+    "course_codes": [
+      "PSYC101",
+      "PSYC104",
+      "PSYC202",
+      "PSYC241",
+      "PSYC255",
+      "PSYC306"
+    ],
+    "keywords": [
+      "minor",
+      "sheet: psychology",
+      "law",
+      "design",
+      "psychology",
+      "economics",
+      "PSYC101",
+      "PSYC104",
+      "PSYC202",
+      "PSYC241",
+      "PSYC255",
+      "PSYC306"
+    ],
+    "text": "[Minor Offerings > Sheet: Psychology (Part 5)]\n|  | Course Code | Course Title  | L | T | P | Credit | Semester | Pre-rq |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- |\n|  | PSYC202 | Cognitive Psychology | 2 | 2 | 0 | 4 | 4 | PSYC101 |\n|  | PSYC241 | Social Psychology\n | 2 | 2 | 0 | 4 | 5 | PSYC101 |\n|  | PSYC306 | Health Psychology | 3 | 1 | 0 | 4 | 6 | PSYC101, \n|  | PSYC104 | Lifespan Development I | 3 | 1 | 0 | 4 | 6 | Nil |\n|  | PSYC255 | Psychopathology | 3 | 1 | 0 | 4 | 7 | Nil |",
+    "chunk_id": "chunk_0035",
+    "char_count": 502,
+    "estimated_tokens": 126
+  },
+  {
+    "source_file": "minor_courses.md",
+    "document_title": "Minor Courses for BTech Students",
+    "section": "Sheet: Psychology",
+    "course_codes": [
+      "PSYC101",
+      "PSYC201",
+      "PSYC202",
+      "PSYC241",
+      "PSYC306"
+    ],
+    "keywords": [
+      "minor",
+      "sheet: psychology",
+      "law",
+      "design",
+      "psychology",
+      "economics",
+      "PSYC101",
+      "PSYC201",
+      "PSYC202",
+      "PSYC241",
+      "PSYC306"
+    ],
+    "text": "[Minor Offerings > Sheet: Psychology (Part 6)]\n|  | Course Code | Course Title  | L | T | P | Credit | Semester | Pre-rq |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| 2026 Batch | PSYC201/\nFoundations of Psychology I | 3 | 1 | 0 | 4 | 3 | Nil |\n|  | PSYC202 | Cognitive Psychology | 2 | 2 | 0 | 4 | 4 | PSYC101 |\n|  | PSYC241 | Social Psychology\n | 2 | 2 | 0 | 4 | 5 | PSYC101 |\n|  | PSYC306 | Health Psychology | 3 | 1 | 0 | 4 | 6 | PSYC101, ",
+    "chunk_id": "chunk_0036",
+    "char_count": 457,
+    "estimated_tokens": 114
+  },
+  {
+    "source_file": "minor_courses.md",
+    "document_title": "Minor Courses for BTech Students",
+    "section": "Sheet: Psychology",
+    "course_codes": [
+      "PSYC104",
+      "PSYC255"
+    ],
+    "keywords": [
+      "minor",
+      "sheet: psychology",
+      "law",
+      "design",
+      "psychology",
+      "economics",
+      "PSYC104",
+      "PSYC255"
+    ],
+    "text": "[Minor Offerings > Sheet: Psychology (Part 7)]\n|  | Course Code | Course Title  | L | T | P | Credit | Semester | Pre-rq |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- |\n|  | PSYC104 | Lifespan Development I | 3 | 1 | 0 | 4 | 6 | Nil |\n|  | PSYC255 | Psychopathology | 3 | 1 | 0 | 4 | 7 | Nil |",
+    "chunk_id": "chunk_0037",
+    "char_count": 303,
+    "estimated_tokens": 76
+  },
+  {
+    "source_file": "minor_courses.md",
+    "document_title": "Minor Courses for BTech Students",
+    "section": "Sheet: Economics",
+    "course_codes": [
+      "ECON201",
+      "ECON207",
+      "ECON220",
+      "ECON325",
+      "ECON413"
+    ],
+    "keywords": [
+      "minor",
+      "sheet: economics",
+      "law",
+      "design",
+      "psychology",
+      "economics",
+      "ECON201",
+      "ECON207",
+      "ECON220",
+      "ECON325",
+      "ECON413"
+    ],
+    "text": "[Minor Offerings > Sheet: Economics (Part 1)]\n|  | Course Code | Course Title  | L | T | P | Credit | Semester | Pre-rq |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| 2022 Batch | ECON201 | Microeconomics | 3 | 1 | 0 | 4 | 3 | Nil |\n|  | ECON220 | Behavourial Economics | 3 | 1 | 0 | 4 | 4 | Nil |\n|  | ECON207 | Macroeconomics and Applicants to Indian Economy | 3 | 1 | 0 | 4 | 5 | Nil |\n|  | ECON413 | Industrial Economics\n | 3 | 1 | 0 | 4 | 6 | ECON201,\n|  | ECON325 | Public Economics | 3 | 1 | 0 | 4 | 6 | ECON201,",
+    "chunk_id": "chunk_0038",
+    "char_count": 532,
+    "estimated_tokens": 133
+  },
+  {
+    "source_file": "minor_courses.md",
+    "document_title": "Minor Courses for BTech Students",
+    "section": "Sheet: Economics",
+    "course_codes": [
+      "ECON201",
+      "ECON209",
+      "ECON315",
+      "ECON316"
+    ],
+    "keywords": [
+      "minor",
+      "sheet: economics",
+      "law",
+      "design",
+      "psychology",
+      "economics",
+      "ECON201",
+      "ECON209",
+      "ECON315",
+      "ECON316"
+    ],
+    "text": "[Minor Offerings > Sheet: Economics (Part 2)]\n|  | Course Code | Course Title  | L | T | P | Credit | Semester | Pre-rq |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- |\n|  | ECON316 | Digital Economics | 3 | 1 | 0 | 4 | 7 | ECON201 |\n| 2023 Batch | ECON201 | Microeconomics | 3 | 1 | 0 | 4 | 3 | Nil |\n|  | ECON209 | Macroeconomics I | 3 | 1 | 0 | 4 | 4 | Nil |\n|  | ECON316 | Digital Economics | 3 | 1 | 0 | 4 | 5 | ECON201 |\n|  | ECON315 | Indian Economy\n | 3 | 1 | 0 | 4 | 6 | ECON201,",
+    "chunk_id": "chunk_0039",
+    "char_count": 497,
+    "estimated_tokens": 124
+  },
+  {
+    "source_file": "minor_courses.md",
+    "document_title": "Minor Courses for BTech Students",
+    "section": "Sheet: Economics",
+    "course_codes": [
+      "ECON201",
+      "ECON208",
+      "ECON209",
+      "ECON301",
+      "ECON322"
+    ],
+    "keywords": [
+      "minor",
+      "sheet: economics",
+      "law",
+      "design",
+      "psychology",
+      "economics",
+      "ECON201",
+      "ECON208",
+      "ECON209",
+      "ECON301",
+      "ECON322"
+    ],
+    "text": "[Minor Offerings > Sheet: Economics (Part 3)]\n|  | Course Code | Course Title  | L | T | P | Credit | Semester | Pre-rq |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- |\n|  | ECON322 | Economics of Health and Education | 3 | 1 | 0 | 4 | 6 | ECON201 |\n|  | ECON301 | International Economics\n | 3 | 1 | 0 | 4 | 7 | ECON201, \n| 2024 Batch | No Students |  |  |  |  |  |  |  |\n| 2025 Batch | ECON208 | Microeconomics I | 3 | 1 | 0 | 4 | 3 | Nil |\n|  | ECON209 | Macroeconomics I | 3 | 1 | 0 | 4 | 4 | Nil |",
+    "chunk_id": "chunk_0040",
+    "char_count": 510,
+    "estimated_tokens": 128
+  },
+  {
+    "source_file": "minor_courses.md",
+    "document_title": "Minor Courses for BTech Students",
+    "section": "Sheet: Economics",
+    "course_codes": [
+      "ECON201",
+      "ECON208",
+      "ECON301",
+      "ECON315",
+      "ECON316",
+      "ECON346"
+    ],
+    "keywords": [
+      "minor",
+      "sheet: economics",
+      "law",
+      "design",
+      "psychology",
+      "economics",
+      "ECON201",
+      "ECON208",
+      "ECON301",
+      "ECON315",
+      "ECON316",
+      "ECON346"
+    ],
+    "text": "[Minor Offerings > Sheet: Economics (Part 4)]\n|  | Course Code | Course Title  | L | T | P | Credit | Semester | Pre-rq |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- |\n|  | ECON316 | Digital Economics | 3 | 1 | 0 | 4 | 5 | ECON201 |\n|  | ECON315 | Indian Economy\n | 3 | 1 | 0 | 4 | 6 | ECON201,\n|  | ECON346 | Financial Economics | 3 | 1 | 0 | 4 | 6 | ECON208,\n|  | ECON301 | International Economics\n | 3 | 1 | 0 | 4 | 7 | ECON201, ",
+    "chunk_id": "chunk_0041",
+    "char_count": 442,
+    "estimated_tokens": 110
+  },
+  {
+    "source_file": "minor_courses.md",
+    "document_title": "Minor Courses for BTech Students",
+    "section": "Sheet: Economics",
+    "course_codes": [
+      "ECON201",
+      "ECON208",
+      "ECON209",
+      "ECON315",
+      "ECON316",
+      "ECON346"
+    ],
+    "keywords": [
+      "minor",
+      "sheet: economics",
+      "law",
+      "design",
+      "psychology",
+      "economics",
+      "ECON201",
+      "ECON208",
+      "ECON209",
+      "ECON315",
+      "ECON316",
+      "ECON346"
+    ],
+    "text": "[Minor Offerings > Sheet: Economics (Part 5)]\n|  | Course Code | Course Title  | L | T | P | Credit | Semester | Pre-rq |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| 2026 Batch | ECON208 | Microeconomics I | 3 | 1 | 0 | 4 | 3 | Nil |\n|  | ECON209 | Macroeconomics I | 3 | 1 | 0 | 4 | 4 | Nil |\n|  | ECON316 | Digital Economics | 3 | 1 | 0 | 4 | 5 | ECON201 |\n|  | ECON315 | Indian Economy\n | 3 | 1 | 0 | 4 | 6 | ECON201,\n|  | ECON346 | Financial Economics | 3 | 1 | 0 | 4 | 6 | ECON208,",
+    "chunk_id": "chunk_0042",
+    "char_count": 500,
+    "estimated_tokens": 125
+  },
+  {
+    "source_file": "minor_courses.md",
+    "document_title": "Minor Courses for BTech Students",
+    "section": "Sheet: Economics",
+    "course_codes": [
+      "ECON201",
+      "ECON301"
+    ],
+    "keywords": [
+      "minor",
+      "sheet: economics",
+      "law",
+      "design",
+      "psychology",
+      "economics",
+      "ECON201",
+      "ECON301"
+    ],
+    "text": "[Minor Offerings > Sheet: Economics (Part 6)]\n|  | Course Code | Course Title  | L | T | P | Credit | Semester | Pre-rq |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- |\n|  | ECON301 | International Economics\n | 3 | 1 | 0 | 4 | 7 | ECON201, ",
+    "chunk_id": "chunk_0043",
+    "char_count": 249,
+    "estimated_tokens": 62
+  },
+  {
+    "source_file": "minor_courses.md",
+    "document_title": "Minor Courses for BTech Students",
+    "section": "Sheet: Finance",
+    "course_codes": [
+      "FINA201",
+      "FINA333",
+      "MGMT207",
+      "MGMT208",
+      "MGMT209",
+      "MGMT210"
+    ],
+    "keywords": [
+      "minor",
+      "sheet: finance",
+      "law",
+      "design",
+      "psychology",
+      "economics",
+      "FINA201",
+      "FINA333",
+      "MGMT207",
+      "MGMT208",
+      "MGMT209",
+      "MGMT210"
+    ],
+    "text": "[Minor Offerings > Sheet: Finance (Part 1)]\n| 2022 Batch | Sl.No. | Course Code | Course Title  | L | T | P | Credit | Semester | Pre-rq |  |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n|  | Finance Minor |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n|  | 1 | DON’T KNOW | Financial and Management Accounting (FAMA) | 2 | 1 | 0 | 3 | 3 | Nil |  |  |  |  |  |  |\n|  | 2 | FINA333 | Fiancial Institutions Markets and Services  | 2 | 1 | 0 | 3 | 4 | MGMT208 | Introduction to Financial Accounting   |  |  |  |  |  |\n|  | 3 | MGMT207 | Corporate Finance  | 2 | 1 | 0 | 3 | 5 | FAMA | Financial and management accounting |  |  |  |  |  |\n|  | 4 | MGMT209 | Financial Statement Anaylsis | 2 | 1 | 0 | 3 | 6 | FINA201 | Introduction to Financial Accounting   |  |  |  |  |  |\n|  | 5 | MGMT210 | Basics of INVESTMENT MANAGEMENT | 2 | 2 | 0 | 4 | 6 | FINA333 | Financial Instituation, Markets and Services  |  |  |  |  |  |",
+    "chunk_id": "chunk_0044",
+    "char_count": 981,
+    "estimated_tokens": 245
+  },
+  {
+    "source_file": "minor_courses.md",
+    "document_title": "Minor Courses for BTech Students",
+    "section": "Sheet: Finance",
+    "course_codes": [
+      "FINA201",
+      "FINA333",
+      "MGMT203",
+      "MGMT207",
+      "MGMT208",
+      "MGMT213",
+      "MGMT323",
+      "MKMT201"
+    ],
+    "keywords": [
+      "minor",
+      "sheet: finance",
+      "law",
+      "design",
+      "psychology",
+      "economics",
+      "FINA201",
+      "FINA333",
+      "MGMT203",
+      "MGMT207",
+      "MGMT208",
+      "MGMT213",
+      "MGMT323",
+      "MKMT201"
+    ],
+    "text": "[Minor Offerings > Sheet: Finance (Part 2)]\n| 2022 Batch | Sl.No. | Course Code | Course Title  | L | T | P | Credit | Semester | Pre-rq |  |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n|  | 6 | MGMT213 | Introduction To Fintech | 1 | 1 | 0 | 2 | 7 | FINA333 | Financial Instituation, Markets and Services  |  |  |  |  |  |\n|  | 7 | MGMT323 | Basics of Startup Finance  | 3 | 1 | 0 | 4 | 7 | MGMT207 | Corporate Finance  |  |  |  |  |  |\n|  | 8 | MGMT203 | Business Strategy Simulation | 0 | 0 | 0 | 2 | 7 | MKMT201/ MGMT207/ FINA201 | Marketing Management/ Corporate Finance/\n| 2023 Batch | Finance Minor |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n|  | 1 | MGMT208 | Introduction to Financial Accounting  | 2 | 1 | 0 | 3 | 3 | Nil |  |  |  |  |  |  |\n|  | 2 | FINA333 | Fiancial Institutions Markets and Services  | 2 | 1 | 0 | 3 | 4 | MGMT208 | Introduction to Financial Accounting   |  |  |  |  |  |",
+    "chunk_id": "chunk_0045",
+    "char_count": 972,
+    "estimated_tokens": 243
+  },
+  {
+    "source_file": "minor_courses.md",
+    "document_title": "Minor Courses for BTech Students",
+    "section": "Sheet: Finance",
+    "course_codes": [
+      "FINA333",
+      "MGMT207",
+      "MGMT208",
+      "MGMT209",
+      "MGMT210",
+      "MGMT213",
+      "MGMT307",
+      "MGMT323"
+    ],
+    "keywords": [
+      "minor",
+      "sheet: finance",
+      "law",
+      "design",
+      "psychology",
+      "economics",
+      "FINA333",
+      "MGMT207",
+      "MGMT208",
+      "MGMT209",
+      "MGMT210",
+      "MGMT213",
+      "MGMT307",
+      "MGMT323"
+    ],
+    "text": "[Minor Offerings > Sheet: Finance (Part 3)]\n| 2022 Batch | Sl.No. | Course Code | Course Title  | L | T | P | Credit | Semester | Pre-rq |  |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n|  | 3 | MGMT207 | Corporate Finance  | 2 | 1 | 0 | 3 | 5 | MGMT208 | Introduction to Financial Accounting   |  |  |  |  |  |\n|  | 4 | MGMT209 | Finacial Statement Analysis  | 2 | 1 | 0 | 3 | 6 | MGMT208 | Introduction to Financial Accounting   |  |  |  |  |  |\n|  | 5 | MGMT210 | Basics of Investment Management  | 2 | 2 | 0 | 4 | 6 | FINA333 | Fiancial Institutions Markets and Services  |  |  |  |  |  |\n|  | 6 | MGMT323 | Basics of Startup Finance  | 3 | 1 | 0 | 4 | 6 | MGMT207 | Corporate Finance  |  |  |  |  |  |\n|  | 7 | MGMT213 | Introduction To Fintech | 1 | 1 | 0 | 2 | 7 | Nil |  |  |  |  |  |  |\n|  | 8 | MGMT307 | Strategy & Decision Making | 1 | 1 | 0 | 2 | 7 | Nil |  |  |  |  |  |  |",
+    "chunk_id": "chunk_0046",
+    "char_count": 956,
+    "estimated_tokens": 239
+  },
+  {
+    "source_file": "minor_courses.md",
+    "document_title": "Minor Courses for BTech Students",
+    "section": "Sheet: Finance",
+    "course_codes": [
+      "FINA333",
+      "MGMT207",
+      "MGMT208",
+      "MGMT209",
+      "MGMT210"
+    ],
+    "keywords": [
+      "minor",
+      "sheet: finance",
+      "law",
+      "design",
+      "psychology",
+      "economics",
+      "FINA333",
+      "MGMT207",
+      "MGMT208",
+      "MGMT209",
+      "MGMT210"
+    ],
+    "text": "[Minor Offerings > Sheet: Finance (Part 4)]\n| 2022 Batch | Sl.No. | Course Code | Course Title  | L | T | P | Credit | Semester | Pre-rq |  |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| 2024 Batch | Finance Minor |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n|  | 1 | MGMT208 | Introduction to Financial Accounting  | 2 | 1 | 0 | 3 | 3 | Nil |  |  |  |  |  |  |\n|  | 2 | FINA333 | Fiancial Institutions Markets and Services  | 2 | 1 | 0 | 3 | 4 | MGMT208 | Introduction to Financial Accounting   |  |  |  |  |  |\n|  | 3 | MGMT207 | Corporate Finance  | 2 | 1 | 0 | 3 | 5 | Nil |  |  |  |  |  |  |\n|  | 4 | MGMT209 | Finacial Statement Analysis  | 2 | 1 | 0 | 3 | 5 | Nil |  |  |  |  |  |  |\n|  | 5 | MGMT210 | Basics of Investment Management  | 2 | 2 | 0 | 4 | 6 | FINA333 | Fiancial Institutions Markets and Services  |  |  |  |  |  |",
+    "chunk_id": "chunk_0047",
+    "char_count": 904,
+    "estimated_tokens": 226
+  },
+  {
+    "source_file": "minor_courses.md",
+    "document_title": "Minor Courses for BTech Students",
+    "section": "Sheet: Finance",
+    "course_codes": [
+      "MGMT207",
+      "MGMT213",
+      "MGMT307",
+      "MGMT323",
+      "MGMT330"
+    ],
+    "keywords": [
+      "minor",
+      "sheet: finance",
+      "law",
+      "design",
+      "psychology",
+      "economics",
+      "MGMT207",
+      "MGMT213",
+      "MGMT307",
+      "MGMT323",
+      "MGMT330"
+    ],
+    "text": "[Minor Offerings > Sheet: Finance (Part 5)]\n| 2022 Batch | Sl.No. | Course Code | Course Title  | L | T | P | Credit | Semester | Pre-rq |  |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n|  | 6 | MGMT323 | Basics of Startup Finance  | 3 | 1 | 0 | 4 | 6 | MGMT207 | Corporate Finance  |  |  |  |  |  |\n|  | 7 | MGMT213 | Introduction To Fintech | 1 | 1 | 0 | 2 | 7 | Nil |  |  |  |  |  |  |\n|  | 8 | MGMT307 | Strategy & Decision Making | 1 | 1 | 0 | 2 | 7 | Nil |  |  |  |  |  |  |\n| 2025 Batch | Finance Minor |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n|  | 1 | MGMT330 | Introduction to Financial Accounting (R ) | 3 | 1 | 0 | 4 | 3 | Nil |  |  |  |  |  |  |\n|  | 2 | New | Financial Institutions Markets & Services with Fintech (GIVE NEW NAME) |  |  |  | 4 | 4 |  |  |  |  |  |  |  |",
+    "chunk_id": "chunk_0048",
+    "char_count": 855,
+    "estimated_tokens": 214
+  },
+  {
+    "source_file": "minor_courses.md",
+    "document_title": "Minor Courses for BTech Students",
+    "section": "Sheet: Finance",
+    "course_codes": [
+      "FINA333",
+      "MGMT207",
+      "MGMT210",
+      "MGMT213",
+      "MGMT323"
+    ],
+    "keywords": [
+      "minor",
+      "sheet: finance",
+      "law",
+      "design",
+      "psychology",
+      "economics",
+      "FINA333",
+      "MGMT207",
+      "MGMT210",
+      "MGMT213",
+      "MGMT323"
+    ],
+    "text": "[Minor Offerings > Sheet: Finance (Part 6)]\n| 2022 Batch | Sl.No. | Course Code | Course Title  | L | T | P | Credit | Semester | Pre-rq |  |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n|  | 3 | New | Corporate Finance New Name |  |  |  | 4 | 5 |  |  |  |  |  |  |  |\n|  | 4 | MGMT210 | Basics of Investment Management | 2 | 2 | 0 | 4 | 6 | FINA333 | Fiancial Institutions Markets and Services  |  |  |  |  |  |\n|  | 5 | MGMT213 | Introduction To Fintech | 1 | 1 | 0 | 2 | 6 | Nil |  |  |  |  |  |  |\n|  | 6 | MGMT323 | Basics of Startup Finance | 2 | 2 | 0 | 4 | 7 | MGMT207 | Corporate Finance  |  |  |  |  |  |\n|  |  |  | TBD |  |  |  | 2 |  |  |  |  |  |  |  |  |\n| 2026 Batch |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |",
+    "chunk_id": "chunk_0049",
+    "char_count": 796,
+    "estimated_tokens": 199
+  },
+  {
+    "source_file": "minor_courses.md",
+    "document_title": "Minor Courses for BTech Students",
+    "section": "Sheet: Finance",
+    "course_codes": [
+      "MGMT330"
+    ],
+    "keywords": [
+      "minor",
+      "sheet: finance",
+      "law",
+      "design",
+      "psychology",
+      "economics",
+      "MGMT330"
+    ],
+    "text": "[Minor Offerings > Sheet: Finance (Part 7)]\n| 2022 Batch | Sl.No. | Course Code | Course Title  | L | T | P | Credit | Semester | Pre-rq |  |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n|  | Finance Minor |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n|  | 1 | MGMT330 | Introduction to Financial Accounting (R) | 3 | 1 | 0 | 4 | 3 |  |  |  |  |  |  |  |\n|  |  |  | TBD |  |  |  | 20 |  |  |  |  |  |  |  |  |",
+    "chunk_id": "chunk_0050",
+    "char_count": 475,
+    "estimated_tokens": 119
+  },
+  {
+    "source_file": "minor_courses.md",
+    "document_title": "Minor Courses for BTech Students",
+    "section": "Sheet: Marketing",
+    "course_codes": [
+      "MGMT302",
+      "MGMT304",
+      "MGMT314",
+      "MGMT320",
+      "MKTG201"
+    ],
+    "keywords": [
+      "minor",
+      "sheet: marketing",
+      "law",
+      "design",
+      "psychology",
+      "economics",
+      "MGMT302",
+      "MGMT304",
+      "MGMT314",
+      "MGMT320",
+      "MKTG201"
+    ],
+    "text": "[Minor Offerings > Sheet: Marketing (Part 1)]\n| 2022 Batch | Sl.No. | Course Code | Course Title  | L | T | P | Credit | Semester | Pre-rq |  |  |  |  |  |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n|  | Marketing Minor |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n|  | 1 | DON’T KNOW | Marketing Management | 2 | 1 | 0 | 3 | 3 | Nil |  |  |  |  |  |  |  |  |  |  |\n|  | 2 | MGMT302 | Digital and Ecommerce Marketing | 2 | 2 | 0 | 4 | 4 | MKTG201 | Introduction to digital business  |  |  |  |  |  |  |  |  |  |\n|  | 3 | MGMT304 | Integrated Marketing Communications | 2 | 1 | 0 | 3 | 5 | MKTG201 | Marketing management  |  |  |  |  |  |  |  |  |  |\n|  | 4 | MGMT314 | Sales and distribution management | 2 | 2 | 0 | 4 | 6 | MKTG201 | Marketing management  |  |  |  |  |  |  |  |  |  |\n|  | 5 | MGMT320 | Marketing Analytics | 1 | 1 | 0 | 2 | 7 | MKTG201 | Introduction to digital business  |  |  |  |  |  |  |  |  |  |",
+    "chunk_id": "chunk_0051",
+    "char_count": 1024,
+    "estimated_tokens": 256
+  },
+  {
+    "source_file": "minor_courses.md",
+    "document_title": "Minor Courses for BTech Students",
+    "section": "Sheet: Marketing",
+    "course_codes": [
+      "FINA201",
+      "MGMT203",
+      "MGMT207",
+      "MGMT211",
+      "MGMT302",
+      "MGMT305",
+      "MKMT201",
+      "MKTG201"
+    ],
+    "keywords": [
+      "minor",
+      "sheet: marketing",
+      "law",
+      "design",
+      "psychology",
+      "economics",
+      "FINA201",
+      "MGMT203",
+      "MGMT207",
+      "MGMT211",
+      "MGMT302",
+      "MGMT305",
+      "MKMT201",
+      "MKTG201"
+    ],
+    "text": "[Minor Offerings > Sheet: Marketing (Part 2)]\n| 2022 Batch | Sl.No. | Course Code | Course Title  | L | T | P | Credit | Semester | Pre-rq |  |  |  |  |  |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n|  | 6 | MGMT305 | Services Marketing | 2 | 1 | 0 | 3 | 7 | MKTG201 | Introduction to digital business  |  |  |  |  |  |  |  |  |  |\n|  | 7 | MGMT211 | Brand Management | 2 | 1 | 0 | 3 | 7 | MKTG201 | Introduction to digital business  |  |  |  |  |  |  |  |  |  |\n|  | 8 | MGMT203 | Business Strategy Simulation | 0 | 0 | 0 | 2 | 7 | MKMT201/  MGMT207/ FINA201 | Marketing Management/ Corporate Finance/\n| 2023 Batch | Marketing Minor |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n|  | 1 | MKTG201 | Marketing Management  | 2 | 1 | 0 | 3 | 3 | Nil |  |  |  |  |  |  |  |  |  |  |\n|  | 2 | MGMT302 | Digital and Ecommerce Marketing | 2 | 2 | 0 | 4 | 4 | MKTG201 | Introduction to digital business  |  |  |  |  |  |  |  |  |  |",
+    "chunk_id": "chunk_0052",
+    "char_count": 1028,
+    "estimated_tokens": 257
+  },
+  {
+    "source_file": "minor_courses.md",
+    "document_title": "Minor Courses for BTech Students",
+    "section": "Sheet: Marketing",
+    "course_codes": [
+      "MGMT211",
+      "MGMT304",
+      "MGMT305",
+      "MGMT307",
+      "MGMT314",
+      "MGMT320",
+      "MKTG201"
+    ],
+    "keywords": [
+      "minor",
+      "sheet: marketing",
+      "law",
+      "design",
+      "psychology",
+      "economics",
+      "MGMT211",
+      "MGMT304",
+      "MGMT305",
+      "MGMT307",
+      "MGMT314",
+      "MGMT320",
+      "MKTG201"
+    ],
+    "text": "[Minor Offerings > Sheet: Marketing (Part 3)]\n| 2022 Batch | Sl.No. | Course Code | Course Title  | L | T | P | Credit | Semester | Pre-rq |  |  |  |  |  |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n|  | 3 | MGMT304 | Integrated Marketing Communications | 2 | 1 | 0 | 3 | 5 | MKTG201 | Introduction to digital business  |  |  |  |  |  |  |  |  |  |\n|  | 4 | MGMT314 | Sales and Distribution Management  | 2 | 2 | 0 | 4 | 6 | MKTG201 | Introduction to digital business  |  |  |  |  |  |  |  |  |  |\n|  | 5 | MGMT305 | Services Marketing | 2 | 1 | 0 | 3 | 6 | MKTG201 | Introduction to digital business  |  |  |  |  |  |  |  |  |  |\n|  | 6 | MGMT211 | Brand Management | 2 | 1 | 0 | 3 | 6 | MKTG201 | Introduction to digital business  |  |  |  |  |  |  |  |  |  |\n|  | 7 | MGMT320 | Marketing Analytics | 1 | 1 | 0 | 2 | 7 | Nil |  |  |  |  |  |  |  |  |  |  |\n|  | 8 | MGMT307 | Strategy & Decision Making | 1 | 1 | 0 | 2 | 7 | Nil |  |  |  |  |  |  |  |  |  |  |",
+    "chunk_id": "chunk_0053",
+    "char_count": 1056,
+    "estimated_tokens": 264
+  },
+  {
+    "source_file": "minor_courses.md",
+    "document_title": "Minor Courses for BTech Students",
+    "section": "Sheet: Marketing",
+    "course_codes": [
+      "MGMT302",
+      "MGMT304",
+      "MGMT305",
+      "MGMT314",
+      "MKTG201"
+    ],
+    "keywords": [
+      "minor",
+      "sheet: marketing",
+      "law",
+      "design",
+      "psychology",
+      "economics",
+      "MGMT302",
+      "MGMT304",
+      "MGMT305",
+      "MGMT314",
+      "MKTG201"
+    ],
+    "text": "[Minor Offerings > Sheet: Marketing (Part 4)]\n| 2022 Batch | Sl.No. | Course Code | Course Title  | L | T | P | Credit | Semester | Pre-rq |  |  |  |  |  |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| 2024 Batch | Marketing Minor |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n|  | 1 | MKTG201 | Marketing Management  | 2 | 1 | 0 | 3 | 3 | Nil |  |  |  |  |  |  |  |  |  |  |\n|  | 2 | MGMT302 | Digital and Ecommerce Marketing | 2 | 2 | 0 | 4 | 4 | MKTG201 | Introduction to digital business  |  |  |  |  |  |  |  |  |  |\n|  | 3 | MGMT305 | Services Marketing | 2 | 1 | 0 | 3 | 5 | Nil |  |  |  |  |  |  |  |  |  |  |\n|  | 4 | MGMT304 | Integrated Marketing Communications | 2 | 1 | 0 | 3 | 5 | Nil |  |  |  |  |  |  |  |  |  |  |\n|  | 5 | MGMT314 | Sales and Distribution Management  | 2 | 2 | 0 | 4 | 6 | MKTG201 | Introduction to digital business  |  |  |  |  |  |  |  |  |  |",
+    "chunk_id": "chunk_0054",
+    "char_count": 982,
+    "estimated_tokens": 246
+  },
+  {
+    "source_file": "minor_courses.md",
+    "document_title": "Minor Courses for BTech Students",
+    "section": "Sheet: Marketing",
+    "course_codes": [
+      "MGMT211",
+      "MGMT302",
+      "MGMT307",
+      "MGMT320",
+      "MGMT328",
+      "MKTG201"
+    ],
+    "keywords": [
+      "minor",
+      "sheet: marketing",
+      "law",
+      "design",
+      "psychology",
+      "economics",
+      "MGMT211",
+      "MGMT302",
+      "MGMT307",
+      "MGMT320",
+      "MGMT328",
+      "MKTG201"
+    ],
+    "text": "[Minor Offerings > Sheet: Marketing (Part 5)]\n| 2022 Batch | Sl.No. | Course Code | Course Title  | L | T | P | Credit | Semester | Pre-rq |  |  |  |  |  |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n|  | 6 | MGMT211 | Brand Management | 2 | 1 | 0 | 3 | 6 | MKTG201 | Introduction to digital business  |  |  |  |  |  |  |  |  |  |\n|  | 7 | MGMT320 | Marketing Analytics | 1 | 1 | 0 | 2 | 7 | Nil |  |  |  |  |  |  |  |  |  |  |\n|  | 8 | MGMT307 | Strategy & Decision Making | 1 | 1 | 0 | 2 | 7 | Nil |  |  |  |  |  |  |  |  |  |  |\n| 2025 Batch | Marketing Minor |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n|  | 1 | MGMT328 | Foundation of Marketing Management  | 2 | 2 | 0 | 4 | 3 | Nil |  |  |  |  |  |  |  |  |  |  |\n|  | 2 | MGMT302 | Digital and Ecommerce Marketing | 2 | 1 | 0 | 4 | 4 | MKTG201 | Introduction to digital business  |  |  |  |  |  |  |  |  |  |",
+    "chunk_id": "chunk_0055",
+    "char_count": 970,
+    "estimated_tokens": 242
+  },
+  {
+    "source_file": "minor_courses.md",
+    "document_title": "Minor Courses for BTech Students",
+    "section": "Sheet: Marketing",
+    "course_codes": [
+      "MGMT304",
+      "MGMT314",
+      "MGMT328",
+      "MKTG201"
+    ],
+    "keywords": [
+      "minor",
+      "sheet: marketing",
+      "law",
+      "design",
+      "psychology",
+      "economics",
+      "MGMT304",
+      "MGMT314",
+      "MGMT328",
+      "MKTG201"
+    ],
+    "text": "[Minor Offerings > Sheet: Marketing (Part 6)]\n| 2022 Batch | Sl.No. | Course Code | Course Title  | L | T | P | Credit | Semester | Pre-rq |  |  |  |  |  |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n|  | 3 | MGMT304 | Integrated Marketing Communications | 2 | 1 | 0 | 3 | 5 | Nil |  |  |  |  |  |  |  |  |  |  |\n|  | 4 | New | Services Marketing  |  |  |  | 4 | 5 | TBD |  |  |  |  |  |  |  |  |  |  |\n|  | 5 | MGMT314 | Sales and Distribution Management  | 2 | 2 | 0 | 4 | 6 | MKTG201 | Introduction to digital business  |  |  |  |  |  |  |  |  |  |\n|  |  |  | TBD |  |  |  | 5 |  |  |  |  |  |  |  |  |  |  |  |  |\n| 2026 Batch | Marketing Minor |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n|  | 1 | MGMT328 | Foundations of Marketing Management | 2 | 2 | 0 | 4 | 3 |  |  |  |  |  |  |  |  |  |  |  |",
+    "chunk_id": "chunk_0056",
+    "char_count": 907,
+    "estimated_tokens": 227
+  },
+  {
+    "source_file": "minor_courses.md",
+    "document_title": "Minor Courses for BTech Students",
+    "section": "Sheet: Marketing",
+    "course_codes": [],
+    "keywords": [
+      "minor",
+      "sheet: marketing",
+      "law",
+      "design",
+      "psychology",
+      "economics"
+    ],
+    "text": "[Minor Offerings > Sheet: Marketing (Part 7)]\n| 2022 Batch | Sl.No. | Course Code | Course Title  | L | T | P | Credit | Semester | Pre-rq |  |  |  |  |  |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n|  |  |  | TBD |  |  |  | 20 |  |  |  |  |  |  |  |  |  |  |  |  |",
+    "chunk_id": "chunk_0057",
+    "char_count": 359,
+    "estimated_tokens": 90
+  },
+  {
+    "source_file": "minor_courses.md",
+    "document_title": "Minor Courses for BTech Students",
+    "section": "Sheet: Start-up",
+    "course_codes": [
+      "MGMT326",
+      "MGMT330",
+      "MGMT336",
+      "MKTG201"
+    ],
+    "keywords": [
+      "minor",
+      "sheet: start-up",
+      "law",
+      "design",
+      "psychology",
+      "economics",
+      "MGMT326",
+      "MGMT330",
+      "MGMT336",
+      "MKTG201"
+    ],
+    "text": "[Minor Offerings > Sheet: Start-up (Part 1)]\n|  | Sl.No. | Course Code | Course Title  | L | T | P | Credit | Semester | Pre-rq |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| 2024 Batch | Start -up Minor |  |  |  |  |  |  |  |  |  |\n|  | 1 | MGMT326 | Product Development | 2 | 2 | 0 | 4 | 4 | MKTG201 | Introduction to digital business  |\n|  | 2 | MGMT336 | Design Thinking for Entrepreneurship | 2 | 1 | 2 | 4 | 5 | Nil |  |\n|  |  |  | TBD |  |  |  | 16 |  |  |  |\n| 2025 Batch | Start -up Minor |  |  |  |  |  |  |  |  |  |\n|  | 1 | MGMT330 | Introduction to Financial Accounting (R ) | 3 | 1 | 0 | 4 | 3 | Nil |  |",
+    "chunk_id": "chunk_0058",
+    "char_count": 646,
+    "estimated_tokens": 162
+  },
+  {
+    "source_file": "minor_courses.md",
+    "document_title": "Minor Courses for BTech Students",
+    "section": "Sheet: Start-up",
+    "course_codes": [
+      "MGMT213",
+      "MGMT328",
+      "MGMT336"
+    ],
+    "keywords": [
+      "minor",
+      "sheet: start-up",
+      "law",
+      "design",
+      "psychology",
+      "economics",
+      "MGMT213",
+      "MGMT328",
+      "MGMT336"
+    ],
+    "text": "[Minor Offerings > Sheet: Start-up (Part 2)]\n|  | Sl.No. | Course Code | Course Title  | L | T | P | Credit | Semester | Pre-rq |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n|  | 2 | MGMT328 | Foundation of Marketing Management  | 2 | 2 | 0 | 4 | 3 | Nil |  |\n|  | 3 | MGMT336 | Design Thinking for Entrepreneurship | 2 | 1 | 2 | 4 | 5 |  |  |\n|  | 4 | MGMT213 | Introduction To Fintech | 1 | 1 | 0 | 2 | 6 | Nil |  |\n|  |  |  | TBD |  |  |  | 10 |  |  |  |",
+    "chunk_id": "chunk_0059",
+    "char_count": 484,
+    "estimated_tokens": 121
+  },
+  {
+    "source_file": "sop_current_semester.md",
+    "document_title": "Standard Operating Procedure (SOP) - Students (Sept 2026)",
+    "section": "Standard Operating Procedure (SOP) - Current Semester (Sept 2026)",
+    "course_codes": [],
+    "keywords": [
+      "sop",
+      "registration",
+      "fee",
+      "dues",
+      "digii",
+      "add drop",
+      "deadline",
+      "attendance"
+    ],
+    "text": "[SOP Current Semester > Standard Operating Procedure (SOP) - Current Semester (Sept 2026)]\n# Standard Operating Procedure (SOP) - Current Semester (Sept 2026)",
+    "chunk_id": "chunk_0060",
+    "char_count": 158,
+    "estimated_tokens": 40
+  },
+  {
+    "source_file": "sop_current_semester.md",
+    "document_title": "Standard Operating Procedure (SOP) - Students (Sept 2026)",
+    "section": "1. Course Registration & Fee Eligibility",
+    "course_codes": [],
+    "keywords": [
+      "sop",
+      "registration",
+      "fee",
+      "dues",
+      "digii",
+      "add drop",
+      "deadline",
+      "attendance"
+    ],
+    "text": "[SOP Current Semester > 1. Course Registration & Fee Eligibility]\n## 1. Course Registration & Fee Eligibility\n- **Fee Clearance Rule**: Students with pending university tuition/hostel fees or incomplete documentation are **NOT ELIGIBLE** for course registration.\n- Attendance will NOT be recorded for unregistered students.\n- Students with outstanding fees will NOT be permitted to appear for end-semester examinations.",
+    "chunk_id": "chunk_0061",
+    "char_count": 419,
+    "estimated_tokens": 105
+  },
+  {
+    "source_file": "sop_current_semester.md",
+    "document_title": "Standard Operating Procedure (SOP) - Students (Sept 2026)",
+    "section": "2. Add/Drop Timeline & Approval Process",
+    "course_codes": [],
+    "keywords": [
+      "sop",
+      "registration",
+      "fee",
+      "dues",
+      "digii",
+      "add drop",
+      "deadline",
+      "attendance"
+    ],
+    "text": "[SOP Current Semester > 2. Add/Drop Timeline & Approval Process]\n## 2. Add/Drop Timeline & Approval Process\n- Registration adjustment window opens on Day 1 of semester and closes strictly after 14 calendar days (2 weeks).\n- Requests submitted after 14 days will be rejected without exception.",
+    "chunk_id": "chunk_0062",
+    "char_count": 292,
+    "estimated_tokens": 73
+  },
+  {
+    "source_file": "sop_current_semester.md",
+    "document_title": "Standard Operating Procedure (SOP) - Students (Sept 2026)",
+    "section": "3. Digii Student Portal & Grievance (Part 1)",
+    "course_codes": [],
+    "keywords": [
+      "sop",
+      "registration",
+      "fee",
+      "digii",
+      "add drop",
+      "deadline",
+      "attendance"
+    ],
+    "text": "[SOP Current Semester > 3. Digii Student Portal & Grievance]\n## 3. Digii Student Portal & Grievance\n- All course registrations and add/drop requests must be submitted via Digii portal.\n- Grievances must be logged at studentgrievance@vidyashilp.edu.in.\n\n<!-- Page 1 -->\n   \nPage 1 of 6 \n \nSTANDARD OPERATING PROCEDURE - STUDENTS \n1. Course \nRegistration",
+    "chunk_id": "chunk_0063",
+    "char_count": 352,
+    "estimated_tokens": 88
+  },
+  {
+    "source_file": "sop_current_semester.md",
+    "document_title": "Standard Operating Procedure (SOP) - Students (Sept 2026)",
+    "section": "3. Digii Student Portal & Grievance (Part 2)",
+    "course_codes": [],
+    "keywords": [
+      "sop",
+      "registration",
+      "fee",
+      "digii",
+      "add drop",
+      "deadline",
+      "attendance"
+    ],
+    "text": "[SOP Current Semester > 3. Digii Student Portal & Grievance]\n• Eligibility Criteria \nStudents with pending fees or incomplete documentation  \nare not eligible  for course registration, and attendance will \nnot be recorded until the registration is fully completed.",
+    "chunk_id": "chunk_0064",
+    "char_count": 264,
+    "estimated_tokens": 66
+  },
+  {
+    "source_file": "sop_current_semester.md",
+    "document_title": "Standard Operating Procedure (SOP) - Students (Sept 2026)",
+    "section": "3. Digii Student Portal & Grievance (Part 3)",
+    "course_codes": [],
+    "keywords": [
+      "sop",
+      "registration",
+      "fee",
+      "digii",
+      "add drop",
+      "deadline",
+      "attendance"
+    ],
+    "text": "[SOP Current Semester > 3. Digii Student Portal & Grievance]\n• Course Registration on Digii \nCourse registration will be available on the Digii portal for \neligible students  only. Students must select their courses, \nverify credits, and submit the registration form online. Students \nwill not be allowed to attend classes without completing the \ncourse registration.",
+    "chunk_id": "chunk_0065",
+    "char_count": 367,
+    "estimated_tokens": 92
+  },
+  {
+    "source_file": "sop_current_semester.md",
+    "document_title": "Standard Operating Procedure (SOP) - Students (Sept 2026)",
+    "section": "3. Digii Student Portal & Grievance (Part 4)",
+    "course_codes": [],
+    "keywords": [
+      "sop",
+      "registration",
+      "fee",
+      "digii",
+      "add drop",
+      "deadline",
+      "attendance"
+    ],
+    "text": "[SOP Current Semester > 3. Digii Student Portal & Grievance]\n• Faculty Advisor [Mentor] \nStudents are advised to consult their Faculty Advisor  [Mentor] \nto understand and seek clarity on selection of course(s), credits, \netc., prior to course registration.",
+    "chunk_id": "chunk_0066",
+    "char_count": 257,
+    "estimated_tokens": 64
+  },
+  {
+    "source_file": "sop_current_semester.md",
+    "document_title": "Standard Operating Procedure (SOP) - Students (Sept 2026)",
+    "section": "3. Digii Student Portal & Grievance (Part 5)",
+    "course_codes": [],
+    "keywords": [
+      "sop",
+      "registration",
+      "fee",
+      "digii",
+      "add drop",
+      "deadline",
+      "attendance"
+    ],
+    "text": "[SOP Current Semester > 3. Digii Student Portal & Grievance]\n• Registration Card Submission \nAfter online registration, students must collect the hard copy of \nthe Registration Card  from the Concern Department , get it \nsigned by the Faculty Advisor [Mentor] and Program Chair , \nand return the signed copy to the Course Registration Card to the \nconcern department.",
+    "chunk_id": "chunk_0067",
+    "char_count": 367,
+    "estimated_tokens": 92
+  },
+  {
+    "source_file": "sop_current_semester.md",
+    "document_title": "Standard Operating Procedure (SOP) - Students (Sept 2026)",
+    "section": "3. Digii Student Portal & Grievance (Part 6)",
+    "course_codes": [],
+    "keywords": [
+      "sop",
+      "registration",
+      "fee",
+      "digii",
+      "add drop",
+      "deadline",
+      "attendance"
+    ],
+    "text": "[SOP Current Semester > 3. Digii Student Portal & Grievance]\n• Cohort & Attendance Details \nStudents can check their cohort details on the Digii portal after \ncourse registration. \n \nDaily attendance status  for each course will also be available \non Digii. No attendance will be granted for any missed classes \ndue to late registration.",
+    "chunk_id": "chunk_0068",
+    "char_count": 337,
+    "estimated_tokens": 84
+  },
+  {
+    "source_file": "sop_current_semester.md",
+    "document_title": "Standard Operating Procedure (SOP) - Students (Sept 2026)",
+    "section": "3. Digii Student Portal & Grievance (Part 7)",
+    "course_codes": [],
+    "keywords": [
+      "sop",
+      "registration",
+      "fee",
+      "digii",
+      "add drop",
+      "deadline",
+      "attendance"
+    ],
+    "text": "[SOP Current Semester > 3. Digii Student Portal & Grievance]\n• Course Registration Deadline \nThe maximum permissible period for late registration shall not \nbe more than one (01) calendar week counted from the specified \ndate of Registration announced by the University. No extensions \nwill be granted.",
+    "chunk_id": "chunk_0069",
+    "char_count": 302,
+    "estimated_tokens": 76
+  },
+  {
+    "source_file": "sop_current_semester.md",
+    "document_title": "Standard Operating Procedure (SOP) - Students (Sept 2026)",
+    "section": "3. Digii Student Portal & Grievance (Part 8)",
+    "course_codes": [],
+    "keywords": [
+      "sop",
+      "registration",
+      "fee",
+      "digii",
+      "add drop",
+      "deadline",
+      "attendance"
+    ],
+    "text": "[SOP Current Semester > 3. Digii Student Portal & Grievance]\n• Late Registration \nNo late registration shall be permitted. However, considering \nmedical exigencies, specifically hospitalization, trauma or \ncontagious disease only, and participation in any \ncompetitions/events a student may be permitted for late \nregistration with prior approval from the concerned Program \nChair/Dean of concerned School. The maximum period \npermissible for late registration due to medical shall not be more \n\n<!-- Page 2 -->\n   \nPage 2 of 6 \n \nthan two (02) calendar weeks counted from the specified date of \nRegistration announced by the University.",
+    "chunk_id": "chunk_0070",
+    "char_count": 637,
+    "estimated_tokens": 159
+  },
+  {
+    "source_file": "sop_current_semester.md",
+    "document_title": "Standard Operating Procedure (SOP) - Students (Sept 2026)",
+    "section": "3. Digii Student Portal & Grievance (Part 9)",
+    "course_codes": [],
+    "keywords": [
+      "sop",
+      "registration",
+      "fee",
+      "digii",
+      "add drop",
+      "deadline",
+      "attendance"
+    ],
+    "text": "[SOP Current Semester > 3. Digii Student Portal & Grievance]\n• Course Add/Drop \nStudents may add or drop Courses after consulting the \nconcerned Faculty Advisor  [Mentor] and submit a request for \nadd or drop to the concerned Program Chair/Dean of Schools \nwithin two weeks  of the commencement of the classes as \nnotified in the Academic Calendar or notifications issued by the \nUniversity to this effect.",
+    "chunk_id": "chunk_0071",
+    "char_count": 406,
+    "estimated_tokens": 102
+  },
+  {
+    "source_file": "sop_current_semester.md",
+    "document_title": "Standard Operating Procedure (SOP) - Students (Sept 2026)",
+    "section": "3. Digii Student Portal & Grievance (Part 10)",
+    "course_codes": [],
+    "keywords": [
+      "sop",
+      "registration",
+      "fee",
+      "digii",
+      "add drop",
+      "deadline",
+      "attendance"
+    ],
+    "text": "[SOP Current Semester > 3. Digii Student Portal & Grievance]\n• Audit Course Registration \nA student who desires to register to Audit a Course shall consult \ntheir Faculty Advisor (Mentor)  and seek approval of the \nconcerned Course Instructor. Registration to Audit a Course \nshall be permitted after approval by the concerned Program \nChair. The student does not earn credits for Audited Course. \n \n2. Student \nAttendance",
+    "chunk_id": "chunk_0072",
+    "char_count": 422,
+    "estimated_tokens": 106
+  },
+  {
+    "source_file": "sop_current_semester.md",
+    "document_title": "Standard Operating Procedure (SOP) - Students (Sept 2026)",
+    "section": "3. Digii Student Portal & Grievance (Part 11)",
+    "course_codes": [],
+    "keywords": [
+      "sop",
+      "registration",
+      "fee",
+      "digii",
+      "add drop",
+      "deadline",
+      "attendance"
+    ],
+    "text": "[SOP Current Semester > 3. Digii Student Portal & Grievance]\n• Course wise attendance can be check ed on Digii Portal on a \ndaily basis.  Attendance report will be shared with the parents \nand students twice per semester by the Office of the Registrar.",
+    "chunk_id": "chunk_0073",
+    "char_count": 252,
+    "estimated_tokens": 63
+  },
+  {
+    "source_file": "sop_current_semester.md",
+    "document_title": "Standard Operating Procedure (SOP) - Students (Sept 2026)",
+    "section": "3. Digii Student Portal & Grievance (Part 12)",
+    "course_codes": [],
+    "keywords": [
+      "sop",
+      "registration",
+      "fee",
+      "digii",
+      "add drop",
+      "deadline",
+      "attendance"
+    ],
+    "text": "[SOP Current Semester > 3. Digii Student Portal & Grievance]\n• For any concern regarding the attendance, student to contact \nthe respective faculty members.",
+    "chunk_id": "chunk_0074",
+    "char_count": 156,
+    "estimated_tokens": 39
+  },
+  {
+    "source_file": "sop_current_semester.md",
+    "document_title": "Standard Operating Procedure (SOP) - Students (Sept 2026)",
+    "section": "3. Digii Student Portal & Grievance (Part 13)",
+    "course_codes": [],
+    "keywords": [
+      "sop",
+      "registration",
+      "fee",
+      "digii",
+      "add drop",
+      "deadline",
+      "attendance"
+    ],
+    "text": "[SOP Current Semester > 3. Digii Student Portal & Grievance]\n• For the End -Term Examination, the attendance recorded on \nDigii will be considered as FINAL.",
+    "chunk_id": "chunk_0075",
+    "char_count": 156,
+    "estimated_tokens": 39
+  },
+  {
+    "source_file": "sop_current_semester.md",
+    "document_title": "Standard Operating Procedure (SOP) - Students (Sept 2026)",
+    "section": "3. Digii Student Portal & Grievance (Part 14)",
+    "course_codes": [],
+    "keywords": [
+      "sop",
+      "registration",
+      "fee",
+      "digii",
+      "add drop",
+      "deadline",
+      "attendance"
+    ],
+    "text": "[SOP Current Semester > 3. Digii Student Portal & Grievance]\n• To appear for end semester examination , the attendance \nrequirement shall be a minimum of seventy five percent (75%) of \nthe classes actually conducted in every Course the student has \nregistered for in the Academic Term.",
+    "chunk_id": "chunk_0076",
+    "char_count": 285,
+    "estimated_tokens": 71
+  },
+  {
+    "source_file": "sop_current_semester.md",
+    "document_title": "Standard Operating Procedure (SOP) - Students (Sept 2026)",
+    "section": "3. Digii Student Portal & Grievance (Part 15)",
+    "course_codes": [],
+    "keywords": [
+      "sop",
+      "registration",
+      "fee",
+      "digii",
+      "add drop",
+      "deadline",
+      "attendance"
+    ],
+    "text": "[SOP Current Semester > 3. Digii Student Portal & Grievance]\n• Further, (a) if a student / family member suffers serious medical \nexigencies of hospitalization, trauma or contagious disease only  \n(for the student / family member[s] ) the concerned student may \nsubmit the leave request together with the documents to the \nFaculty Advisor for recommendation to the Program Chair. The \napproved / signed medical applications along with specified \ndocuments to be submitted by the student  on the  day of \nrejoining to the concern department  and raise a medical \nleave request on Digii portal by uploading all the documents. \nFailing which leave on medical grounds will not be accepted. \n \nThe medical certificate will be considered only for the entire \nday not for specific class/ hours.",
+    "chunk_id": "chunk_0077",
+    "char_count": 787,
+    "estimated_tokens": 197
+  },
+  {
+    "source_file": "sop_current_semester.md",
+    "document_title": "Standard Operating Procedure (SOP) - Students (Sept 2026)",
+    "section": "3. Digii Student Portal & Grievance (Part 16)",
+    "course_codes": [],
+    "keywords": [
+      "sop",
+      "registration",
+      "fee",
+      "digii",
+      "add drop",
+      "deadline",
+      "attendance"
+    ],
+    "text": "[SOP Current Semester > 3. Digii Student Portal & Grievance]\n• (b) if a student represent s the State / National / International \nEvents / Competitions, the concerned student may submit the \n\n<!-- Page 3 -->\n   \nPage 3 of 6 \n \nletter to the Director, Campus Life and Faculty Advisor for \nrecommendation to the Program Chair.",
+    "chunk_id": "chunk_0078",
+    "char_count": 324,
+    "estimated_tokens": 81
+  },
+  {
+    "source_file": "sop_current_semester.md",
+    "document_title": "Standard Operating Procedure (SOP) - Students (Sept 2026)",
+    "section": "3. Digii Student Portal & Grievance (Part 17)",
+    "course_codes": [],
+    "keywords": [
+      "sop",
+      "registration",
+      "fee",
+      "digii",
+      "add drop",
+      "deadline",
+      "attendance"
+    ],
+    "text": "[SOP Current Semester > 3. Digii Student Portal & Grievance]\n• Such students (a & b) will be given relaxation in attendance \nrequirement (in the Course(s) where there is a shortage) for \nthe concerned period of absence . However, the minimum \nrequirement of attendance will be sixty five percent (65%) of the \nclasses actually conducted in every Course the student has \nregistered for in the Academic Term.",
+    "chunk_id": "chunk_0079",
+    "char_count": 406,
+    "estimated_tokens": 102
+  },
+  {
+    "source_file": "sop_current_semester.md",
+    "document_title": "Standard Operating Procedure (SOP) - Students (Sept 2026)",
+    "section": "3. Digii Student Portal & Grievance (Part 18)",
+    "course_codes": [],
+    "keywords": [
+      "sop",
+      "registration",
+      "fee",
+      "digii",
+      "add drop",
+      "deadline",
+      "attendance"
+    ],
+    "text": "[SOP Current Semester > 3. Digii Student Portal & Grievance]\n• The student shall not be eligible for this special provision if she/he \nfails to produce authentic certificates  and relevant documents, \nincluding fitness certificate (in the case of Medical), on the day of \nrejoining the classes. \n3. Change of \nProgram",
+    "chunk_id": "chunk_0080",
+    "char_count": 317,
+    "estimated_tokens": 79
+  },
+  {
+    "source_file": "sop_current_semester.md",
+    "document_title": "Standard Operating Procedure (SOP) - Students (Sept 2026)",
+    "section": "3. Digii Student Portal & Grievance (Part 19)",
+    "course_codes": [],
+    "keywords": [
+      "sop",
+      "registration",
+      "fee",
+      "digii",
+      "add drop",
+      "deadline",
+      "attendance"
+    ],
+    "text": "[SOP Current Semester > 3. Digii Student Portal & Grievance]\n• Student may seek transfer from one Program to another \nProgram before the commencement of the registration for the \nSecond Year with the due approval of the existing and the new \nProgram Chair, subject to the eligibility criteria and provisions \nof the academic regulations.",
+    "chunk_id": "chunk_0081",
+    "char_count": 337,
+    "estimated_tokens": 84
+  },
+  {
+    "source_file": "sop_current_semester.md",
+    "document_title": "Standard Operating Procedure (SOP) - Students (Sept 2026)",
+    "section": "3. Digii Student Portal & Grievance (Part 20)",
+    "course_codes": [],
+    "keywords": [
+      "sop",
+      "registration",
+      "fee",
+      "digii",
+      "add drop",
+      "deadline",
+      "attendance"
+    ],
+    "text": "[SOP Current Semester > 3. Digii Student Portal & Grievance]\n• Student to submit request letter signed by parents to the existing \nProgram Chair and after obtaining the signature, the same letter \nto be submitted to the Office of the Registrar for further process.",
+    "chunk_id": "chunk_0082",
+    "char_count": 264,
+    "estimated_tokens": 66
+  },
+  {
+    "source_file": "sop_current_semester.md",
+    "document_title": "Standard Operating Procedure (SOP) - Students (Sept 2026)",
+    "section": "3. Digii Student Portal & Grievance (Part 21)",
+    "course_codes": [],
+    "keywords": [
+      "sop",
+      "registration",
+      "fee",
+      "digii",
+      "add drop",
+      "deadline",
+      "attendance"
+    ],
+    "text": "[SOP Current Semester > 3. Digii Student Portal & Grievance]\n• The “Credit Transfer Equivalence Committee” shall review the \napplication of the student for Program change and transfer of \ncredits. This committee shall submit its recommendations to the \noffice of the Registrar for approval.",
+    "chunk_id": "chunk_0083",
+    "char_count": 290,
+    "estimated_tokens": 72
+  },
+  {
+    "source_file": "sop_current_semester.md",
+    "document_title": "Standard Operating Procedure (SOP) - Students (Sept 2026)",
+    "section": "3. Digii Student Portal & Grievance (Part 22)",
+    "course_codes": [],
+    "keywords": [
+      "sop",
+      "registration",
+      "fee",
+      "digii",
+      "add drop",
+      "deadline",
+      "attendance"
+    ],
+    "text": "[SOP Current Semester > 3. Digii Student Portal & Grievance]\n• On no account a transfer from one Program to another will be \nallowed beyond the stipulated period. \n4. Summer Term \nRegistration",
+    "chunk_id": "chunk_0084",
+    "char_count": 192,
+    "estimated_tokens": 48
+  },
+  {
+    "source_file": "sop_current_semester.md",
+    "document_title": "Standard Operating Procedure (SOP) - Students (Sept 2026)",
+    "section": "3. Digii Student Portal & Grievance (Part 23)",
+    "course_codes": [],
+    "keywords": [
+      "sop",
+      "registration",
+      "fee",
+      "digii",
+      "add drop",
+      "deadline",
+      "attendance"
+    ],
+    "text": "[SOP Current Semester > 3. Digii Student Portal & Grievance]\n• The Summer Term is an additional Academic Term that may \nbe offered during the summer break June-July.",
+    "chunk_id": "chunk_0085",
+    "char_count": 165,
+    "estimated_tokens": 41
+  },
+  {
+    "source_file": "sop_current_semester.md",
+    "document_title": "Standard Operating Procedure (SOP) - Students (Sept 2026)",
+    "section": "3. Digii Student Portal & Grievance (Part 24)",
+    "course_codes": [],
+    "keywords": [
+      "sop",
+      "registration",
+      "fee",
+      "digii",
+      "add drop",
+      "deadline",
+      "attendance"
+    ],
+    "text": "[SOP Current Semester > 3. Digii Student Portal & Grievance]\n• A limited number of Courses may be offered in the Summer \nTerm. A student cannot demand for a specific Course to be \noffered.",
+    "chunk_id": "chunk_0086",
+    "char_count": 188,
+    "estimated_tokens": 47
+  },
+  {
+    "source_file": "sop_current_semester.md",
+    "document_title": "Standard Operating Procedure (SOP) - Students (Sept 2026)",
+    "section": "3. Digii Student Portal & Grievance (Part 25)",
+    "course_codes": [],
+    "keywords": [
+      "sop",
+      "registration",
+      "fee",
+      "digii",
+      "add drop",
+      "deadline",
+      "attendance"
+    ],
+    "text": "[SOP Current Semester > 3. Digii Student Portal & Grievance]\n• A student may re-register for the Course(s) if offered, by paying \nthe prescribed fees and completing the course registration process \non or before the last date for Registration as specified in the \nAcademic Calendar. No late registration shall be permitted.",
+    "chunk_id": "chunk_0087",
+    "char_count": 322,
+    "estimated_tokens": 80
+  },
+  {
+    "source_file": "sop_current_semester.md",
+    "document_title": "Standard Operating Procedure (SOP) - Students (Sept 2026)",
+    "section": "3. Digii Student Portal & Grievance (Part 26)",
+    "course_codes": [],
+    "keywords": [
+      "sop",
+      "registration",
+      "fee",
+      "digii",
+      "add drop",
+      "deadline",
+      "attendance"
+    ],
+    "text": "[SOP Current Semester > 3. Digii Student Portal & Grievance]\n• The Attendance requirement as per Academic Regulation shall be \napplicable to all students registering for Course(s) in the Summer \nTerm. \n5. University \nAnnual Fee • The student shall remit the Annual University Fee as prescribed \nby the University for the concerned Program of study and clear \n\n<!-- Page 4 -->\n   \nPage 4 of 6 \n \nany other dues, to get eligible for Course registration every \nsemester.",
+    "chunk_id": "chunk_0088",
+    "char_count": 467,
+    "estimated_tokens": 117
+  },
+  {
+    "source_file": "sop_current_semester.md",
+    "document_title": "Standard Operating Procedure (SOP) - Students (Sept 2026)",
+    "section": "3. Digii Student Portal & Grievance (Part 27)",
+    "course_codes": [],
+    "keywords": [
+      "sop",
+      "registration",
+      "fee",
+      "digii",
+      "add drop",
+      "deadline",
+      "attendance"
+    ],
+    "text": "[SOP Current Semester > 3. Digii Student Portal & Grievance]\n• Students with outstanding fees will not be permitted to appear \nfor the semester-end examination. \n6. Digii Account",
+    "chunk_id": "chunk_0089",
+    "char_count": 178,
+    "estimated_tokens": 44
+  },
+  {
+    "source_file": "sop_current_semester.md",
+    "document_title": "Standard Operating Procedure (SOP) - Students (Sept 2026)",
+    "section": "3. Digii Student Portal & Grievance (Part 28)",
+    "course_codes": [],
+    "keywords": [
+      "sop",
+      "registration",
+      "fee",
+      "digii",
+      "add drop",
+      "deadline",
+      "attendance"
+    ],
+    "text": "[SOP Current Semester > 3. Digii Student Portal & Grievance]\n• Digii is a comprehensive software platform designed to \nstreamline and manage various academic functions within the \ninstitution.",
+    "chunk_id": "chunk_0090",
+    "char_count": 192,
+    "estimated_tokens": 48
+  },
+  {
+    "source_file": "sop_current_semester.md",
+    "document_title": "Standard Operating Procedure (SOP) - Students (Sept 2026)",
+    "section": "3. Digii Student Portal & Grievance (Part 29)",
+    "course_codes": [],
+    "keywords": [
+      "sop",
+      "registration",
+      "fee",
+      "digii",
+      "add drop",
+      "deadline",
+      "attendance"
+    ],
+    "text": "[SOP Current Semester > 3. Digii Student Portal & Grievance]\n• Students will be provided with a Digii User ID and Password. to \nlog in to Digii Portal.",
+    "chunk_id": "chunk_0091",
+    "char_count": 151,
+    "estimated_tokens": 38
+  },
+  {
+    "source_file": "sop_current_semester.md",
+    "document_title": "Standard Operating Procedure (SOP) - Students (Sept 2026)",
+    "section": "3. Digii Student Portal & Grievance (Part 30)",
+    "course_codes": [],
+    "keywords": [
+      "sop",
+      "registration",
+      "fee",
+      "digii",
+      "add drop",
+      "deadline",
+      "attendance"
+    ],
+    "text": "[SOP Current Semester > 3. Digii Student Portal & Grievance]\n• Student to update the personal and academic details to complete \nthe admission process.",
+    "chunk_id": "chunk_0092",
+    "char_count": 150,
+    "estimated_tokens": 38
+  },
+  {
+    "source_file": "sop_current_semester.md",
+    "document_title": "Standard Operating Procedure (SOP) - Students (Sept 2026)",
+    "section": "3. Digii Student Portal & Grievance (Part 31)",
+    "course_codes": [],
+    "keywords": [
+      "sop",
+      "registration",
+      "fee",
+      "digii",
+      "add drop",
+      "deadline",
+      "attendance"
+    ],
+    "text": "[SOP Current Semester > 3. Digii Student Portal & Grievance]\n• Once logged in, students will have access to a wide range of \nacademic services, including:  Course Registration , Cohort and \nBatch Details, Attendance Records, Bonafide Certificate Requests, \nExamination Details, Medical Leave ….",
+    "chunk_id": "chunk_0093",
+    "char_count": 294,
+    "estimated_tokens": 74
+  },
+  {
+    "source_file": "sop_current_semester.md",
+    "document_title": "Standard Operating Procedure (SOP) - Students (Sept 2026)",
+    "section": "3. Digii Student Portal & Grievance (Part 32)",
+    "course_codes": [],
+    "keywords": [
+      "sop",
+      "registration",
+      "fee",
+      "digii",
+      "add drop",
+      "deadline",
+      "attendance"
+    ],
+    "text": "[SOP Current Semester > 3. Digii Student Portal & Grievance]\n• For any issues related to Digii, students should contact the Office \nof the Registrar for assistance. \n7. Bonafide \nCertificate \n \nEducational Loan:",
+    "chunk_id": "chunk_0094",
+    "char_count": 211,
+    "estimated_tokens": 53
+  },
+  {
+    "source_file": "sop_current_semester.md",
+    "document_title": "Standard Operating Procedure (SOP) - Students (Sept 2026)",
+    "section": "3. Digii Student Portal & Grievance (Part 33)",
+    "course_codes": [],
+    "keywords": [
+      "sop",
+      "registration",
+      "fee",
+      "digii",
+      "add drop",
+      "deadline",
+      "attendance"
+    ],
+    "text": "[SOP Current Semester > 3. Digii Student Portal & Grievance]\n• The student must email to the Accounts Department requesting \nfor the fee structure. The Office of the Registrar must be kept in \nthe email loop.",
+    "chunk_id": "chunk_0095",
+    "char_count": 208,
+    "estimated_tokens": 52
+  },
+  {
+    "source_file": "sop_current_semester.md",
+    "document_title": "Standard Operating Procedure (SOP) - Students (Sept 2026)",
+    "section": "3. Digii Student Portal & Grievance (Part 34)",
+    "course_codes": [],
+    "keywords": [
+      "sop",
+      "registration",
+      "fee",
+      "digii",
+      "add drop",
+      "deadline",
+      "attendance"
+    ],
+    "text": "[SOP Current Semester > 3. Digii Student Portal & Grievance]\n• Simultaneously, the student must raise a Bonafide Certificate  \nrequest through Digii – Campus Help Centre, clearly mentioning \nthe reason (required for an educational loan).  \nInternship:",
+    "chunk_id": "chunk_0096",
+    "char_count": 251,
+    "estimated_tokens": 63
+  },
+  {
+    "source_file": "sop_current_semester.md",
+    "document_title": "Standard Operating Procedure (SOP) - Students (Sept 2026)",
+    "section": "3. Digii Student Portal & Grievance (Part 35)",
+    "course_codes": [],
+    "keywords": [
+      "sop",
+      "registration",
+      "fee",
+      "digii",
+      "add drop",
+      "deadline",
+      "attendance"
+    ],
+    "text": "[SOP Current Semester > 3. Digii Student Portal & Grievance]\n• The student must email the Program Chair requesting approval \nfor the internship. The email should include all relevant details, \nsuch as: (Company Name, Internship Duration, Start Date, End \nDate, Any other relevant internship details)",
+    "chunk_id": "chunk_0097",
+    "char_count": 299,
+    "estimated_tokens": 75
+  },
+  {
+    "source_file": "sop_current_semester.md",
+    "document_title": "Standard Operating Procedure (SOP) - Students (Sept 2026)",
+    "section": "3. Digii Student Portal & Grievance (Part 36)",
+    "course_codes": [],
+    "keywords": [
+      "sop",
+      "registration",
+      "fee",
+      "digii",
+      "add drop",
+      "deadline",
+      "attendance"
+    ],
+    "text": "[SOP Current Semester > 3. Digii Student Portal & Grievance]\n• The Office of the Registrar  must be kept in the email loop. \nSimultaneously, the student must raise a Bonafide Certificate  \nrequest through Digii – Campus Help Centre, clearly mentioning \nthe reason (required for an internship).  \nScholarship / Passport",
+    "chunk_id": "chunk_0098",
+    "char_count": 318,
+    "estimated_tokens": 80
+  },
+  {
+    "source_file": "sop_current_semester.md",
+    "document_title": "Standard Operating Procedure (SOP) - Students (Sept 2026)",
+    "section": "3. Digii Student Portal & Grievance (Part 37)",
+    "course_codes": [],
+    "keywords": [
+      "sop",
+      "registration",
+      "fee",
+      "digii",
+      "add drop",
+      "deadline",
+      "attendance"
+    ],
+    "text": "[SOP Current Semester > 3. Digii Student Portal & Grievance]\n• The student must raise a Bonafide Certificate  request through \nDigii – Campus Help Centre clearly mentioning the reason  \n \nThe Bonafide Certificate will be issued on Digii within 24 hours of \nsubmitting the request. \n\n<!-- Page 5 -->\n   \nPage 5 of 6 \n \n8. Scholarship",
+    "chunk_id": "chunk_0099",
+    "char_count": 332,
+    "estimated_tokens": 83
+  },
+  {
+    "source_file": "sop_current_semester.md",
+    "document_title": "Standard Operating Procedure (SOP) - Students (Sept 2026)",
+    "section": "3. Digii Student Portal & Grievance (Part 38)",
+    "course_codes": [],
+    "keywords": [
+      "sop",
+      "registration",
+      "fee",
+      "digii",
+      "add drop",
+      "deadline",
+      "attendance"
+    ],
+    "text": "[SOP Current Semester > 3. Digii Student Portal & Grievance]\n• Students seeking support or information regarding scholarships \nshall contact the Office of the Registrar. \n9. Grievance",
+    "chunk_id": "chunk_0100",
+    "char_count": 183,
+    "estimated_tokens": 46
+  },
+  {
+    "source_file": "sop_current_semester.md",
+    "document_title": "Standard Operating Procedure (SOP) - Students (Sept 2026)",
+    "section": "3. Digii Student Portal & Grievance (Part 39)",
+    "course_codes": [],
+    "keywords": [
+      "sop",
+      "registration",
+      "fee",
+      "digii",
+      "add drop",
+      "deadline",
+      "attendance"
+    ],
+    "text": "[SOP Current Semester > 3. Digii Student Portal & Grievance]\n• Students can submit their grievances online.",
+    "chunk_id": "chunk_0101",
+    "char_count": 107,
+    "estimated_tokens": 27
+  },
+  {
+    "source_file": "sop_current_semester.md",
+    "document_title": "Standard Operating Procedure (SOP) - Students (Sept 2026)",
+    "section": "3. Digii Student Portal & Grievance (Part 40)",
+    "course_codes": [],
+    "keywords": [
+      "sop",
+      "registration",
+      "fee",
+      "digii",
+      "add drop",
+      "deadline",
+      "attendance"
+    ],
+    "text": "[SOP Current Semester > 3. Digii Student Portal & Grievance]\n• Send your grievance to studentgrievance@vidyashilp.edu.in Email \nID only.",
+    "chunk_id": "chunk_0102",
+    "char_count": 136,
+    "estimated_tokens": 34
+  },
+  {
+    "source_file": "sop_current_semester.md",
+    "document_title": "Standard Operating Procedure (SOP) - Students (Sept 2026)",
+    "section": "3. Digii Student Portal & Grievance (Part 41)",
+    "course_codes": [],
+    "keywords": [
+      "sop",
+      "registration",
+      "fee",
+      "digii",
+      "add drop",
+      "deadline",
+      "attendance"
+    ],
+    "text": "[SOP Current Semester > 3. Digii Student Portal & Grievance]\n• Submit through the official grievance form by clicking the link \nbelow: \n   https://vidyashilp.edu.in/Student_Grievance/  \n10.  General \n \nTo ensure a seamless university experience, all students are required to \nadhere to the following guidelines:",
+    "chunk_id": "chunk_0103",
+    "char_count": 311,
+    "estimated_tokens": 78
+  },
+  {
+    "source_file": "sop_current_semester.md",
+    "document_title": "Standard Operating Procedure (SOP) - Students (Sept 2026)",
+    "section": "3. Digii Student Portal & Grievance (Part 42)",
+    "course_codes": [],
+    "keywords": [
+      "sop",
+      "registration",
+      "fee",
+      "digii",
+      "add drop",
+      "deadline",
+      "attendance"
+    ],
+    "text": "[SOP Current Semester > 3. Digii Student Portal & Grievance]\n• Students must wear the ID Card compulsory at all times while on \ncampus.",
+    "chunk_id": "chunk_0104",
+    "char_count": 135,
+    "estimated_tokens": 34
+  },
+  {
+    "source_file": "sop_current_semester.md",
+    "document_title": "Standard Operating Procedure (SOP) - Students (Sept 2026)",
+    "section": "3. Digii Student Portal & Grievance (Part 43)",
+    "course_codes": [],
+    "keywords": [
+      "sop",
+      "registration",
+      "fee",
+      "digii",
+      "add drop",
+      "deadline",
+      "attendance"
+    ],
+    "text": "[SOP Current Semester > 3. Digii Student Portal & Grievance]\n• Safety of equipment in the classroom : Utilize upgraded \nclassroom / lab facilities such as Interactive Display Panels (IDP), \nchairs, and tables responsibly. Damages caused by intentional or \nnegligent behaviour will have consequences.",
+    "chunk_id": "chunk_0105",
+    "char_count": 299,
+    "estimated_tokens": 75
+  },
+  {
+    "source_file": "sop_current_semester.md",
+    "document_title": "Standard Operating Procedure (SOP) - Students (Sept 2026)",
+    "section": "3. Digii Student Portal & Grievance (Part 44)",
+    "course_codes": [],
+    "keywords": [
+      "sop",
+      "registration",
+      "fee",
+      "digii",
+      "add drop",
+      "deadline",
+      "attendance"
+    ],
+    "text": "[SOP Current Semester > 3. Digii Student Portal & Grievance]\n• Exercise mindfulness during meals : Eat in designated spaces, \nespecially in the cafeteria. Avoid eating in classrooms  / Lab to \nmaintain a conducive learning environment.",
+    "chunk_id": "chunk_0106",
+    "char_count": 235,
+    "estimated_tokens": 59
+  },
+  {
+    "source_file": "sop_current_semester.md",
+    "document_title": "Standard Operating Procedure (SOP) - Students (Sept 2026)",
+    "section": "3. Digii Student Portal & Grievance (Part 45)",
+    "course_codes": [],
+    "keywords": [
+      "sop",
+      "registration",
+      "fee",
+      "digii",
+      "add drop",
+      "deadline",
+      "attendance"
+    ],
+    "text": "[SOP Current Semester > 3. Digii Student Portal & Grievance]\n• Use of internet services : University wi -fi is exclusively for \nacademic use. Using wi -fi other than academic purpose  and video \nstreaming are prohibited. Violations will be viewed seriously.",
+    "chunk_id": "chunk_0107",
+    "char_count": 257,
+    "estimated_tokens": 64
+  },
+  {
+    "source_file": "sop_current_semester.md",
+    "document_title": "Standard Operating Procedure (SOP) - Students (Sept 2026)",
+    "section": "3. Digii Student Portal & Grievance (Part 46)",
+    "course_codes": [],
+    "keywords": [
+      "sop",
+      "registration",
+      "fee",
+      "digii",
+      "add drop",
+      "deadline",
+      "attendance"
+    ],
+    "text": "[SOP Current Semester > 3. Digii Student Portal & Grievance]\n• Maintain campus cleanliness : Do not litter. CCTV cameras \nmonitor for compliance and violations will result in consequences.",
+    "chunk_id": "chunk_0108",
+    "char_count": 188,
+    "estimated_tokens": 47
+  },
+  {
+    "source_file": "sop_current_semester.md",
+    "document_title": "Standard Operating Procedure (SOP) - Students (Sept 2026)",
+    "section": "3. Digii Student Portal & Grievance (Part 47)",
+    "course_codes": [],
+    "keywords": [
+      "sop",
+      "registration",
+      "fee",
+      "digii",
+      "add drop",
+      "deadline",
+      "attendance"
+    ],
+    "text": "[SOP Current Semester > 3. Digii Student Portal & Grievance]\n• Respect shared spaces : Sofas at reception are for guests. Use \nalternative seating in the lawn or cafeteria.",
+    "chunk_id": "chunk_0109",
+    "char_count": 172,
+    "estimated_tokens": 43
+  },
+  {
+    "source_file": "sop_current_semester.md",
+    "document_title": "Standard Operating Procedure (SOP) - Students (Sept 2026)",
+    "section": "3. Digii Student Portal & Grievance (Part 48)",
+    "course_codes": [],
+    "keywords": [
+      "sop",
+      "registration",
+      "fee",
+      "digii",
+      "add drop",
+      "deadline",
+      "attendance"
+    ],
+    "text": "[SOP Current Semester > 3. Digii Student Portal & Grievance]\n• Infirmary usage: Visit the infirmary if you are unwell. \n \n11. Vehicle and \nParking \nGuidelines",
+    "chunk_id": "chunk_0110",
+    "char_count": 158,
+    "estimated_tokens": 40
+  },
+  {
+    "source_file": "sop_current_semester.md",
+    "document_title": "Standard Operating Procedure (SOP) - Students (Sept 2026)",
+    "section": "3. Digii Student Portal & Grievance (Part 49)",
+    "course_codes": [],
+    "keywords": [
+      "sop",
+      "registration",
+      "fee",
+      "digii",
+      "add drop",
+      "deadline",
+      "attendance"
+    ],
+    "text": "[SOP Current Semester > 3. Digii Student Portal & Grievance]\n• Vehicle access limitations: Vehicles are strictly not permitted to \ndrive beyond the designated parking point. Exceptions are made \nonly for emergencies (medical issues or disability).",
+    "chunk_id": "chunk_0111",
+    "char_count": 247,
+    "estimated_tokens": 62
+  },
+  {
+    "source_file": "sop_current_semester.md",
+    "document_title": "Standard Operating Procedure (SOP) - Students (Sept 2026)",
+    "section": "3. Digii Student Portal & Grievance (Part 50)",
+    "course_codes": [],
+    "keywords": [
+      "sop",
+      "registration",
+      "fee",
+      "digii",
+      "add drop",
+      "deadline",
+      "attendance"
+    ],
+    "text": "[SOP Current Semester > 3. Digii Student Portal & Grievance]\n• Speed limit enforcement : Vehicle speed within the campus is \nlimited to 20 kmph to ensure safety for all.",
+    "chunk_id": "chunk_0112",
+    "char_count": 169,
+    "estimated_tokens": 42
+  },
+  {
+    "source_file": "sop_current_semester.md",
+    "document_title": "Standard Operating Procedure (SOP) - Students (Sept 2026)",
+    "section": "3. Digii Student Portal & Grievance (Part 51)",
+    "course_codes": [],
+    "keywords": [
+      "sop",
+      "registration",
+      "fee",
+      "digii",
+      "add drop",
+      "deadline",
+      "attendance"
+    ],
+    "text": "[SOP Current Semester > 3. Digii Student Portal & Grievance]\n• Triple riding prohibition: Triple riding on two-wheelers is \nstrictly not allowed.  \n\n<!-- Page 6 -->\n   \nPage 6 of 6",
+    "chunk_id": "chunk_0113",
+    "char_count": 180,
+    "estimated_tokens": 45
+  },
+  {
+    "source_file": "sop_current_semester.md",
+    "document_title": "Standard Operating Procedure (SOP) - Students (Sept 2026)",
+    "section": "3. Digii Student Portal & Grievance (Part 52)",
+    "course_codes": [],
+    "keywords": [
+      "sop",
+      "registration",
+      "fee",
+      "digii",
+      "add drop",
+      "deadline",
+      "attendance"
+    ],
+    "text": "[SOP Current Semester > 3. Digii Student Portal & Grievance]\n• Wearing a helmet is mandatory for two-wheeler riders.",
+    "chunk_id": "chunk_0114",
+    "char_count": 116,
+    "estimated_tokens": 29
+  },
+  {
+    "source_file": "sop_current_semester.md",
+    "document_title": "Standard Operating Procedure (SOP) - Students (Sept 2026)",
+    "section": "3. Digii Student Portal & Grievance (Part 53)",
+    "course_codes": [],
+    "keywords": [
+      "sop",
+      "registration",
+      "fee",
+      "digii",
+      "add drop",
+      "deadline",
+      "attendance"
+    ],
+    "text": "[SOP Current Semester > 3. Digii Student Portal & Grievance]\n• Reception access: Only vehicles driven by parents / guardians or \nauthorized drivers may drive till the reception.",
+    "chunk_id": "chunk_0115",
+    "char_count": 177,
+    "estimated_tokens": 44
+  },
+  {
+    "source_file": "sop_current_semester.md",
+    "document_title": "Standard Operating Procedure (SOP) - Students (Sept 2026)",
+    "section": "3. Digii Student Portal & Grievance (Part 54)",
+    "course_codes": [],
+    "keywords": [
+      "sop",
+      "registration",
+      "fee",
+      "digii",
+      "add drop",
+      "deadline",
+      "attendance"
+    ],
+    "text": "[SOP Current Semester > 3. Digii Student Portal & Grievance]\n• Carpool/bike pool protocol: Vehicles used for student carpooling \nor bike pooling must stop at the parking point. Students must walk \nfrom there; vehicles are not permitted to drop off students at \nReception and then park.",
+    "chunk_id": "chunk_0116",
+    "char_count": 285,
+    "estimated_tokens": 71
+  },
+  {
+    "source_file": "sop_current_semester.md",
+    "document_title": "Standard Operating Procedure (SOP) - Students (Sept 2026)",
+    "section": "3. Digii Student Portal & Grievance (Part 55)",
+    "course_codes": [],
+    "keywords": [
+      "sop",
+      "registration",
+      "fee",
+      "digii",
+      "add drop",
+      "deadline",
+      "attendance"
+    ],
+    "text": "[SOP Current Semester > 3. Digii Student Portal & Grievance]\n• Parking restrictions: Vehicles are not allowed to park at Reception \nor in front of the Design Studio. Parking is permitted only in the \ndesignated parking areas.",
+    "chunk_id": "chunk_0117",
+    "char_count": 225,
+    "estimated_tokens": 56
+  },
+  {
+    "source_file": "sop_current_semester.md",
+    "document_title": "Standard Operating Procedure (SOP) - Students (Sept 2026)",
+    "section": "3. Digii Student Portal & Grievance (Part 56)",
+    "course_codes": [],
+    "keywords": [
+      "sop",
+      "registration",
+      "fee",
+      "digii",
+      "add drop",
+      "deadline",
+      "attendance"
+    ],
+    "text": "[SOP Current Semester > 3. Digii Student Portal & Grievance]\n• Students are advised to regularly check their emails inbox for important University \ncommunication / circular from registrar.office@vidyashilp.edu.in or concern departments. \nTimely responses and attention to these communications are essential to avoid missing \nimportant information.",
+    "chunk_id": "chunk_0118",
+    "char_count": 347,
+    "estimated_tokens": 87
+  },
+  {
+    "source_file": "sop_current_semester.md",
+    "document_title": "Standard Operating Procedure (SOP) - Students (Sept 2026)",
+    "section": "3. Digii Student Portal & Grievance (Part 57)",
+    "course_codes": [],
+    "keywords": [
+      "sop",
+      "registration",
+      "fee",
+      "digii",
+      "add drop",
+      "deadline",
+      "attendance"
+    ],
+    "text": "[SOP Current Semester > 3. Digii Student Portal & Grievance]\n• Your cooperation ensures a safe, respectful, and productive campus environment for all.",
+    "chunk_id": "chunk_0119",
+    "char_count": 150,
+    "estimated_tokens": 38
+  },
+  {
+    "source_file": "student_handbook.md",
+    "document_title": "University Academic Regulations & Student Handbook (August 2026)",
+    "section": "University Academic Regulations & Student Handbook (August 2026)",
+    "course_codes": [],
+    "keywords": [
+      "handbook",
+      "regulations",
+      "credits",
+      "probation",
+      "retake",
+      "attendance",
+      "cgpa",
+      "scholarship"
+    ],
+    "text": "[Student Handbook > University Academic Regulations & Student Handbook (August 2026)]\n# University Academic Regulations & Student Handbook (August 2026)",
+    "chunk_id": "chunk_0120",
+    "char_count": 152,
+    "estimated_tokens": 38
+  },
+  {
+    "source_file": "student_handbook.md",
+    "document_title": "University Academic Regulations & Student Handbook (August 2026)",
+    "section": "1. Credit & Progression Requirements",
+    "course_codes": [],
+    "keywords": [
+      "handbook",
+      "regulations",
+      "credits",
+      "probation",
+      "retake",
+      "attendance",
+      "cgpa",
+      "scholarship"
+    ],
+    "text": "[Student Handbook > 1. Credit & Progression Requirements]\n## 1. Credit & Progression Requirements\n- **Graduation Requirement**: Minimum 160 credits required for BTech / BSc degree completion.\n- **Semester Credit Load**: Minimum 16 credits, maximum 24 credits per semester. Overloading beyond 24 credits requires Dean approval and CGPA >= 3.5.\n- **Grading System**: A+ (10), A (9), B+ (8), B (7), C+ (6), C (5), D (4), F (0 - Fail).\n- **Academic Probation Policy**:\n  - A student whose Semester GPA falls below 2.0 or Cumulative GPA (CGPA) falls below 2.2 is placed on **Academic Probation**.\n  - Students on Academic Probation are restricted to a maximum of 18 credits per semester and cannot register for advanced electives or overload credits.\n  - Failure to lift probation within 2 consecutive semesters results in academic suspension.",
+    "chunk_id": "chunk_0121",
+    "char_count": 838,
+    "estimated_tokens": 210
+  },
+  {
+    "source_file": "student_handbook.md",
+    "document_title": "University Academic Regulations & Student Handbook (August 2026)",
+    "section": "2. Course Registration, Add/Drop & Retake Policy",
+    "course_codes": [],
+    "keywords": [
+      "handbook",
+      "regulations",
+      "credits",
+      "probation",
+      "retake",
+      "attendance",
+      "cgpa",
+      "scholarship"
+    ],
+    "text": "[Student Handbook > 2. Course Registration, Add/Drop & Retake Policy]\n## 2. Course Registration, Add/Drop & Retake Policy\n- **Course Add/Drop**: Allowed only during the first 2 calendar weeks of the semester with Faculty Advisor approval.\n- **Retake Policy for Failed Courses**:\n  - Core courses with grade 'F' MUST be retaken in the next semester in which the course is offered.\n  - A failed prerequisite course invalidates registration for any advanced course that explicitly lists it as a prerequisite.\n  - Maximum 2 retake attempts per course permitted.\n- **Attendance Policy**:\n  - Minimum **75% attendance** is mandatory in every registered course to be eligible for end-semester examinations.\n  - Attendance between 65%-74% requires Medical Certificate approval from Director of Campus Life. Below 65% results in automatic 'F' grade due to shortage.",
+    "chunk_id": "chunk_0122",
+    "char_count": 856,
+    "estimated_tokens": 214
+  },
+  {
+    "source_file": "student_handbook.md",
+    "document_title": "University Academic Regulations & Student Handbook (August 2026)",
+    "section": "Academic Regulations & Policies (Part 1)",
+    "course_codes": [],
+    "keywords": [
+      "handbook",
+      "regulations",
+      "credits",
+      "probation",
+      "retake",
+      "attendance",
+      "cgpa"
+    ],
+    "text": "[Student Handbook > Academic Regulations & Policies]\n<!-- Page 3 -->\n \n \nCONTENTS \nSECTION \nNO DESCRIPTION \n \nI \n \n \n \n \n \n \n \n \nII \nADMISSION RULES, FEE POLICY, AND SCHOLARSHIP \n \n1 Admission Rules………………………………………………………………… ..7 \n2 Fee Policy…………………………………………………………………………… 7 \n3 Payment of University Fee………………………………………………………  8 \n4 Payment Procedure………………………………………………………………  9 \n5 Fee Concession and Scholarship Policy…………………………………… ..10 \n \n \n \n \n \n \n \nIII \nACADEMIC REGULATIONS \n1.  Academic Calendar…………………………………………………………….1 5 \n2.  Registration………………………………………………………………………1 5 \n3.  Academic Credits - Course Credit Structure…………………………….1 9 \n4.  Program Regulations…………………………………………………………. .20 \n5.  Medium of Instruction and Evaluation……………………………………20  \n6.  Maximum Duration for the Completion of a Program……………… ….20  \n7.  Attendance Requirements…………………………………………………….21  \n8.  Teaching, Evaluation and Grading System………………………………22  \n9.  Examinations………………………………………………………………… ..29 \n10. Academic Appeals…………………………………………………………… 32 \n11.  Summer Term………………………………………………………………. 32 \n12. Progression…………………………………………………………………… 34 \n13. Withdrawal/Re-joining…………………………………………………….  3 6 \n14. Transfer of Credits …………………………………………………………. 3 7 \n15. Award of Degree…………………………………………………………….. 3 8 \n16. Convocation……………………………………………………………………39 \n17.  Power To Revise, Modify and Amend…………………………………….39 \nPREAMBLE, SHORT TITLE, COMMENCEMENT AND APPLICATION\n1 About the University……………………………………………………………… .1\n2 Vision, Mission and Core Values……………………………………………… .1\n3 Integrity………………………………………………………………………………2\n4 Academic Freedom…………………………………………………………………2\n5 Diversity, Equity and Inclusion…………………………………………………2\n6 Short Titles, Commencement and Applications ………………………….. 2\n7 Definitions ………………………………………………………………………….2",
+    "chunk_id": "chunk_0123",
+    "char_count": 1777,
+    "estimated_tokens": 444
+  },
+  {
+    "source_file": "student_handbook.md",
+    "document_title": "University Academic Regulations & Student Handbook (August 2026)",
+    "section": "Academic Regulations & Policies (Part 1)",
+    "course_codes": [],
+    "keywords": [
+      "handbook",
+      "regulations",
+      "credits",
+      "probation",
+      "retake",
+      "attendance",
+      "cgpa"
+    ],
+    "text": "[Student Handbook > Academic Regulations & Policies]\n<!-- Page 4 -->\n \n \n \n \n \nIV \n \n \n \n \n \n \n \n \nV \n \n \n \n \n \nVI \n \n \n \n \n \n \n \n \n \nVII \n \n \n \nVIII \n \n \n \n \n \n \n \n \n \n \n \nCode of Conduct\n1 Introduction……………………………………………………………………… 43\n2 Unique VU Experience………………………………………………………… 43\n3 Attributes of a Vidyashilp Graduate……………………………………… ..43\n4 VU Student Code of Conduct………………………………………………… 44\n5 Failure to Comply with the Code of Conduct…………………………… ..46\nGuidelines on Banning Ragging and Anti-Ragging Measures\n1 Introduction……………………………………………………………………… .49\n2 Definition of Ragging……………………………………………………………. 49\n3 Prohibition of Ragging……………………………………………………………50\n4 Punishment for Ragging…………………………………………………………50\n5 Anti Ragging Committee ……………………………………………… .……… 50\n6 Action Procedure………………………………………………………………… .52\n7 Anti Ragging Affidavit ………………………………………………………… ..52\nGuidelines on Prevention of Sexual Harassment\n1Introduction……………………………………………………………………… ..57\n2 Responsibility of the University……………………………………………… 58\n3 Constitution of ICC…………………………………………………………… ..58\n4 Role of ICC……………………………………………………………………… ..59\n5 How to Lodge a Complaint…………………………………………………… .59\n6 Process and Timeline of Conducting an Inquiry………………………… .59\n7 Action against Offenders……………………………………………………… .60\n8 Action against False or Frivolous Complaints…………………………… .60\nOmbudsperson\n1 Introduction………………………………………………………………………63\nProcedure to Submit an Application……………………………………………63\nDress Code\n1 Value and Credit for Higher Learning, Personal Excellence and\nProfessionalism…………………………………………………………………… ..67\n2 Smart Casual Attire……………………………………………………………… 67\n3 Hygiene, Grooming and Appearance………………………………………… 67\n4 Representations of the University Externally………………………………68\n5 Internship………………………………………………………………………… .68\n6 Interviews………………………………………………………………………… ..68\n7 Formal Gathering at the University……………………………………… .…68\n8 Informal Events……………………………………………………………… ..…68\n9 Compliance and Enforcement………………………………………………… 68",
+    "chunk_id": "chunk_0124",
+    "char_count": 1971,
+    "estimated_tokens": 493
+  },
+  {
+    "source_file": "student_handbook.md",
+    "document_title": "University Academic Regulations & Student Handbook (August 2026)",
+    "section": "Academic Regulations & Policies",
+    "course_codes": [],
+    "keywords": [
+      "handbook",
+      "regulations",
+      "credits",
+      "probation",
+      "retake",
+      "attendance",
+      "cgpa",
+      "scholarship"
+    ],
+    "text": "[Student Handbook > Academic Regulations & Policies]\n<!-- Page 5 -->\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nIX \n \n \n \n \n \n \nX  \nXI  \n \n \nXII  \nMalpractice in Examination Hall\n1 List of Categories of Offence………………………………………………… .71\n2 Description of Implications……………………………………………………72\nKnowledge Resource Centre [KRC]………………………………………75\nSports Policy…………………………………………………………………….\n1 Objective……………………………………………………………………79\n2 Scope ……………………………………………………………………….79\n3 Sports Program and activities …………………………………………80\n4 Facilities ……………………………………………………………………81\n5 Code of Conduct ………………………………………………………….81\n6 Support and Development………………………………………………81\n7 Health Safety ……………………………………………………………..82\n8 Contact Information …………………………………………………….82\n9 Conclusions………………………………………………………………..82\nImportant Contact Numbers ……………………………………………. 83",
+    "chunk_id": "chunk_0125",
+    "char_count": 804,
+    "estimated_tokens": 201
+  },
+  {
+    "source_file": "student_handbook.md",
+    "document_title": "University Academic Regulations & Student Handbook (August 2026)",
+    "section": "Academic Regulations & Policies",
+    "course_codes": [],
+    "keywords": [
+      "handbook",
+      "regulations",
+      "credits",
+      "probation",
+      "retake",
+      "attendance",
+      "cgpa",
+      "scholarship"
+    ],
+    "text": "[Student Handbook > Academic Regulations & Policies]\n<!-- Page 7 -->\n \n \n \n \nSECTION - I \n \n \n \n \n \n \n \n \nPREAMBLE, SHORT TITLE, \nCOMMENCEMENT AND APPLICATION",
+    "chunk_id": "chunk_0126",
+    "char_count": 158,
+    "estimated_tokens": 40
+  },
+  {
+    "source_file": "student_handbook.md",
+    "document_title": "University Academic Regulations & Student Handbook (August 2026)",
+    "section": "Academic Regulations & Policies (Part 1)",
+    "course_codes": [],
+    "keywords": [
+      "handbook",
+      "regulations",
+      "credits",
+      "probation",
+      "retake",
+      "attendance",
+      "cgpa"
+    ],
+    "text": "[Student Handbook > Academic Regulations & Policies]\n<!-- Page 9 -->\n \nABOUT UNIVERSITY \n \nVidyashilp University is the culmination of an outstanding legacy of the Vidyashilp \nEducation Group, committed to excellence in education. Vidyashilp University aims to \nfoster an environment and culture of collaboration, responsiveness, high performance and \nservice. We are people-centred and have a strongly desire to provide a unique Vidyashilp \nExperience to our students and staff, focused on nurturing students who will become self-\naware, confident, empathetic and resourceful leaders who will serve society to the best of \ntheir abilities. \n \nThe VU Experience fosters a climate for collaboration between individuals and groups from \ndiverse cultures and backgrounds. VU creates a diverse, inclusive community and \nenvironment where VU faculty, staff, students and parents, and alumni feel connected to \none another by a common sense of purpose, pride, and spirit, and develop a distinctive \nability to work, learn, lead and serve in diverse contexts. \n \nVU’s primary educational goal is the cultivation of deep domain knowledge within each \nstudent’s chosen field. We believe that investing in all domains of our differentiated focus \nareas is essential to create intellectual capital to drive progress and achieve excellence. At \nVU, our schools don’t function in silos but rather with an interdisciplinary dependence. \nWe focus on a problem -solving approach and provide program choices across all four \nschools with a curriculum established in Data Science, Digital Business, Design Studies, \nLegal Studies and Liberal Arts. \n \nVISION, MISSION AND CORE VALUES \nOUR VISION \nWe aspire to provide meaningful, collective learning experiences that result in \nconscientious leadership for a progressive, yet sustainable society. \nOUR MISSION \nx\u0003 We inspire people locally, nationally and globally by extending access to Vidyashilp \nUniversity’s innovative teaching and resources through inclusive and flexible \nopportunities to study and research. \nx\u0003 To develop human values and human potential to its fullest extent so that \nintellectually capable and imaginatively gifted leaders can emerge in a range of \nprofessions. \n1",
+    "chunk_id": "chunk_0127",
+    "char_count": 2223,
+    "estimated_tokens": 556
+  },
+  {
+    "source_file": "student_handbook.md",
+    "document_title": "University Academic Regulations & Student Handbook (August 2026)",
+    "section": "Academic Regulations & Policies (Part 1)",
+    "course_codes": [],
+    "keywords": [
+      "handbook",
+      "regulations",
+      "credits",
+      "probation",
+      "retake",
+      "attendance",
+      "cgpa"
+    ],
+    "text": "[Student Handbook > Academic Regulations & Policies]\n<!-- Page 10 -->\n \nOUR VALUES \nINTEGRITY – We embrace integrity as a central value in all aspects of personal and \nprofessional engagement – including learning, teaching, governance and service – to instil \na culture of trust and accountability. \n \n \nACADEMIC FREEDOM – We affirm the principles of academic freedom for both students \nand teachers, their rights and responsibilities to advance knowledge through research and \ncreativity, and to educate students to develop their own independence of mind. \n \nDIVERSITY, EQUITY AND INCLUSION  – We assert that diversity and interplay of \ndifferences is essential to educational excellence and to enrich the individual and collective \nlearning experiences. \nShort Title, Commencement and Application \n \na.\u0003 These Regulations shall be called Academic Regulations. \nb.\u0003 They shall come into force with immediate effect.  \nc.\u0003 The Academic Regulations are applicable to all existing Degree and Diploma \nPrograms of the University. Any amendments made therein, shall also be applicable \nto new Degree and Diploma Programs that may be offered by the University in the \nfuture. \n \nd.\u0003 Specific aspects of the Regulations pertaining to a particular Degree Program are \ngiven separately along with the concerned Program Regulations.  \n \ne.\u0003 These Regulations may evolve and get amended or modified or changed through \nappropriate approvals from the Academic Council, from time to time, and shall be \nbinding on all concerned. \n \nf.\u0003 Additional Regulations, if any, prescribed by the Regulatory / Statutory Bodies for \na particular Degree Program shall be included in the concerned Program \nRegulations.     \nDefinitions \n \nIn these Regulations, unless the context otherwise requires:  \na)\u0003 “Academic Calendar” means the schedule of academic and miscellaneous events as \napproved by the Academic Council; \nb)\u0003 “Academic Council” means the Academic Council of the University; \nc)\u0003 “Academic Regulations” means the Academic Regulations of the University; \nd)\u0003 “Academic Term” means a Semester or Summer Term; \ne)\u0003 “Act” means the Vidyashilp University Act, 2020; \nf)\u0003 “Board of Governors” means the Board of Governors of University as specified by \nthe Act; \n2",
+    "chunk_id": "chunk_0128",
+    "char_count": 2248,
+    "estimated_tokens": 562
+  },
+  {
+    "source_file": "student_handbook.md",
+    "document_title": "University Academic Regulations & Student Handbook (August 2026)",
+    "section": "Academic Regulations & Policies (Part 1)",
+    "course_codes": [],
+    "keywords": [
+      "handbook",
+      "regulations",
+      "credits",
+      "probation",
+      "retake",
+      "attendance",
+      "cgpa"
+    ],
+    "text": "[Student Handbook > Academic Regulations & Policies]\n<!-- Page 11 -->\n \ng)\u0003 “Board of Management” means the Board of Management of University as \nspecified by the Act; \nh)\u0003 “BoS” means the Board of Studies of a particular School / Department / Program \nof the University; \ni)\u0003 “Clause” means duly numbered Clauses of these Regulations; \nj)\u0003 “Course” means, a specific subject usually identified by its Course  number and \nCourse title, with specified credits and a Course Plan, taught by some \nteacher(s)/Course-instructor(s) to a specific class (group of students) during a \nspecific academic term/semester; \nk)\u0003 “Course Instructor” means, the teacher/faculty member or the Course instructor \nof a Course; \nl)\u0003 “Dean” means the Dean of School / Centre of the University; \nm)\u0003“Degree Program” includes all Degree Programs; \nn)\u0003 “Program Chair” means the Program Chair / Head of the Department / School \nwithin the University; \no)\u0003 “PAC” means, the Program Academic Committee of a concerned Program of Study \nof the University;  \np)\u0003 “Program Regulations” means the Program Regulations governing a specific Degree \nProgram offered by the University, and includes the set of Program -Specific \nRegulations, Program Structure and Curriculum; \nq)\u0003 “Program Structure and Curriculum” means the components of the Program \nCurriculum, Courses with Credits and the mandatory minimum credits to be \nearned in each component for the award of the degree; \nr)\u0003 “Registrar” means the Registrar of the University; \ns)\u0003 “Registrar (Evaluation)” means the Registrar (Evaluation) of the University; \nt)\u0003 “School/Department” means a constituent School / Department / Centre of the \nUniversity established for monitoring, supervising and guiding, teaching, training \nand research activities in broadly related fields of studies; \n \nu)\u0003 “Section” means duly numbered Sections of these Regulations; \n \nv)\u0003 “Statutes” means the Statues of Vidyashilp University; \n \nw)\u0003 “Sub-Clause” means duly numbered Sub-Clauses of these Regulations; \n \nx)\u0003 \"Summer Term” means an additional academic term conducted during the summer \nbreak (typically in June-July) for a duration of about eight (08) calendar weeks; \n \ny)\u0003 “University / VU” means Vidyashilp University; and \nz)\u0003 “Vice Chancellor” means the Vice Chancellor of the University. \n \n \n3",
+    "chunk_id": "chunk_0129",
+    "char_count": 2312,
+    "estimated_tokens": 578
+  },
+  {
+    "source_file": "student_handbook.md",
+    "document_title": "University Academic Regulations & Student Handbook (August 2026)",
+    "section": "Academic Regulations & Policies",
+    "course_codes": [],
+    "keywords": [
+      "handbook",
+      "regulations",
+      "credits",
+      "probation",
+      "retake",
+      "attendance",
+      "cgpa",
+      "scholarship"
+    ],
+    "text": "[Student Handbook > Academic Regulations & Policies]\n<!-- Page 13 -->\n \n \n \nSECTION - II \n \n \n \n \n \n \n \n \n \nADMISSION RULES, FEE POLICY, AND \nSCHOLARSHIP POLICY  \n5",
+    "chunk_id": "chunk_0130",
+    "char_count": 164,
+    "estimated_tokens": 41
+  },
+  {
+    "source_file": "student_handbook.md",
+    "document_title": "University Academic Regulations & Student Handbook (August 2026)",
+    "section": "Academic Regulations & Policies (Part 1)",
+    "course_codes": [],
+    "keywords": [
+      "handbook",
+      "regulations",
+      "credits",
+      "probation",
+      "retake",
+      "attendance",
+      "cgpa"
+    ],
+    "text": "[Student Handbook > Academic Regulations & Policies]\n<!-- Page 15 -->\n \n   \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\u0003\n \n\u0003\n \n\u0003\n \n1 ADMISSION\nAdmission to the Universityshall be open to all persons irrespective of caste, class,\ncreed, gender, abilities, or nationality. All admissions shall be made on the basis\nof merit in the qualifying examinations and as per the rules and guidelines\nprescribed by the Government of Karnataka, other concerned regulatory bodies\nand the entrance examinations conducted by the University.\nThe students shall be admitted to a Program subject to fulfilment of eligibility\ncriteria, as prescribed by the University for the respective Program.\nA student admitted to a Program of study, shall continue to remain registered for\nsuch a Program, till they successfully complete the Program or withdraw from the\nProgram in accordance with the concerned Program Regulations.\nEvery student duly admitted to the University for a Program after compliance with\nprescribed formalities and payment of prescribed fees as applicable and other\namounts and submission of prescribed documents and certificates shall be allotted\na University Enrolment Number OR UEN.\nIf a student fails to pay the University Fee, or fails to produce all the mandatory\ndocuments and certificates required for admission to the University before the\nprescribed last date, the Provisional Offer of Admission to the student shall stand\nwithdrawn.\nIf a student desires to join the University on the basis of Lateral Entry or Transfer\nof Credits from other Institutes/Universities during the Program, they shall be\nexamined for eligibility for admission as per the procedure and criteria laid down\nin the Academic Regulations of the University and the concerned Program\nRegulations, and admission shall be dependent on their eligibility so determined.\nConfirmation of admission and enrolment in the University is subject to fulfilment\nof the eligibility criteria.\n2 FEE POLICY\na. The University fee consists of components such as Tuition Fee, Security Deposit\n(Refundable), Examination Fee, Convocation Fee and such other components as may\nbe prescribed by the Board of Management from time to time.\nb. Every program of the University has a prescribed University Fee. Further the Fee\nStructure and the payment schedule for the entire duration of the concerned program\nis announced by way of notification before the commencement of each academic year.\nc. The Tuition Fee always means the Annual Tuition Fee for an academic year for a\nprogram. The Annual Tuition Fee does not include the expenses / charges for extra-\ncurricular activities, local / international educational trips and other value-added\nprograms that may be introduced from time to time.\n7",
+    "chunk_id": "chunk_0131",
+    "char_count": 2734,
+    "estimated_tokens": 684
+  },
+  {
+    "source_file": "student_handbook.md",
+    "document_title": "University Academic Regulations & Student Handbook (August 2026)",
+    "section": "Academic Regulations & Policies (Part 1)",
+    "course_codes": [],
+    "keywords": [
+      "handbook",
+      "regulations",
+      "credits",
+      "probation",
+      "retake",
+      "attendance",
+      "cgpa"
+    ],
+    "text": "[Student Handbook > Academic Regulations & Policies]\n<!-- Page 16 -->\n \nd.\u0003 The Security Deposit is a Refundable Security Deposit without any interest, subject \nto deduction of outstanding dues if any, after the student graduates from the program \nor discontinues from the program or for whatever the reason(s). \ne.\u0003 The Payment Schedule of the University Fee must be strictly adhered to, by all the \nstudents. Failure to comply shall result in the student not being eligible for \nregistration to the concerned academic year and late fee will be charged accordingly. \nFurther, the students are cautioned that this could lead to the loss of an academic \nyear. \nf.\u0003 Vidyashilp University shall not be obliged to send any reminders for payment of the \nUniversity Fee. If it is done, it is only in the interest of students and cannot be \ndemanded or referred to in the event of failure to pay the University Fee as per the \nspecified schedule. \ng.\u0003 The University Fee Structure is subject to change from time to time and shall be \nnotified by the University. The University’s decision regarding changes in fee structure \nis final and binding on all concerned. \n \n3\u0003 PAYMENT OF UNIVERSITY FEE \n \na.\u0003 For Students who seek admission directly in the University: \n \nStudents who seek admission directly for a specific program in the University shall be \nnotified of the prescribed University Fee and schedule of payment for first year and \nsubsequent years in the Provisional Admission Letter. Failure to remit the fee as per \nthe specified payment schedule or commencement of each academic year, shall result \nin the forfeiture of admission to the program and applicability of late fee accordingly \nas decided by the University time to time. \n \nb.\u0003 For General Students admitted through CET of Government of Karnataka: \n[i] The Fee Structure (Engineering Fee Structure for CET Fee) for students \nadmitted through CET shall be as notified by the Karnataka Examinations \nAuthority (KEA).  First year’s tuition fee shall be remitted to the CET -KEA at \nthe time of counselling / seat selection.  \n[ii]  On reporting to the University for confirmation of admission to the concerned \nprogram, the student shall also remit “other fees” as notified by the University \nfrom time to time.  \n[iii]   Subsequent years’ tuition and other fee s shall be remitted directly to the \nUniversity on or before the notified last date. Failure to remit “other fee s” \nnotified by the university, shall result in the forfeiture of admission to the \nprogram and charge of the late fee as may be prescribed. \nc.\u0003 For category (SC/ST/others as specified by KEA) students admitted through CET of \nGovernment of Karnataka: \n8",
+    "chunk_id": "chunk_0132",
+    "char_count": 2691,
+    "estimated_tokens": 673
+  },
+  {
+    "source_file": "student_handbook.md",
+    "document_title": "University Academic Regulations & Student Handbook (August 2026)",
+    "section": "Academic Regulations & Policies (Part 1)",
+    "course_codes": [],
+    "keywords": [
+      "handbook",
+      "regulations",
+      "credits",
+      "probation",
+      "retake",
+      "attendance",
+      "cgpa"
+    ],
+    "text": "[Student Handbook > Academic Regulations & Policies]\n<!-- Page 17 -->\n \n[i]        The Fee Structure (Engineering Fee Structure for CET Fee) for students admitted \nthrough CET shall be as notified by the Karnataka Examinations Authority \n(KEA).   \n[ii]     On reporting to the University for confirmation of admission to the concerned \nprogram, the student shall remit “other fees” as notified by the University. \n[iii]   Further, such student(s) shall compulsorily require to apply for/renew the \nScholarship as notified by the Government of Karnataka.  Upon receipt of \nscholarship from the Government of Karnataka, such Student(s) shall promptly \nremit the scholarship amount towards the fee to the University within five (05) \nworking days on receipt of the scholarship from the Government of Karnataka.   \nIt is the sole responsibility of the student(s) to comply with the norms for payment of Fee \nwithin the stipulated time. Failure to pay the University Fee / scholarship amount as per \nthe specified schedule shall result in (i) the student being declared inel igible for \nregistration to the term end exams, which could result in loss of an academic year; (ii) levy \nlate fee for late remittance(s); (iii) in case of SC/ST/OBC students, a Report will be sent to \nthe Government of Karnataka about non -remittance of scholarship amount to the \nUniversity towards the fee and misuse of the same. \n \n4     PAYMENT PROCEDURE \n \na.\u0003 All fee payments should necessarily be made online only using the login credentials \nof the fee portal as instructed by the University from time to time. \nb.\u0003 The Fee is payable in INR only \nc.\u0003 The University will not accept Cash, DD and Cheque. \nd.\u0003 The digital receipt will be generated by the online system subject to realization of \npayments. \ne.\u0003 All statutory taxes / government levies, convenience charges and bank charges \npertaining to inward remittance of any fee, if any, shall be borne by the payer. \nf.\u0003 The University shall not be responsible for any fee amount returned to the payer \n(Student) without being credited to Vidyashilp University bank account. In such \ncases, late fee as may be prescribed shall be applicable till the date of receipt of the \nfee by Vidyashilp University. \ng.\u0003 It shall be the sole responsibility of the student to ensure that the fee payment \nprocess is completed within the specified time. \nIn case a student is required to repeat/re -register for an Academic Year, the Annual Fee \npayable by her/him shall correspond to the Academic Year to be repeated, and shall be \nas per the Fee Policy in force at that point of time. \nThe policies relating to the University Fee and Deposits, where applicable, are the \nprerogative of Vidyashilp University and may be revised by the University from time to \ntime. Such changes shall be binding on all concerned. \n9",
+    "chunk_id": "chunk_0133",
+    "char_count": 2838,
+    "estimated_tokens": 710
+  },
+  {
+    "source_file": "student_handbook.md",
+    "document_title": "University Academic Regulations & Student Handbook (August 2026)",
+    "section": "Academic Regulations & Policies (Part 1)",
+    "course_codes": [],
+    "keywords": [
+      "handbook",
+      "regulations",
+      "credits",
+      "probation",
+      "retake",
+      "attendance",
+      "cgpa"
+    ],
+    "text": "[Student Handbook > Academic Regulations & Policies]\n<!-- Page 18 -->\n \n \n5   FEE CONCESSION AND SCHOLARSHIP POLICY \nIntroduction: \nVidyashilp University is committed for providing the best education opportunities to \nmotivated students. The University has established various categories of scholarships to \nencourage and enable students to pursue education at Vidyashilp University.  \nScholarships are provided to reward and support meritorious and talented students, who \nhave demonstrated exceptional performance in academics, sports and co-curricular \nactivities. The University is particularly committed to enabling meritorious students with \nfinancial constraints, differently abled students and achievers at the state and national \nlevels, through appropriate scholarships.  \n5.1\u0003 Categories of Scholarships \n \nTo cater to the different needs and circumstances of meritorious students, the University \noffers four (04) categories of Scholarships. \n \n \n5.1.1\u0003 Merit-based Scholarship at the time of Admission \n \nMerit scholarships are awarded to students with outstanding academic \nperformance. This scholarship is awarded at the time of admission to the 1 st year \nof a program.  \n \nTwo (02) sub-categories of Merit Scholarships are offered:  \n \n5.1.2\u0003 Outstanding achievement in State / National / International Level Entrance \nExaminations: \n \nThis Scholarship is awarded based on the performance in the State / National / \nInternational Level Entrance Examinations specified for a particular program.  \n \n5.1.3\u0003 Meritorious Performance in the Qualifying Examination: \n \nThe Scholarship is awarded based on the performance in the Qualifying \nExaminations (State / National / International Boards).  The details of the extent \nof scholarship and the corresponding eligibility criteria are as per the scholarship \npolicy and subject to approval by the Scholarship Committee. \n \n5.2 Enabling Scholarship \n \nThe University is committed to ensure that a meritorious student is not hindered \nfrom pursuing education at Vidyashilp due to financial constraints.  \n \nThree (03) sub-categories of enabling scholarships are offered: \n \n \n \n10",
+    "chunk_id": "chunk_0134",
+    "char_count": 2140,
+    "estimated_tokens": 535
+  },
+  {
+    "source_file": "student_handbook.md",
+    "document_title": "University Academic Regulations & Student Handbook (August 2026)",
+    "section": "Academic Regulations & Policies (Part 1)",
+    "course_codes": [],
+    "keywords": [
+      "handbook",
+      "regulations",
+      "credits",
+      "probation",
+      "retake",
+      "attendance",
+      "cgpa"
+    ],
+    "text": "[Student Handbook > Academic Regulations & Policies]\n<!-- Page 19 -->\n \n \n5.2.1\u0003 Low Income Based Scholarship  \n \nThis scholarship is offered to enable meritorious students whose family income is \na constraint to meet the tuition fees of the program. \n \n5.2.2\u0003 Single Parent (Mother) Income Based Scholarship.  \n \nThis Scholarship is specifically offered to a student with Single  Parent (Mother)  \nhaving financial constraints to pursue education at Vidyashilp. \n \n5.2.3\u0003 Ex-Service Parent Income Based Scholarship \n \nThis scholarship is offered to a meritorious student whose parent (father/mother) \nis an ex-service personnel with financial constraints.  \n \nThe definition of ex-service is specific to commissioned/non-commissioned staff of \nthe Armed Forces and staff of the Central/State Police Services. \n \n5.2.4\u0003 The details of the extent of scholarship and the corresponding eligibility criteria are \nas per the scholarship policy and subject to approval by the Scholarship \nCommittee. \n \n5.3  Encouragement Scholarship \n \nThis scholarship is awarded to recognize and encourage students who have excelled in \nvarious sports / culture / fine arts/ s ciences and have participated / been awarded at \nState/ National / International levels.  \n \nThe University is also committed to encourage differently -abled students to pursue \neducation at Vidyashilp University.  \n \nTwo (02) sub-categories of Encouragement Scholarships are offered: \n \n5.3.1\u0003 Scholarship for Outstanding performance in the fields of Sports/Culture/Fine \nArts/Sciences. \n \n5.3.2\u0003 Scholarship for Differently-Abled. \n \n5.3.3 The details of the extent of scholarship and the corresponding eligibility criteria are \nas per the scholarship policy  and subject to approval by the Scholarship \nCommittee. \n \n \n5.4\u0003 Academic Performance Scholarship (During the Program) \nTo reward and motivate excellence in overall academic performance, scholarships are \nawarded to the selected outstanding students during the program i.e., from 2nd Year \nonwards. The details of the extent of scholarship and the corresponding eligibility criteria \nare as per the scholarship policy and subject to approval by the Scholarship Committee. \n \n11",
+    "chunk_id": "chunk_0135",
+    "char_count": 2196,
+    "estimated_tokens": 549
+  },
+  {
+    "source_file": "student_handbook.md",
+    "document_title": "University Academic Regulations & Student Handbook (August 2026)",
+    "section": "Academic Regulations & Policies",
+    "course_codes": [],
+    "keywords": [
+      "handbook",
+      "regulations",
+      "credits",
+      "probation",
+      "retake",
+      "attendance",
+      "cgpa",
+      "scholarship"
+    ],
+    "text": "[Student Handbook > Academic Regulations & Policies]\n<!-- Page 20 -->\n \n \n5.5\u0003 General Terms and Conditions \n \na)\u0003 All types of Scholarships shall be applicable only on the Tuition Fee for the \nconcerned academic year. \nb)\u0003 A student shall be eligible for only one scholarship in a given academic year. \nc)\u0003 All types of Scholarships shall be valid only for the concerned academic year.  \nd)\u0003 Renewal of any type of scholarship is not automatic and shall be governed by the \nterms and criteria as mentioned in this policy. \ne)\u0003 The number of Scholarships to be awarded under each type and sub -category for \nthe concerned academic year shall be solely decided by the Board of Management \non the recommendation of the University Scholarship Committee. \nf)\u0003 A student who has been selected for a scholarship shall provide a joint (with \nparent) undertaking.  \n \nThe scholarship shall be terminated and the scholarship amount shall be returned to the \nUniversity, in case of the following violations; \n \ni)\u0003 Any information provided in the scholarship application form is found to be \nuntrue or fraudulent;  \nii)\u0003 Found guilty and penalized under any disciplinary action; \niii)\u0003Withdraws/discontinues studies at the University (The withdrawal process shall \nnot be completed unless the scholarship amount is fully returned). \n \nFurther, such a student shall not be eli",
+    "chunk_id": "chunk_0136",
+    "char_count": 1365,
+    "estimated_tokens": 341
+  },
+  {
+    "source_file": "university_faq_dataset.md",
+    "document_title": "Vidyashilp University Comprehensive Q&A Dataset",
+    "section": "General University FAQs",
+    "course_codes": [],
+    "keywords": [
+      "faq",
+      "university",
+      "general university faqs",
+      "policy",
+      "regulations"
+    ],
+    "text": "[FAQ > General University FAQs]\n# Vidyashilp University Comprehensive Q&A Dataset\n\n\n\n## A. University & General Information\n\n### Q1: What is the full name of the University?\n\n   Answer: Vidyashilp University.\n\n### Q2: What is the main educational goal of Vidyashilp University?\n\n   Answer: To cultivate deep domain knowledge in each student's chosen field.",
+    "chunk_id": "chunk_0137",
+    "char_count": 356,
+    "estimated_tokens": 89
+  },
+  {
+    "source_file": "university_faq_dataset.md",
+    "document_title": "Vidyashilp University Comprehensive Q&A Dataset",
+    "section": "General University FAQs",
+    "course_codes": [],
+    "keywords": [
+      "faq",
+      "university",
+      "general university faqs",
+      "policy",
+      "regulations"
+    ],
+    "text": "[FAQ > General University FAQs]\n### Q3: What does the VU Experience aim to foster?\n\n   Answer: Collaboration, diversity, inclusion, leadership, learning and service.\n\n### Q4: What are the major areas of curriculum mentioned by the University?\n\n   Answer: Data Science, Digital Business, Design Studies, Legal Studies and Liberal Arts.\n\n### Q5: What is the vision of Vidyashilp University?\n\n   Answer: To provide meaningful, collective learning experiences that result in conscientious leadership for a progressive and sustainable society.",
+    "chunk_id": "chunk_0138",
+    "char_count": 538,
+    "estimated_tokens": 134
+  },
+  {
+    "source_file": "university_faq_dataset.md",
+    "document_title": "Vidyashilp University Comprehensive Q&A Dataset",
+    "section": "General University FAQs",
+    "course_codes": [],
+    "keywords": [
+      "faq",
+      "university",
+      "general university faqs",
+      "policy",
+      "regulations"
+    ],
+    "text": "[FAQ > General University FAQs]\n### Q6: What is the mission of Vidyashilp University?\n\n   Answer: To provide inclusive and flexible opportunities for study and research and develop human values and potential.\n\n### Q7: What is Integrity as a core value?\n\n   Answer: A commitment to integrity in personal and professional engagement to build trust and accountability.\n\n### Q8: What is Academic Freedom?\n\n   Answer: The freedom of students and teachers to advance knowledge through research and creativity.",
+    "chunk_id": "chunk_0139",
+    "char_count": 503,
+    "estimated_tokens": 126
+  },
+  {
+    "source_file": "university_faq_dataset.md",
+    "document_title": "Vidyashilp University Comprehensive Q&A Dataset",
+    "section": "General University FAQs",
+    "course_codes": [],
+    "keywords": [
+      "faq",
+      "university",
+      "general university faqs",
+      "policy",
+      "regulations"
+    ],
+    "text": "[FAQ > General University FAQs]\n### Q9: What does Diversity, Equity and Inclusion emphasize?\n\n   Answer: Diversity and differences as essential to educational excellence and learning.\n\n### Q10: What is the purpose of the Academic Regulations?\n\n    Answer: To establish the academic rules and regulations governing University programs.\n\n### Q11: To which programs are the Academic Regulations applicable?\n\n    Answer: All existing Degree and Diploma Programs of the University.",
+    "chunk_id": "chunk_0140",
+    "char_count": 476,
+    "estimated_tokens": 119
+  },
+  {
+    "source_file": "university_faq_dataset.md",
+    "document_title": "Vidyashilp University Comprehensive Q&A Dataset",
+    "section": "General University FAQs",
+    "course_codes": [],
+    "keywords": [
+      "faq",
+      "university",
+      "general university faqs",
+      "policy",
+      "regulations"
+    ],
+    "text": "[FAQ > General University FAQs]\n### Q12: Who can amend or modify the Academic Regulations?\n\n    Answer: They may be amended through appropriate approvals from the Academic Council.\n\n### Q13: What is an Academic Calendar?\n\n    Answer: The schedule of academic and miscellaneous events approved by the Academic Council.\n\n### Q14: What is an Academic Term?\n\n    Answer: A Semester or Summer Term.",
+    "chunk_id": "chunk_0141",
+    "char_count": 393,
+    "estimated_tokens": 98
+  },
+  {
+    "source_file": "university_faq_dataset.md",
+    "document_title": "Vidyashilp University Comprehensive Q&A Dataset",
+    "section": "General University FAQs",
+    "course_codes": [],
+    "keywords": [
+      "faq",
+      "university",
+      "general university faqs",
+      "policy",
+      "regulations"
+    ],
+    "text": "[FAQ > General University FAQs]\n### Q15: What is meant by a Course?\n\n    Answer: A specific subject identified by a course number/title, credits and course plan.\n\n### Q16: Who is a Course Instructor?\n\n    Answer: The teacher or faculty member responsible for a course.\n\n### Q17: What does BoS stand for?\n\n    Answer: Board of Studies.",
+    "chunk_id": "chunk_0142",
+    "char_count": 334,
+    "estimated_tokens": 84
+  },
+  {
+    "source_file": "university_faq_dataset.md",
+    "document_title": "Vidyashilp University Comprehensive Q&A Dataset",
+    "section": "General University FAQs",
+    "course_codes": [],
+    "keywords": [
+      "faq",
+      "university",
+      "general university faqs",
+      "policy",
+      "regulations"
+    ],
+    "text": "[FAQ > General University FAQs]\n### Q18: What does PAC stand for?\n\n    Answer: Program Academic Committee.\n\n### Q19: What is a Program Structure and Curriculum?\n\n    Answer: The program components, courses, credits and minimum credits required for a degree.\n\n### Q20: What is a Summer Term?\n\n    Answer: An additional academic term conducted during the summer break, typically June–July, for about eight weeks.     4._Student_Handbook_Aug_2026\n\n\n## B. Admission & Enrolment",
+    "chunk_id": "chunk_0143",
+    "char_count": 473,
+    "estimated_tokens": 118
+  },
+  {
+    "source_file": "university_faq_dataset.md",
+    "document_title": "Vidyashilp University Comprehensive Q&A Dataset",
+    "section": "General University FAQs",
+    "course_codes": [],
+    "keywords": [
+      "faq",
+      "university",
+      "general university faqs",
+      "policy",
+      "regulations"
+    ],
+    "text": "[FAQ > General University FAQs]\n### Q21: Who can seek admission to Vidyashilp University?\n\n    Answer: Persons irrespective of caste, class, creed, gender, abilities or nationality.\n\n### Q22: On what basis are admissions made?\n\n    Answer: Merit in qualifying examinations, applicable rules and entrance examinations.\n\n### Q23: What is required for admission to a particular program?\n\n    Answer: Fulfilment of the eligibility criteria prescribed by the University.",
+    "chunk_id": "chunk_0144",
+    "char_count": 465,
+    "estimated_tokens": 116
+  },
+  {
+    "source_file": "university_faq_dataset.md",
+    "document_title": "Vidyashilp University Comprehensive Q&A Dataset",
+    "section": "General University FAQs",
+    "course_codes": [],
+    "keywords": [
+      "faq",
+      "university",
+      "general university faqs",
+      "policy",
+      "regulations"
+    ],
+    "text": "[FAQ > General University FAQs]\n### Q24: What happens after a student is admitted to a program?\n\n    Answer: The student remains registered until completing or withdrawing from the program.\n\n### Q25: What is a University Enrolment Number?\n\n    Answer: A unique University Enrolment Number (UEN) allotted to an admitted student.\n\n### Q26: When is a UEN allotted?\n\n    Answer: After completing prescribed formalities, paying fees and submitting required documents.",
+    "chunk_id": "chunk_0145",
+    "char_count": 462,
+    "estimated_tokens": 116
+  },
+  {
+    "source_file": "university_faq_dataset.md",
+    "document_title": "Vidyashilp University Comprehensive Q&A Dataset",
+    "section": "General University FAQs",
+    "course_codes": [],
+    "keywords": [
+      "faq",
+      "university",
+      "general university faqs",
+      "policy",
+      "regulations"
+    ],
+    "text": "[FAQ > General University FAQs]\n### Q27: What happens if a student fails to pay the University Fee?\n\n    Answer: The provisional offer of admission may be withdrawn.\n\n### Q28: What happens if mandatory documents are not submitted on time?\n\n    Answer: The provisional offer of admission may be withdrawn.\n\n### Q29: What is lateral entry?\n\n    Answer: Admission to a program through an approved entry route during the program.",
+    "chunk_id": "chunk_0146",
+    "char_count": 425,
+    "estimated_tokens": 106
+  },
+  {
+    "source_file": "university_faq_dataset.md",
+    "document_title": "Vidyashilp University Comprehensive Q&A Dataset",
+    "section": "General University FAQs",
+    "course_codes": [],
+    "keywords": [
+      "faq",
+      "university",
+      "general university faqs",
+      "policy",
+      "regulations"
+    ],
+    "text": "[FAQ > General University FAQs]\n### Q30: What is transfer of credits?\n\n    Answer: Transfer of eligible academic credits from another institute or university.\n\n### Q31: Who determines eligibility for lateral entry or credit transfer?\n\n    Answer: The University according to its Academic and Program Regulations.\n\n### Q32: What is required for confirmation of admission?\n\n    Answer: Fulfilment of the prescribed eligibility criteria.",
+    "chunk_id": "chunk_0147",
+    "char_count": 434,
+    "estimated_tokens": 108
+  },
+  {
+    "source_file": "university_faq_dataset.md",
+    "document_title": "Vidyashilp University Comprehensive Q&A Dataset",
+    "section": "General University FAQs",
+    "course_codes": [],
+    "keywords": [
+      "faq",
+      "university",
+      "general university faqs",
+      "policy",
+      "regulations"
+    ],
+    "text": "[FAQ > General University FAQs]\n### Q33: What happens to provisional admission if requirements are not fulfilled?\n\n    Answer: The provisional admission may be withdrawn.     4._Student_Handbook_Aug_2026\n\n\n## C. Fees & Payment\n\n### Q34: What are the components of the University Fee?\n\n    Answer: Tuition Fee, Refundable Security Deposit, Examination Fee, Convocation Fee and other prescribed components.\n\n### Q35: What is a Security Deposit?\n\n    Answer: A refundable deposit subject to applicable deductions.",
+    "chunk_id": "chunk_0148",
+    "char_count": 510,
+    "estimated_tokens": 128
+  },
+  {
+    "source_file": "university_faq_dataset.md",
+    "document_title": "Vidyashilp University Comprehensive Q&A Dataset",
+    "section": "General University FAQs",
+    "course_codes": [],
+    "keywords": [
+      "faq",
+      "university",
+      "general university faqs",
+      "policy",
+      "regulations"
+    ],
+    "text": "[FAQ > General University FAQs]\n### Q36: Is the Security Deposit refundable?\n\n    Answer: Yes.\n\n### Q37: Does the Security Deposit carry interest?\n\n    Answer: No.\n\n### Q38: What does Annual Tuition Fee mean?\n\n    Answer: The tuition fee payable for an academic year.",
+    "chunk_id": "chunk_0149",
+    "char_count": 267,
+    "estimated_tokens": 67
+  },
+  {
+    "source_file": "university_faq_dataset.md",
+    "document_title": "Vidyashilp University Comprehensive Q&A Dataset",
+    "section": "General University FAQs",
+    "course_codes": [],
+    "keywords": [
+      "faq",
+      "university",
+      "general university faqs",
+      "policy",
+      "regulations"
+    ],
+    "text": "[FAQ > General University FAQs]\n### Q39: What expenses are not included in Annual Tuition Fee?\n\n    Answer: Extracurricular activities, local/international educational trips and other value-added programs.\n\n### Q40: What happens if the University Fee is not paid according to the schedule?\n\n    Answer: The student may become ineligible for registration and may be charged a late fee.\n\n### Q41: Can failure to pay fees result in loss of an academic year?\n\n    Answer: Yes.",
+    "chunk_id": "chunk_0150",
+    "char_count": 472,
+    "estimated_tokens": 118
+  },
+  {
+    "source_file": "university_faq_dataset.md",
+    "document_title": "Vidyashilp University Comprehensive Q&A Dataset",
+    "section": "General University FAQs",
+    "course_codes": [],
+    "keywords": [
+      "faq",
+      "university",
+      "general university faqs",
+      "policy",
+      "regulations"
+    ],
+    "text": "[FAQ > General University FAQs]\n### Q42: Does the University have to send reminders for fee payment?\n\n    Answer: No.\n\n### Q43: Can the University Fee Structure be changed?\n\n    Answer: Yes.\n\n### Q44: Who decides changes in the University Fee Structure?\n\n    Answer: The University, with the prescribed approval process.",
+    "chunk_id": "chunk_0151",
+    "char_count": 320,
+    "estimated_tokens": 80
+  },
+  {
+    "source_file": "university_faq_dataset.md",
+    "document_title": "Vidyashilp University Comprehensive Q&A Dataset",
+    "section": "General University FAQs",
+    "course_codes": [],
+    "keywords": [
+      "faq",
+      "university",
+      "general university faqs",
+      "policy",
+      "regulations"
+    ],
+    "text": "[FAQ > General University FAQs]\n### Q45: How should University Fee payments be made?\n\n    Answer: Online through the University fee portal.\n\n### Q46: In which currency is the University Fee payable?\n\n    Answer: Indian Rupees (INR).\n\n### Q47: Does the University accept cash payments?\n\n    Answer: No.",
+    "chunk_id": "chunk_0152",
+    "char_count": 301,
+    "estimated_tokens": 75
+  },
+  {
+    "source_file": "university_faq_dataset.md",
+    "document_title": "Vidyashilp University Comprehensive Q&A Dataset",
+    "section": "General University FAQs",
+    "course_codes": [],
+    "keywords": [
+      "faq",
+      "university",
+      "general university faqs",
+      "policy",
+      "regulations"
+    ],
+    "text": "[FAQ > General University FAQs]\n### Q48: Does the University accept payment through cheque?\n\n    Answer: No.\n\n### Q49: Does the University accept Demand Drafts?\n\n    Answer: No.\n\n### Q50: When is a digital fee receipt generated?\n\n    Answer: After realization of the online payment.",
+    "chunk_id": "chunk_0153",
+    "char_count": 282,
+    "estimated_tokens": 70
+  },
+  {
+    "source_file": "university_faq_dataset.md",
+    "document_title": "Vidyashilp University Comprehensive Q&A Dataset",
+    "section": "General University FAQs",
+    "course_codes": [],
+    "keywords": [
+      "faq",
+      "university",
+      "general university faqs",
+      "policy",
+      "regulations"
+    ],
+    "text": "[FAQ > General University FAQs]\n### Q51: Who bears applicable bank and convenience charges?\n\n    Answer: The payer.\n\n### Q52: What happens if a fee payment is returned without being credited to the University?\n\n    Answer: Late fee may apply until the University receives the fee.\n\n### Q53: Who is responsible for completing the fee payment process on time?\n\n    Answer: The student.",
+    "chunk_id": "chunk_0154",
+    "char_count": 383,
+    "estimated_tokens": 96
+  },
+  {
+    "source_file": "university_faq_dataset.md",
+    "document_title": "Vidyashilp University Comprehensive Q&A Dataset",
+    "section": "General University FAQs",
+    "course_codes": [],
+    "keywords": [
+      "faq",
+      "university",
+      "general university faqs",
+      "policy",
+      "regulations"
+    ],
+    "text": "[FAQ > General University FAQs]\n### Q54: What fee applies when a student repeats an academic year?\n\n    Answer: The fee applicable to the academic year being repeated.     4._Student_Handbook_Aug_2026\n\n\n## D. Scholarships\n\n### Q55: Why does Vidyashilp University provide scholarships?\n\n    Answer: To reward and support meritorious and talented students.\n\n### Q56: How many broad categories of scholarships are offered?\n\n    Answer: Four categories.",
+    "chunk_id": "chunk_0155",
+    "char_count": 449,
+    "estimated_tokens": 112
+  },
+  {
+    "source_file": "university_faq_dataset.md",
+    "document_title": "Vidyashilp University Comprehensive Q&A Dataset",
+    "section": "General University FAQs",
+    "course_codes": [],
+    "keywords": [
+      "faq",
+      "university",
+      "general university faqs",
+      "policy",
+      "regulations"
+    ],
+    "text": "[FAQ > General University FAQs]\n### Q57: What is a Merit-based Scholarship?\n\n    Answer: A scholarship awarded for outstanding academic performance at admission.\n\n### Q58: When is the Merit-based Scholarship awarded?\n\n    Answer: At the time of admission to the first year.\n\n### Q59: What are the two sub-categories of Merit Scholarships?\n\n    Answer: Outstanding achievement in entrance examinations and meritorious performance in qualifying examinations.",
+    "chunk_id": "chunk_0156",
+    "char_count": 456,
+    "estimated_tokens": 114
+  },
+  {
+    "source_file": "university_faq_dataset.md",
+    "document_title": "Vidyashilp University Comprehensive Q&A Dataset",
+    "section": "General University FAQs",
+    "course_codes": [],
+    "keywords": [
+      "faq",
+      "university",
+      "general university faqs",
+      "policy",
+      "regulations"
+    ],
+    "text": "[FAQ > General University FAQs]\n### Q60: What is the scholarship for outstanding performance in entrance examinations?\n\n    Answer: A scholarship based on performance in specified State/National/International entrance examinations.\n\n### Q61: What is the Meritorious Performance in Qualifying Examination scholarship?\n\n    Answer: A scholarship based on performance in qualifying examinations.\n\n### Q62: What is an Enabling Scholarship?\n\n    Answer: A scholarship intended to help meritorious students facing financial constraints.",
+    "chunk_id": "chunk_0157",
+    "char_count": 530,
+    "estimated_tokens": 132
+  },
+  {
+    "source_file": "university_faq_dataset.md",
+    "document_title": "Vidyashilp University Comprehensive Q&A Dataset",
+    "section": "General University FAQs",
+    "course_codes": [],
+    "keywords": [
+      "faq",
+      "university",
+      "general university faqs",
+      "policy",
+      "regulations"
+    ],
+    "text": "[FAQ > General University FAQs]\n### Q63: What is a Low Income Based Scholarship?\n\n    Answer: A scholarship for meritorious students whose family income is a constraint to paying tuition fees.\n\n### Q64: What is a Single Parent (Mother) Income Based Scholarship?\n\n    Answer: A scholarship for students with a single mother facing financial constraints.\n\n### Q65: What is an Ex-Service Parent Income Based Scholarship?\n\n    Answer: A scholarship for meritorious students whose parent is an ex-service personnel and has financial constraints.",
+    "chunk_id": "chunk_0158",
+    "char_count": 540,
+    "estimated_tokens": 135
+  },
+  {
+    "source_file": "university_faq_dataset.md",
+    "document_title": "Vidyashilp University Comprehensive Q&A Dataset",
+    "section": "General University FAQs",
+    "course_codes": [],
+    "keywords": [
+      "faq",
+      "university",
+      "general university faqs",
+      "policy",
+      "regulations"
+    ],
+    "text": "[FAQ > General University FAQs]\n### Q66: What is an Encouragement Scholarship?\n\n    Answer: A scholarship recognizing excellence in sports, culture, fine arts or sciences.\n\n### Q67: What areas are covered under the Encouragement Scholarship?\n\n    Answer: Sports, culture, fine arts and sciences.\n\n### Q68: What is the Scholarship for Differently-Abled students?\n\n    Answer: An encouragement scholarship for differently-abled students.",
+    "chunk_id": "chunk_0159",
+    "char_count": 435,
+    "estimated_tokens": 109
+  },
+  {
+    "source_file": "university_faq_dataset.md",
+    "document_title": "Vidyashilp University Comprehensive Q&A Dataset",
+    "section": "General University FAQs",
+    "course_codes": [],
+    "keywords": [
+      "faq",
+      "university",
+      "general university faqs",
+      "policy",
+      "regulations"
+    ],
+    "text": "[FAQ > General University FAQs]\n### Q69: What is an Academic Performance Scholarship?\n\n    Answer: A scholarship awarded for outstanding academic performance during the program.\n\n### Q70: From which year onwards can Academic Performance Scholarships be awarded?\n\n    Answer: From the second year onwards.\n\n### Q71: Can a student receive more than one scholarship in an academic year?\n\n    Answer: No. A student is eligible for only one scholarship.",
+    "chunk_id": "chunk_0160",
+    "char_count": 448,
+    "estimated_tokens": 112
+  },
+  {
+    "source_file": "university_faq_dataset.md",
+    "document_title": "Vidyashilp University Comprehensive Q&A Dataset",
+    "section": "General University FAQs",
+    "course_codes": [],
+    "keywords": [
+      "faq",
+      "university",
+      "general university faqs",
+      "policy",
+      "regulations"
+    ],
+    "text": "[FAQ > General University FAQs]\n### Q72: Is scholarship renewal automatic?\n\n    Answer: No.\n\n### Q73: What happens if false information is provided in a scholarship application?\n\n    Answer: The scholarship may be terminated and the amount returned.\n\n### Q74: What happens if a scholarship recipient is penalized under disciplinary action?\n\n    Answer: The scholarship may be terminated and the amount returned.",
+    "chunk_id": "chunk_0161",
+    "char_count": 411,
+    "estimated_tokens": 103
+  },
+  {
+    "source_file": "university_faq_dataset.md",
+    "document_title": "Vidyashilp University Comprehensive Q&A Dataset",
+    "section": "General University FAQs",
+    "course_codes": [],
+    "keywords": [
+      "faq",
+      "university",
+      "general university faqs",
+      "policy",
+      "regulations"
+    ],
+    "text": "[FAQ > General University FAQs]\n### Q75: What happens to a scholarship if a student withdraws from the University?\n\n    Answer: The scholarship amount must be returned.\n\n### Q76: Who approves the final scholarship award?\n\n    Answer: The Vice Chancellor.\n\n### Q77: Who scrutinizes scholarship applications?\n\n    Answer: The University Scholarship Committee.",
+    "chunk_id": "chunk_0162",
+    "char_count": 357,
+    "estimated_tokens": 89
+  },
+  {
+    "source_file": "university_faq_dataset.md",
+    "document_title": "Vidyashilp University Comprehensive Q&A Dataset",
+    "section": "General University FAQs",
+    "course_codes": [],
+    "keywords": [
+      "faq",
+      "university",
+      "general university faqs",
+      "policy",
+      "regulations"
+    ],
+    "text": "[FAQ > General University FAQs]\n### Q78: What type of undertaking is required from a scholarship recipient?\n\n    Answer: A joint undertaking with the parent.     4._Student_Handbook_Aug_2026\n\n\n## E. Course Registration\n\n### Q79: Who is eligible for course registration?\n\n    Answer: Students who have completed the required fee and documentation requirements.\n\n### Q80: What happens to students with pending fees or incomplete documentation?\n\n    Answer: They are not eligible for course registration and attendance will not be recorded.",
+    "chunk_id": "chunk_0163",
+    "char_count": 537,
+    "estimated_tokens": 134
+  },
+  {
+    "source_file": "university_faq_dataset.md",
+    "document_title": "Vidyashilp University Comprehensive Q&A Dataset",
+    "section": "General University FAQs",
+    "course_codes": [],
+    "keywords": [
+      "faq",
+      "university",
+      "general university faqs",
+      "policy",
+      "regulations"
+    ],
+    "text": "[FAQ > General University FAQs]\n### Q81: On which portal is course registration conducted?\n\n    Answer: Digii portal.\n\n### Q82: What must students do while registering their courses?\n\n    Answer: Select courses, verify credits and submit the registration form online.\n\n### Q83: Can a student attend classes without completing course registration?\n\n    Answer: No.",
+    "chunk_id": "chunk_0164",
+    "char_count": 363,
+    "estimated_tokens": 91
+  },
+  {
+    "source_file": "university_faq_dataset.md",
+    "document_title": "Vidyashilp University Comprehensive Q&A Dataset",
+    "section": "General University FAQs",
+    "course_codes": [],
+    "keywords": [
+      "faq",
+      "university",
+      "general university faqs",
+      "policy",
+      "regulations"
+    ],
+    "text": "[FAQ > General University FAQs]\n### Q84: Who should students consult regarding course and credit selection?\n\n    Answer: Their Faculty Advisor/Mentor.\n\n### Q85: What is a Registration Card?\n\n    Answer: A document obtained after online registration that must be signed and submitted.\n\n### Q86: Who needs to sign the Registration Card?\n\n    Answer: The Faculty Advisor/Mentor and Program Chair.",
+    "chunk_id": "chunk_0165",
+    "char_count": 393,
+    "estimated_tokens": 98
+  },
+  {
+    "source_file": "university_faq_dataset.md",
+    "document_title": "Vidyashilp University Comprehensive Q&A Dataset",
+    "section": "General University FAQs",
+    "course_codes": [],
+    "keywords": [
+      "faq",
+      "university",
+      "general university faqs",
+      "policy",
+      "regulations"
+    ],
+    "text": "[FAQ > General University FAQs]\n### Q87: Where should the signed Registration Card be submitted?\n\n    Answer: To the concerned department.\n\n### Q88: Where can students check their cohort details?\n\n    Answer: On Digii.\n\n### Q89: Where can students check their daily attendance?\n\n    Answer: On Digii.",
+    "chunk_id": "chunk_0166",
+    "char_count": 300,
+    "estimated_tokens": 75
+  },
+  {
+    "source_file": "university_faq_dataset.md",
+    "document_title": "Vidyashilp University Comprehensive Q&A Dataset",
+    "section": "General University FAQs",
+    "course_codes": [],
+    "keywords": [
+      "faq",
+      "university",
+      "general university faqs",
+      "policy",
+      "regulations"
+    ],
+    "text": "[FAQ > General University FAQs]\n### Q90: Is attendance granted for classes missed because of late registration?\n\n    Answer: No.\n\n### Q91: What is the maximum permissible period for late registration?\n\n    Answer: One calendar week.\n\n### Q92: Are extensions normally granted for late registration?\n\n    Answer: No.",
+    "chunk_id": "chunk_0167",
+    "char_count": 314,
+    "estimated_tokens": 78
+  },
+  {
+    "source_file": "university_faq_dataset.md",
+    "document_title": "Vidyashilp University Comprehensive Q&A Dataset",
+    "section": "General University FAQs",
+    "course_codes": [],
+    "keywords": [
+      "faq",
+      "university",
+      "general university faqs",
+      "policy",
+      "regulations"
+    ],
+    "text": "[FAQ > General University FAQs]\n### Q93: Under what circumstances may late registration be permitted?\n\n    Answer: Medical exigencies such as hospitalization, trauma or contagious disease, and participation in competitions/events.\n\n### Q94: Who must approve exceptional late registration?\n\n    Answer: The concerned Program Chair/Dean.\n\n### Q95: What is the maximum period permitted for medical late registration?\n\n    Answer: Two calendar weeks.",
+    "chunk_id": "chunk_0168",
+    "char_count": 446,
+    "estimated_tokens": 112
+  },
+  {
+    "source_file": "university_faq_dataset.md",
+    "document_title": "Vidyashilp University Comprehensive Q&A Dataset",
+    "section": "General University FAQs",
+    "course_codes": [],
+    "keywords": [
+      "faq",
+      "university",
+      "general university faqs",
+      "policy",
+      "regulations"
+    ],
+    "text": "[FAQ > General University FAQs]\n### Q96: Within how many weeks can a student add or drop a course?\n\n    Answer: Within two weeks of commencement of classes.\n\n### Q97: Whom should a student consult before adding or dropping a course?\n\n    Answer: The concerned Faculty Advisor/Mentor.\n\n### Q98: What is an Audit Course?\n\n    Answer: A course registered for learning without earning credits.",
+    "chunk_id": "chunk_0169",
+    "char_count": 389,
+    "estimated_tokens": 97
+  },
+  {
+    "source_file": "university_faq_dataset.md",
+    "document_title": "Vidyashilp University Comprehensive Q&A Dataset",
+    "section": "General University FAQs",
+    "course_codes": [],
+    "keywords": [
+      "faq",
+      "university",
+      "general university faqs",
+      "policy",
+      "regulations"
+    ],
+    "text": "[FAQ > General University FAQs]\n### Q99: Who approves registration for an Audit Course?\n\n    Answer: The concerned Program Chair after required approvals.\n\n### Q100: Does a student earn credits for an Audited Course?\n\n     Answer: No.     SOP_STUDENT_17082026_-_Final     SOP_STUDENT_17082026_-_Final\n\n\n## F. Attendance\n\n### Q101: How can students check their course-wise attendance?\n\n     Answer: Through the Digii Portal.",
+    "chunk_id": "chunk_0170",
+    "char_count": 423,
+    "estimated_tokens": 106
+  },
+  {
+    "source_file": "university_faq_dataset.md",
+    "document_title": "Vidyashilp University Comprehensive Q&A Dataset",
+    "section": "General University FAQs",
+    "course_codes": [],
+    "keywords": [
+      "faq",
+      "university",
+      "general university faqs",
+      "policy",
+      "regulations"
+    ],
+    "text": "[FAQ > General University FAQs]\n### Q102: How frequently is attendance information available on Digii?\n\n     Answer: Daily.\n\n### Q103: How often is the attendance report shared with parents and students?\n\n     Answer: Twice per semester.\n\n### Q104: Which attendance record is considered final for the End-Term Examination?\n\n     Answer: The attendance recorded on Digii.",
+    "chunk_id": "chunk_0171",
+    "char_count": 370,
+    "estimated_tokens": 92
+  },
+  {
+    "source_file": "university_faq_dataset.md",
+    "document_title": "Vidyashilp University Comprehensive Q&A Dataset",
+    "section": "General University FAQs",
+    "course_codes": [],
+    "keywords": [
+      "faq",
+      "university",
+      "general university faqs",
+      "policy",
+      "regulations"
+    ],
+    "text": "[FAQ > General University FAQs]\n### Q105: What is the minimum attendance required to appear for the end-semester examination?\n\n     Answer: 75%.\n\n### Q106: What medical situations can qualify for attendance relaxation?\n\n     Answer: Hospitalization, trauma or contagious disease.\n\n### Q107: Where should a medical leave request be raised?\n\n     Answer: On the Digii Portal.",
+    "chunk_id": "chunk_0172",
+    "char_count": 373,
+    "estimated_tokens": 93
+  },
+  {
+    "source_file": "university_faq_dataset.md",
+    "document_title": "Vidyashilp University Comprehensive Q&A Dataset",
+    "section": "General University FAQs",
+    "course_codes": [],
+    "keywords": [
+      "faq",
+      "university",
+      "general university faqs",
+      "policy",
+      "regulations"
+    ],
+    "text": "[FAQ > General University FAQs]\n### Q108: What documents are required for medical leave?\n\n     Answer: The required medical documents/certificates.\n\n### Q109: When should the student submit the medical documents?\n\n     Answer: On the day of rejoining.\n\n### Q110: Is a medical certificate considered for individual classes or the entire day?\n\n     Answer: The entire day.",
+    "chunk_id": "chunk_0173",
+    "char_count": 370,
+    "estimated_tokens": 92
+  },
+  {
+    "source_file": "university_faq_dataset.md",
+    "document_title": "Vidyashilp University Comprehensive Q&A Dataset",
+    "section": "General University FAQs",
+    "course_codes": [],
+    "keywords": [
+      "faq",
+      "university",
+      "general university faqs",
+      "policy",
+      "regulations"
+    ],
+    "text": "[FAQ > General University FAQs]\n### Q111: What attendance relaxation is available under the special provision?\n\n     Answer: The minimum attendance can be 65%.\n\n### Q112: What documents must be produced to receive the special attendance provision?\n\n     Answer: Authentic certificates and relevant documents, including a fitness certificate in medical cases.\n\n### Q113: What happens if authentic certificates are not produced?\n\n     Answer: The student will not be eligible for the special provision.     SOP_STUDENT_17082026_-_Final     SOP_STUDENT_17082026_-_Final\n\n\n## G. Change of Program & Summer Term",
+    "chunk_id": "chunk_0174",
+    "char_count": 606,
+    "estimated_tokens": 152
+  },
+  {
+    "source_file": "university_faq_dataset.md",
+    "document_title": "Vidyashilp University Comprehensive Q&A Dataset",
+    "section": "General University FAQs",
+    "course_codes": [],
+    "keywords": [
+      "faq",
+      "university",
+      "general university faqs",
+      "policy",
+      "regulations"
+    ],
+    "text": "[FAQ > General University FAQs]\n### Q114: Until when can a student seek a change of program?\n\n     Answer: Before commencement of registration for the Second Year.\n\n### Q115: Who must approve a change of program?\n\n     Answer: The existing and new Program Chairs.\n\n### Q116: What document must accompany the request for change of program?\n\n     Answer: A request letter signed by the parents.",
+    "chunk_id": "chunk_0175",
+    "char_count": 392,
+    "estimated_tokens": 98
+  },
+  {
+    "source_file": "university_faq_dataset.md",
+    "document_title": "Vidyashilp University Comprehensive Q&A Dataset",
+    "section": "General University FAQs",
+    "course_codes": [],
+    "keywords": [
+      "faq",
+      "university",
+      "general university faqs",
+      "policy",
+      "regulations"
+    ],
+    "text": "[FAQ > General University FAQs]\n### Q117: Which committee reviews program change and credit transfer?\n\n     Answer: The Credit Transfer Equivalence Committee.\n\n### Q118: Can a student change programs after the stipulated period?\n\n     Answer: No.\n\n### Q119: What is the Summer Term?\n\n     Answer: An additional academic term that may be offered during the summer break.",
+    "chunk_id": "chunk_0176",
+    "char_count": 369,
+    "estimated_tokens": 92
+  },
+  {
+    "source_file": "university_faq_dataset.md",
+    "document_title": "Vidyashilp University Comprehensive Q&A Dataset",
+    "section": "General University FAQs",
+    "course_codes": [],
+    "keywords": [
+      "faq",
+      "university",
+      "general university faqs",
+      "policy",
+      "regulations"
+    ],
+    "text": "[FAQ > General University FAQs]\n### Q120: During which months may the Summer Term be offered?\n\n     Answer: June–July.\n\n### Q121: Can a student demand that a particular course be offered in the Summer Term?\n\n     Answer: No.\n\n### Q122: Can students re-register for courses during the Summer Term?\n\n     Answer: Yes, if the course is offered and the prescribed requirements are completed.",
+    "chunk_id": "chunk_0177",
+    "char_count": 387,
+    "estimated_tokens": 97
+  },
+  {
+    "source_file": "university_faq_dataset.md",
+    "document_title": "Vidyashilp University Comprehensive Q&A Dataset",
+    "section": "General University FAQs",
+    "course_codes": [],
+    "keywords": [
+      "faq",
+      "university",
+      "general university faqs",
+      "policy",
+      "regulations"
+    ],
+    "text": "[FAQ > General University FAQs]\n### Q123: Is late registration permitted for the Summer Term?\n\n     Answer: No.     SOP_STUDENT_17082026_-_Final\n\n\n## H. University Annual Fee & Digii\n\n### Q124: What must a student pay to become eligible for course registration every semester?\n\n     Answer: The prescribed Annual University Fee and any other dues.\n\n### Q125: Can students with outstanding fees appear for the semester-end examination?\n\n     Answer: No.",
+    "chunk_id": "chunk_0178",
+    "char_count": 452,
+    "estimated_tokens": 113
+  },
+  {
+    "source_file": "university_faq_dataset.md",
+    "document_title": "Vidyashilp University Comprehensive Q&A Dataset",
+    "section": "General University FAQs",
+    "course_codes": [],
+    "keywords": [
+      "faq",
+      "university",
+      "general university faqs",
+      "policy",
+      "regulations"
+    ],
+    "text": "[FAQ > General University FAQs]\n### Q126: What is Digii?\n\n     Answer: A software platform for managing various academic functions.\n\n### Q127: What credentials are provided to students for Digii?\n\n     Answer: Digii User ID and Password.\n\n### Q128: What academic services are available through Digii?\n\n     Answer: Course registration, cohort/batch details, attendance records, Bonafide Certificate requests, examination details and medical leave.",
+    "chunk_id": "chunk_0179",
+    "char_count": 447,
+    "estimated_tokens": 112
+  },
+  {
+    "source_file": "university_faq_dataset.md",
+    "document_title": "Vidyashilp University Comprehensive Q&A Dataset",
+    "section": "General University FAQs",
+    "course_codes": [],
+    "keywords": [
+      "faq",
+      "university",
+      "general university faqs",
+      "policy",
+      "regulations"
+    ],
+    "text": "[FAQ > General University FAQs]\n### Q129: Whom should students contact for Digii-related issues?\n\n     Answer: Office of the Registrar.\n\n### Q130: How can a student request a Bonafide Certificate?\n\n     Answer: Through Digii – Campus Help Centre.\n\n### Q131: What information should be included for an internship Bonafide request?\n\n     Answer: Company name, internship duration, start date, end date and other relevant details.",
+    "chunk_id": "chunk_0180",
+    "char_count": 427,
+    "estimated_tokens": 107
+  },
+  {
+    "source_file": "university_faq_dataset.md",
+    "document_title": "Vidyashilp University Comprehensive Q&A Dataset",
+    "section": "General University FAQs",
+    "course_codes": [],
+    "keywords": [
+      "faq",
+      "university",
+      "general university faqs",
+      "policy",
+      "regulations"
+    ],
+    "text": "[FAQ > General University FAQs]\n### Q132: Who should be kept in the email loop for internship approval?\n\n     Answer: Office of the Registrar.\n\n### Q133: What is the expected time for issuing a Bonafide Certificate?\n\n     Answer: Within 24 hours.     SOP_STUDENT_17082026_-_Final\n\n\n## I. Scholarship & Grievance\n\n### Q134: Whom should students contact for scholarship support or information?\n\n     Answer: Office of the Registrar.",
+    "chunk_id": "chunk_0181",
+    "char_count": 430,
+    "estimated_tokens": 108
+  },
+  {
+    "source_file": "university_faq_dataset.md",
+    "document_title": "Vidyashilp University Comprehensive Q&A Dataset",
+    "section": "General University FAQs",
+    "course_codes": [],
+    "keywords": [
+      "faq",
+      "university",
+      "general university faqs",
+      "policy",
+      "regulations"
+    ],
+    "text": "[FAQ > General University FAQs]\n### Q135: How can students submit a grievance?\n\n     Answer: Online.\n\n### Q136: What email ID is provided for student grievances?\n\n     Answer: studentgrievance@vidyashilp.edu.in.\n\n### Q137: Where can students submit the official grievance form?\n\n     Answer: Through the University's official Student Grievance form.",
+    "chunk_id": "chunk_0182",
+    "char_count": 349,
+    "estimated_tokens": 87
+  },
+  {
+    "source_file": "university_faq_dataset.md",
+    "document_title": "Vidyashilp University Comprehensive Q&A Dataset",
+    "section": "General University FAQs",
+    "course_codes": [],
+    "keywords": [
+      "faq",
+      "university",
+      "general university faqs",
+      "policy",
+      "regulations"
+    ],
+    "text": "[FAQ > General University FAQs]\n### Q138: Is wearing an ID Card compulsory on campus?\n\n     Answer: Yes.\n\n### Q139: How should students use classroom and laboratory equipment?\n\n     Answer: Responsibly.\n\n### Q140: Where should students eat meals on campus?\n\n     Answer: In designated spaces, especially the cafeteria.",
+    "chunk_id": "chunk_0183",
+    "char_count": 318,
+    "estimated_tokens": 80
+  },
+  {
+    "source_file": "university_faq_dataset.md",
+    "document_title": "Vidyashilp University Comprehensive Q&A Dataset",
+    "section": "General University FAQs",
+    "course_codes": [],
+    "keywords": [
+      "faq",
+      "university",
+      "general university faqs",
+      "policy",
+      "regulations"
+    ],
+    "text": "[FAQ > General University FAQs]\n### Q141: Is eating in classrooms and laboratories permitted?\n\n     Answer: No.\n\n### Q142: What is the permitted use of University Wi-Fi?\n\n     Answer: Academic use only.\n\n### Q143: Is video streaming permitted using University Wi-Fi?\n\n     Answer: No.",
+    "chunk_id": "chunk_0184",
+    "char_count": 284,
+    "estimated_tokens": 71
+  },
+  {
+    "source_file": "university_faq_dataset.md",
+    "document_title": "Vidyashilp University Comprehensive Q&A Dataset",
+    "section": "General University FAQs",
+    "course_codes": [],
+    "keywords": [
+      "faq",
+      "university",
+      "general university faqs",
+      "policy",
+      "regulations"
+    ],
+    "text": "[FAQ > General University FAQs]\n### Q144: What are the University's rules regarding littering?\n\n     Answer: Students must not litter.\n\n### Q145: What is the purpose of CCTV monitoring on campus?\n\n     Answer: To monitor compliance and violations.\n\n### Q146: Whom are the sofas at reception intended for?\n\n     Answer: Guests.",
+    "chunk_id": "chunk_0185",
+    "char_count": 326,
+    "estimated_tokens": 82
+  },
+  {
+    "source_file": "university_faq_dataset.md",
+    "document_title": "Vidyashilp University Comprehensive Q&A Dataset",
+    "section": "General University FAQs",
+    "course_codes": [],
+    "keywords": [
+      "faq",
+      "university",
+      "general university faqs",
+      "policy",
+      "regulations"
+    ],
+    "text": "[FAQ > General University FAQs]\n### Q147: Where can students use alternative seating?\n\n     Answer: Lawn or cafeteria.\n\n### Q148: Where should students go if they are unwell?\n\n     Answer: Infirmary.     SOP_STUDENT_17082026_-_Final\n\n\n## J. Vehicle & Parking Rules\n\n### Q149: Are vehicles allowed beyond the designated parking point?\n\n     Answer: No.",
+    "chunk_id": "chunk_0186",
+    "char_count": 351,
+    "estimated_tokens": 88
+  },
+  {
+    "source_file": "university_faq_dataset.md",
+    "document_title": "Vidyashilp University Comprehensive Q&A Dataset",
+    "section": "General University FAQs",
+    "course_codes": [],
+    "keywords": [
+      "faq",
+      "university",
+      "general university faqs",
+      "policy",
+      "regulations"
+    ],
+    "text": "[FAQ > General University FAQs]\n### Q150: What are the exceptions to the vehicle-access restriction?\n\n     Answer: Emergencies involving medical issues or disability.\n\n### Q151: What is the speed limit for vehicles on campus?\n\n     Answer: 20 kmph.\n\n### Q152: Is triple riding permitted on two-wheelers?\n\n     Answer: No.",
+    "chunk_id": "chunk_0187",
+    "char_count": 321,
+    "estimated_tokens": 80
+  },
+  {
+    "source_file": "university_faq_dataset.md",
+    "document_title": "Vidyashilp University Comprehensive Q&A Dataset",
+    "section": "General University FAQs",
+    "course_codes": [],
+    "keywords": [
+      "faq",
+      "university",
+      "general university faqs",
+      "policy",
+      "regulations"
+    ],
+    "text": "[FAQ > General University FAQs]\n### Q153: Is wearing a helmet mandatory for two-wheeler riders?\n\n     Answer: Yes.\n\n### Q154: Which vehicles are allowed to drive till reception?\n\n     Answer: Vehicles driven by parents/guardians or authorized drivers.\n\n### Q155: What is the rule for student carpooling or bike pooling?\n\n     Answer: Vehicles must stop at the parking point.",
+    "chunk_id": "chunk_0188",
+    "char_count": 374,
+    "estimated_tokens": 94
+  },
+  {
+    "source_file": "university_faq_dataset.md",
+    "document_title": "Vidyashilp University Comprehensive Q&A Dataset",
+    "section": "General University FAQs",
+    "course_codes": [],
+    "keywords": [
+      "faq",
+      "university",
+      "general university faqs",
+      "policy",
+      "regulations"
+    ],
+    "text": "[FAQ > General University FAQs]\n### Q156: Can student vehicles drop students at reception?\n\n     Answer: No.\n\n### Q157: Where are vehicles allowed to park?\n\n     Answer: Only in designated parking areas.\n\n### Q158: Can vehicles be parked at reception?\n\n     Answer: No.",
+    "chunk_id": "chunk_0189",
+    "char_count": 269,
+    "estimated_tokens": 67
+  },
+  {
+    "source_file": "university_faq_dataset.md",
+    "document_title": "Vidyashilp University Comprehensive Q&A Dataset",
+    "section": "General University FAQs",
+    "course_codes": [],
+    "keywords": [
+      "faq",
+      "university",
+      "general university faqs",
+      "policy",
+      "regulations"
+    ],
+    "text": "[FAQ > General University FAQs]\n### Q159: Can vehicles be parked in front of the Design Studio?\n\n     Answer: No.\n\n### Q160: Why should students regularly check their University email?\n\n     Answer: To receive important University communications and circulars and avoid missing important information.     SOP_STUDENT_17082026_-_Final this are some questions on which i want to train the model.. so can you train the model according to this question and answers",
+    "chunk_id": "chunk_0190",
+    "char_count": 460,
+    "estimated_tokens": 115
+  }
+]

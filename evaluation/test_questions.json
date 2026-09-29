@@ -1,0 +1,252 @@
+[
+  {
+    "id": "T001",
+    "question": "Can I register for AI401 Advanced Machine Learning next semester?",
+    "student_id": "SYN-0001",
+    "category": "prerequisite_check",
+    "expected_outcome": "eligible",
+    "expected_source": "course_catalogue.md - AI401: Advanced Machine Learning & Deep Learning",
+    "ground_truth_reasoning": "Student SYN-0001 has completed CS201 (A-) and MATH201 (A). Meets prerequisites.",
+    "description": "Student meets all prerequisites for AI401."
+  },
+  {
+    "id": "T002",
+    "question": "Can I register for AI401 Advanced Machine Learning next semester?",
+    "student_id": "SYN-0002",
+    "category": "missing_prerequisite",
+    "expected_outcome": "not_eligible",
+    "expected_source": "course_catalogue.md - AI401: Advanced Machine Learning & Deep Learning",
+    "ground_truth_reasoning": "Student SYN-0002 has completed CS201 but is missing MATH201.",
+    "description": "Student is missing mandatory prerequisite MATH201."
+  },
+  {
+    "id": "T003",
+    "question": "Can I skip retaking CS201 and directly register for CS301 Advanced Algorithms?",
+    "student_id": "SYN-0003",
+    "category": "failed_course_retake",
+    "expected_outcome": "not_eligible",
+    "expected_source": "student_handbook.md - 2. Course Registration, Add/Drop & Retake Policy",
+    "ground_truth_reasoning": "Student failed CS201 with grade F. Core courses with grade F must be retaken before taking advanced courses requiring them.",
+    "description": "Failed prerequisite course blocks advanced course registration."
+  },
+  {
+    "id": "T004",
+    "question": "I am currently registered for 20 credits. Can I add DS490 Capstone (6 credits) for a total of 26 credits?",
+    "student_id": "SYN-0004",
+    "category": "credit_limit_exceeded",
+    "expected_outcome": "not_eligible",
+    "expected_source": "student_handbook.md - 1. Credit & Progression Requirements",
+    "ground_truth_reasoning": "Maximum normal semester load is 24 credits. Overloading to 26 credits is strictly disallowed.",
+    "description": "Exceeds 24-credit max limit."
+  },
+  {
+    "id": "T005",
+    "question": "Can I overload to 20 credits and register for an advanced elective next semester?",
+    "student_id": "SYN-0005",
+    "category": "academic_probation_restriction",
+    "expected_outcome": "not_eligible",
+    "expected_source": "student_handbook.md - 1. Credit & Progression Requirements",
+    "ground_truth_reasoning": "Student SYN-0005 is on Academic Probation (CGPA 4.8 / 10.0) and is strictly capped at a maximum of 18 credits.",
+    "description": "Academic probation limits semester registration to 18 credits."
+  },
+  {
+    "id": "T006",
+    "question": "Can I take CS305 Deep Learning Systems in Spring 2027?",
+    "student_id": "SYN-0006",
+    "category": "course_not_offered",
+    "expected_outcome": "not_eligible",
+    "expected_source": "semester_offering.md - Courses NOT Offered in Spring 2027",
+    "ground_truth_reasoning": "CS305 is only offered in Fall semesters; not offered in Spring 2027.",
+    "description": "Off-semester course check."
+  },
+  {
+    "id": "T007",
+    "question": "Can I take AI401 Advanced Machine Learning next semester?",
+    "student_id": null,
+    "category": "missing_info_trigger",
+    "expected_outcome": "should_ask_followup",
+    "expected_source": "course_catalogue.md - AI401: Advanced Machine Learning & Deep Learning",
+    "ground_truth_reasoning": "Without student transcript or completed courses, system must ask for clarification.",
+    "description": "Query lacks student profile; requires clarification."
+  },
+  {
+    "id": "T008",
+    "question": "Can I register for my courses for next semester right now?",
+    "student_id": "SYN-0010",
+    "category": "fee_clearance_violation",
+    "expected_outcome": "not_eligible",
+    "expected_source": "sop_current_semester.md - 1. Course Registration & Fee Eligibility",
+    "ground_truth_reasoning": "Student SYN-0010 has pending_fees (fee_cleared = false). SOP bars unregistered course enrollment until fees are paid.",
+    "description": "Administrative hold due to pending fee dues."
+  },
+  {
+    "id": "T009",
+    "question": "What is the exact dorm room assignment procedure and laundry machine fee?",
+    "student_id": "SYN-0001",
+    "category": "insufficient_documentation_info",
+    "expected_outcome": "insufficient_info",
+    "expected_source": "N/A (Out of Domain)",
+    "ground_truth_reasoning": "Dorm assignment and laundry fees are not present in academic handbooks. Must declare insufficient information.",
+    "description": "Out-of-domain query guardrail test."
+  },
+  {
+    "id": "T010",
+    "question": "What is the parking permit fee for motorbikes on campus?",
+    "student_id": "SYN-0001",
+    "category": "insufficient_documentation_info",
+    "expected_outcome": "insufficient_info",
+    "expected_source": "N/A (Out of Domain)",
+    "ground_truth_reasoning": "Parking permit fees are not documented in the academic regulations. Must declare insufficient information.",
+    "description": "Out-of-domain query guardrail test."
+  },
+  {
+    "id": "T011",
+    "question": "Can I get a refund for my cafeteria meal plan after week 4?",
+    "student_id": "SYN-0001",
+    "category": "insufficient_documentation_info",
+    "expected_outcome": "insufficient_info",
+    "expected_source": "N/A (Out of Domain)",
+    "ground_truth_reasoning": "Meal plan refund policies are auxiliary commercial services not in student academic regulations.",
+    "description": "Out-of-domain query guardrail test."
+  },
+  {
+    "id": "T012",
+    "question": "Can I graduate soon?",
+    "student_id": "SYN-0007",
+    "category": "ambiguous_question",
+    "expected_outcome": "should_ask_followup",
+    "expected_source": "student_handbook.md - 1. Credit & Progression Requirements",
+    "ground_truth_reasoning": "Query is ambiguous; requires checking remaining required credits against 160 credits total.",
+    "description": "Ambiguous query handling."
+  },
+  {
+    "id": "T013",
+    "question": "Can I register for DS301 Data Mining & Knowledge Discovery?",
+    "student_id": "SYN-0001",
+    "category": "prerequisite_check",
+    "expected_outcome": "eligible",
+    "expected_source": "course_catalogue.md - DS301: Data Mining & Knowledge Discovery",
+    "ground_truth_reasoning": "Prerequisites are CS201 and MATH201. Student SYN-0001 has cleared both.",
+    "description": "Prerequisite verification for DS301."
+  },
+  {
+    "id": "T014",
+    "question": "If I register for DS301 Data Mining, do I also need to register for DS301L Data Mining Lab?",
+    "student_id": "SYN-0001",
+    "category": "corequisite_check",
+    "expected_outcome": "general_regulation",
+    "expected_source": "course_catalogue.md - DS301: Data Mining & Knowledge Discovery",
+    "ground_truth_reasoning": "DS301L is a mandatory corequisite for DS301.",
+    "description": "Corequisite relationship check."
+  },
+  {
+    "id": "T015",
+    "question": "What happens if my attendance in a course drops to 60%?",
+    "student_id": "SYN-0001",
+    "category": "attendance_policy",
+    "expected_outcome": "general_regulation",
+    "expected_source": "student_handbook.md - 2. Course Registration, Add/Drop & Retake Policy",
+    "ground_truth_reasoning": "Attendance below 65% results in automatic course failure (grade F due to attendance shortage).",
+    "description": "Severe attendance shortage penalty."
+  },
+  {
+    "id": "T016",
+    "question": "Can I drop a course in Week 5 of the semester?",
+    "student_id": "SYN-0001",
+    "category": "add_drop_deadline",
+    "expected_outcome": "not_eligible",
+    "expected_source": "sop_current_semester.md - 2. Add/Drop Timeline & Approval Process",
+    "ground_truth_reasoning": "Add/Drop registration adjustment window closes strictly after 14 calendar days (Week 2). Requests in Week 5 are rejected.",
+    "description": "Add/Drop timeline constraint."
+  },
+  {
+    "id": "T017",
+    "question": "Can I declare a minor in Law while having a 2.05 GPA?",
+    "student_id": "SYN-0008",
+    "category": "minor_declaration",
+    "expected_outcome": "eligible",
+    "expected_source": "minor_courses.md - Sheet: Law Minor",
+    "ground_truth_reasoning": "Introductory Law Minor courses list prerequisites as NIL.",
+    "description": "Law minor entry requirement."
+  },
+  {
+    "id": "T018",
+    "question": "I have completed 154 credits. How many more credits do I need to graduate?",
+    "student_id": "SYN-0009",
+    "category": "graduation_credits",
+    "expected_outcome": "general_regulation",
+    "expected_source": "student_handbook.md - 1. Credit & Progression Requirements",
+    "ground_truth_reasoning": "Minimum 160 credits required for graduation. Student needs 6 more credits.",
+    "description": "Graduation total credits computation."
+  },
+  {
+    "id": "T019",
+    "question": "Can I take DS405 Quantum Computing for Data Science?",
+    "student_id": "SYN-0001",
+    "category": "special_permission_course",
+    "expected_outcome": "should_ask_followup",
+    "expected_source": "course_catalogue.md - DS405: Quantum Computing for Data Science",
+    "ground_truth_reasoning": "DS405 requires MATH201 AND Special Permission from Department Head.",
+    "description": "Special permission course prerequisite."
+  },
+  {
+    "id": "T020",
+    "question": "Can I register for DS490 Senior Capstone Project?",
+    "student_id": "SYN-0007",
+    "category": "capstone_eligibility",
+    "expected_outcome": "not_eligible",
+    "expected_source": "course_catalogue.md - DS490: Senior Data Science Capstone Project",
+    "ground_truth_reasoning": "DS490 requires minimum 100 credits, AI301, and CS202. SYN-0007 has 96 credits and has not cleared AI301.",
+    "description": "Capstone project credit and prerequisite threshold."
+  },
+  {
+    "id": "T021",
+    "question": "Am I allowed to register for CS201 Data Structures if I passed CS102 with an A-?",
+    "student_id": "SYN-0001",
+    "category": "prerequisite_check",
+    "expected_outcome": "eligible",
+    "expected_source": "course_catalogue.md - CS201: Data Structures & Algorithms",
+    "ground_truth_reasoning": "CS201 requires prerequisite CS102. Student passed with A-.",
+    "description": "CS201 prerequisite validation."
+  },
+  {
+    "id": "T022",
+    "question": "What is the minimum attendance required to appear for end-semester exams?",
+    "student_id": "SYN-0001",
+    "category": "attendance_policy",
+    "expected_outcome": "general_regulation",
+    "expected_source": "student_handbook.md - 2. Course Registration, Add/Drop & Retake Policy",
+    "ground_truth_reasoning": "Minimum 75% attendance is mandatory in each course.",
+    "description": "Exam attendance requirement."
+  },
+  {
+    "id": "T023",
+    "question": "Can I take 25 credits if my CGPA is 3.1?",
+    "student_id": "SYN-0007",
+    "category": "credit_limit_exceeded",
+    "expected_outcome": "not_eligible",
+    "expected_source": "student_handbook.md - 1. Credit & Progression Requirements",
+    "ground_truth_reasoning": "Maximum normal semester load is 24 credits. Overloading beyond 24 credits is prohibited.",
+    "description": "Credit overload restriction."
+  },
+  {
+    "id": "T024",
+    "question": "What is the maximum number of retake attempts allowed for a failed core course?",
+    "student_id": "SYN-0003",
+    "category": "failed_course_retake",
+    "expected_outcome": "general_regulation",
+    "expected_source": "student_handbook.md - 2. Course Registration, Add/Drop & Retake Policy",
+    "ground_truth_reasoning": "Maximum 2 retake attempts per course permitted.",
+    "description": "Core course retake limit."
+  },
+  {
+    "id": "T025",
+    "question": "Can I register for AI301 Artificial Intelligence Principles next semester?",
+    "student_id": "SYN-0001",
+    "category": "prerequisite_check",
+    "expected_outcome": "eligible",
+    "expected_source": "course_catalogue.md - AI301: Artificial Intelligence Principles",
+    "ground_truth_reasoning": "AI301 requires CS201 and MATH201. Student has completed both.",
+    "description": "AI301 prerequisite verification."
+  }
+]
