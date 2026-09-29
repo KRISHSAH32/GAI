@@ -1,0 +1,186 @@
+[
+  {
+    "student_id": "SYN-0001",
+    "name": "Khushi Sharma",
+    "programme": "BTech Data Science",
+    "credits_completed": 72,
+    "cgpa": 8.5,
+    "status": "good_standing",
+    "fee_cleared": true,
+    "completed_courses": [
+      {"code": "CS101", "title": "Introduction to Computer Science", "grade": "A"},
+      {"code": "CS102", "title": "Programming in Python", "grade": "A-"},
+      {"code": "MATH101", "title": "Linear Algebra & Calculus", "grade": "B+"},
+      {"code": "MATH201", "title": "Probability & Statistics", "grade": "A"},
+      {"code": "CS201", "title": "Data Structures & Algorithms", "grade": "A-"},
+      {"code": "DS101", "title": "Foundations of Data Science", "grade": "A"}
+    ],
+    "failed_courses": [],
+    "current_registered_credits": 16
+  },
+  {
+    "student_id": "SYN-0002",
+    "name": "Bharat Patel",
+    "programme": "BTech Data Science",
+    "credits_completed": 48,
+    "cgpa": 7.2,
+    "status": "good_standing",
+    "fee_cleared": true,
+    "completed_courses": [
+      {"code": "CS101", "title": "Introduction to Computer Science", "grade": "B"},
+      {"code": "CS102", "title": "Programming in Python", "grade": "B+"},
+      {"code": "MATH101", "title": "Linear Algebra & Calculus", "grade": "C+"},
+      {"code": "CS201", "title": "Data Structures & Algorithms", "grade": "B"}
+    ],
+    "failed_courses": [],
+    "current_registered_credits": 16,
+    "notes": "Missing MATH201 prerequisite required for AI401."
+  },
+  {
+    "student_id": "SYN-0003",
+    "name": "Aarav Kumar",
+    "programme": "BTech Computer Science",
+    "credits_completed": 52,
+    "cgpa": 6.0,
+    "status": "good_standing",
+    "fee_cleared": true,
+    "completed_courses": [
+      {"code": "CS101", "title": "Introduction to Computer Science", "grade": "B-"},
+      {"code": "CS102", "title": "Programming in Python", "grade": "C+"},
+      {"code": "MATH101", "title": "Linear Algebra & Calculus", "grade": "B"}
+    ],
+    "failed_courses": [
+      {"code": "CS201", "title": "Data Structures & Algorithms", "attempts": 1, "grade": "F"}
+    ],
+    "current_registered_credits": 16,
+    "notes": "Failed CS201. Must retake before taking CS301 or AI401."
+  },
+  {
+    "student_id": "SYN-0004",
+    "name": "Ananya Iyer",
+    "programme": "BTech Computer Science",
+    "credits_completed": 88,
+    "cgpa": 9.2,
+    "status": "good_standing",
+    "fee_cleared": true,
+    "completed_courses": [
+      {"code": "CS101", "title": "Introduction to Computer Science", "grade": "A"},
+      {"code": "CS102", "title": "Programming in Python", "grade": "A"},
+      {"code": "MATH101", "title": "Linear Algebra & Calculus", "grade": "A"},
+      {"code": "MATH201", "title": "Probability & Statistics", "grade": "A"},
+      {"code": "CS201", "title": "Data Structures & Algorithms", "grade": "A"},
+      {"code": "CS202", "title": "Database Management Systems", "grade": "A-"},
+      {"code": "AI301", "title": "Artificial Intelligence Principles", "grade": "A"}
+    ],
+    "failed_courses": [],
+    "current_registered_credits": 20,
+    "notes": "Currently registered for 20 credits. Wants to add DS490 (6 credits), total 26 credits (exceeds max 24 credit limit)."
+  },
+  {
+    "student_id": "SYN-0005",
+    "name": "Rohan Gupta",
+    "programme": "BTech Data Science",
+    "credits_completed": 40,
+    "cgpa": 4.8,
+    "status": "academic_probation",
+    "fee_cleared": true,
+    "completed_courses": [
+      {"code": "CS101", "title": "Introduction to Computer Science", "grade": "C"},
+      {"code": "CS102", "title": "Programming in Python", "grade": "D"},
+      {"code": "MATH101", "title": "Linear Algebra & Calculus", "grade": "C-"}
+    ],
+    "failed_courses": [],
+    "current_registered_credits": 14,
+    "notes": "On Academic Probation (CGPA < 5.0 out of 10.0 scale). Restricted to max 18 credits, no overloading allowed."
+  },
+  {
+    "student_id": "SYN-0006",
+    "name": "Diya Verma",
+    "programme": "BTech Computer Science",
+    "credits_completed": 80,
+    "cgpa": 8.8,
+    "status": "good_standing",
+    "fee_cleared": true,
+    "completed_courses": [
+      {"code": "CS101", "title": "Introduction to Computer Science", "grade": "A"},
+      {"code": "CS102", "title": "Programming in Python", "grade": "A"},
+      {"code": "CS201", "title": "Data Structures & Algorithms", "grade": "A-"},
+      {"code": "AI301", "title": "Artificial Intelligence Principles", "grade": "A"}
+    ],
+    "failed_courses": [],
+    "current_registered_credits": 16,
+    "notes": "Wants to take CS305 in Spring 2027, but CS305 is only offered in Fall semesters."
+  },
+  {
+    "student_id": "SYN-0007",
+    "name": "Ishaan Joshi",
+    "programme": "BTech Data Science",
+    "credits_completed": 96,
+    "cgpa": 7.8,
+    "status": "good_standing",
+    "fee_cleared": true,
+    "completed_courses": [
+      {"code": "CS101", "title": "Introduction to Computer Science", "grade": "B+"},
+      {"code": "CS102", "title": "Programming in Python", "grade": "A-"},
+      {"code": "MATH101", "title": "Linear Algebra & Calculus", "grade": "B"},
+      {"code": "CS202", "title": "Database Management Systems", "grade": "A"}
+    ],
+    "failed_courses": [],
+    "current_registered_credits": 16,
+    "notes": "Wants to register for Capstone DS490, but hasn't explicitly listed AI301 completion."
+  },
+  {
+    "student_id": "SYN-0008",
+    "name": "Priya Singh",
+    "programme": "BTech Computer Science",
+    "credits_completed": 60,
+    "cgpa": 5.2,
+    "status": "good_standing",
+    "fee_cleared": true,
+    "completed_courses": [
+      {"code": "CS101", "title": "Introduction to Computer Science", "grade": "C+"},
+      {"code": "CS102", "title": "Programming in Python", "grade": "C"},
+      {"code": "MATH101", "title": "Linear Algebra & Calculus", "grade": "C"}
+    ],
+    "failed_courses": [],
+    "current_registered_credits": 16,
+    "notes": "Borderline CGPA (5.2 / 10.0) asking about Law minor."
+  },
+  {
+    "student_id": "SYN-0009",
+    "name": "Vikram Malhotra",
+    "programme": "BTech Data Science",
+    "credits_completed": 154,
+    "cgpa": 8.2,
+    "status": "good_standing",
+    "fee_cleared": true,
+    "completed_courses": [
+      {"code": "CS101", "title": "Introduction to Computer Science", "grade": "A"},
+      {"code": "CS102", "title": "Programming in Python", "grade": "A"},
+      {"code": "MATH101", "title": "Linear Algebra & Calculus", "grade": "B+"},
+      {"code": "MATH201", "title": "Probability & Statistics", "grade": "A-"},
+      {"code": "CS201", "title": "Data Structures & Algorithms", "grade": "A"},
+      {"code": "AI301", "title": "Artificial Intelligence Principles", "grade": "A"}
+    ],
+    "failed_courses": [],
+    "current_registered_credits": 6,
+    "notes": "Needs 6 credits to reach 160 graduation requirement."
+  },
+  {
+    "student_id": "SYN-0010",
+    "name": "Kavya Nair",
+    "programme": "BTech Computer Science",
+    "credits_completed": 64,
+    "cgpa": 7.5,
+    "status": "pending_fees",
+    "fee_cleared": false,
+    "completed_courses": [
+      {"code": "CS101", "title": "Introduction to Computer Science", "grade": "B+"},
+      {"code": "CS102", "title": "Programming in Python", "grade": "B+"},
+      {"code": "CS201", "title": "Data Structures & Algorithms", "grade": "B"}
+    ],
+    "failed_courses": [],
+    "current_registered_credits": 0,
+    "notes": "Pending fee clearance. Ineligible for course registration until fees cleared per SOP."
+  }
+]
